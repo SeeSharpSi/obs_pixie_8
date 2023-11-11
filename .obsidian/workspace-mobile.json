@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "study_11-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quotes.md",
+            "file": "study_11-11-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quotes.md",
+            "file": "study_11-11-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quotes.md"
+            "file": "study_11-11-2023.md"
           }
         }
       },
@@ -162,9 +162,10 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
+    "Quotes.md",
+    "study_11-11-2023.md",
     "README.md",
     "ask_hope.md",
-    "Quotes.md",
     "retreat_11-4-2023.md",
     "bcm_11-7-2023.md",
     "retreat_11-3-2023.md",
