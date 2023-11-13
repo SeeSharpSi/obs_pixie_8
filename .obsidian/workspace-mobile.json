@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church_11-12-2023.md",
+                "file": "study-night_11-12-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#bibke",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -94,7 +94,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "church_11-12-2023.md",
+            "file": "study-night_11-12-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "church_11-12-2023.md",
+            "file": "study-night_11-12-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "church_11-12-2023.md"
+            "file": "study-night_11-12-2023.md"
           }
         }
       },
@@ -162,8 +162,9 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "study_11-11-2023.md",
     "church_11-12-2023.md",
+    "study-night_11-12-2023.md",
+    "study_11-11-2023.md",
     "Quotes.md",
     "README.md",
     "ask_hope.md",
