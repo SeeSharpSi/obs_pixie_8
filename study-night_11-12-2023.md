@@ -22,7 +22,7 @@
 * v. 4 ==seven== days
 * Through the spirit they urges him not to go (_Acts 20:22_), but the spirit told Paul to go
 	* Mitch: prepared him for Jerusalem
-	* John: delayed him for a reason (we don't know the reasons)
+	* Joseph: delayed him for a reason (we don't know the reasons)
 	* Benson's commentary: "the spirit" means the spirit of prophecy; they foresaw what would happen to Paul
 * 
 
@@ -65,3 +65,10 @@
 	* 2 Cor. 1:3-4; 4:7-12
 * "You don't walk away from Christianity and find answers," regarding the problem of evil
 * Ezekiel 4
+* ==Create write-up on the trinity, research it==
+* Research when the Holy Spirit is receive
+	* During baptism?
+	* At justification?
+	* Acts 8:15
+	* Acts 19
+	* 1 Peter 3:18-22
