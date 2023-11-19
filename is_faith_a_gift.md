@@ -1,7 +1,7 @@
-#bible #ephesians 
+#bible #ephesians #me
 
 # Ephesians 2
-See [[church_11-19-2023]]
+See [[sunday-school_11-19-2023]]
 
 ## 8
 * 

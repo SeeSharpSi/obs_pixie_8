@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "pictures"
+  "attachmentFolderPath": "pictures",
+  "alwaysUpdateLinks": true
 }
