@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church_11-19-2023.md",
+                "file": "church_11-26-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "church_11-19-2023.md",
+            "file": "church_11-26-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "church_11-19-2023.md",
+            "file": "church_11-26-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "church_11-19-2023.md"
+            "file": "church_11-26-2023.md"
           }
         }
       },
@@ -153,8 +153,11 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "img_outline.css.md",
+    "music_league.md",
+    "church_11-26-2023.md",
+    "movies.md",
     "church_11-19-2023.md",
+    "img_outline.css.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
@@ -184,7 +187,6 @@
     "sunday-school_10-29-2023.md",
     "Temp.md",
     "Prompts.md",
-    "bcm_10-24-2023.md",
-    "10-21-2023_bible-study.md"
+    "bcm_10-24-2023.md"
   ]
 }
