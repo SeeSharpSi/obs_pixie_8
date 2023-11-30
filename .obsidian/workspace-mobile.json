@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcm_11-29-2023.md",
+                "file": "Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "bcm_11-29-2023.md",
+            "file": "Final.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "bcm_11-29-2023.md",
+            "file": "Final.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "bcm_11-29-2023.md"
+            "file": "Final.md"
           }
         }
       },
@@ -153,8 +153,9 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "movies.md",
     "bcm_11-29-2023.md",
+    "Final.md",
+    "movies.md",
     "is_faith_a_gift.md",
     "church_11-5-2023.md",
     "church_11-12-2023.md",
@@ -186,7 +187,6 @@
     "bcm_11-7-2023.md",
     "retreat_11-3-2023.md",
     "study_11-5-2023.md",
-    "church_10-22-2023.md",
-    "Temp.md"
+    "church_10-22-2023.md"
   ]
 }
