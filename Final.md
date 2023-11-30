@@ -10,6 +10,11 @@
 * have to study, know definition
 * know theorems are important
 	* Especially invertible matrix theorem
+* final exam grade will not be in D2L
+
+
+Intro to logic sets and proofs
+Mikhal Lavrov
 # what
 * solve linear system of equations
 * will give set of column vectors. Need to tell if the vectors are lin. independent or lin. dependant. Tell if they're soan of R4 R3 Rn etc.
