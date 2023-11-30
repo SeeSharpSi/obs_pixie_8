@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bcm_11-28-2023.md",
+                "file": "bcm_11-29-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "bcm_11-28-2023.md",
+            "file": "bcm_11-29-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "bcm_11-28-2023.md",
+            "file": "bcm_11-29-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "bcm_11-28-2023.md"
+            "file": "bcm_11-29-2023.md"
           }
         }
       },
@@ -153,12 +153,16 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "sunday-school_10-29-2023.md",
+    "movies.md",
+    "bcm_11-29-2023.md",
+    "is_faith_a_gift.md",
+    "church_11-5-2023.md",
+    "church_11-12-2023.md",
     "bcm_11-28-2023.md",
+    "sunday-school_10-29-2023.md",
     "sunday-school_11-19-2023.md",
     "church_11-19-2023.md",
     "church_11-26-2023.md",
-    "movies.md",
     "music_league.md",
     "img_outline.css.md",
     "pictures/Screenshot_20231119-121330.png",
@@ -167,10 +171,7 @@
     "swe_todo.md",
     "to-do.md",
     "pictures/Screenshot_20231119-113609.png",
-    "church_11-12-2023.md",
-    "church_11-5-2023.md",
     "church_10-29-2023.md",
-    "is_faith_a_gift.md",
     "pictures/PXL_20231119_145447184~2.jpg",
     "PXL_20231104_172638680.jpg",
     "PXL_20231119_145447184~2.jpg",
@@ -186,7 +187,6 @@
     "retreat_11-3-2023.md",
     "study_11-5-2023.md",
     "church_10-22-2023.md",
-    "Temp.md",
-    "Prompts.md"
+    "Temp.md"
   ]
 }
