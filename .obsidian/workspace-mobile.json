@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "swe_todo.md",
+                "file": "it-term-proj.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sunday-school_12-3-2023.md",
+            "file": "it-term-proj.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sunday-school_12-3-2023.md",
+            "file": "it-term-proj.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sunday-school_12-3-2023.md"
+            "file": "it-term-proj.md"
           }
         }
       },
@@ -151,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c303bfe8119eb80",
+  "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "README.md",
+    "swe_todo.md",
+    "it-term-proj.md",
     "sunday-school_12-3-2023.md",
+    "README.md",
     "Prompts.md",
     "movies.md",
     "ask_hope.md",
@@ -176,7 +179,6 @@
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
-    "swe_todo.md",
     "pictures/Screenshot_20231119-113609.png",
     "church_10-29-2023.md",
     "pictures/PXL_20231119_145447184~2.jpg",
@@ -186,7 +188,6 @@
     "pictures",
     "study-night_11-12-2023.md",
     "study_11-11-2023.md",
-    "retreat_11-4-2023.md",
-    "bcm_11-7-2023.md"
+    "retreat_11-4-2023.md"
   ]
 }
