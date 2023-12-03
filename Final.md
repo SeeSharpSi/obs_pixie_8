@@ -15,6 +15,8 @@
 
 Intro to logic sets and proofs
 Mikhal Lavrov
+Calc 3 ez
+If I've taken discrete math email advisor about taking graph theory (and include that I've taken calc 1 and 2)
 # what
 * solve linear system of equations
 * will give set of column vectors. Need to tell if the vectors are lin. independent or lin. dependant. Tell if they're soan of R4 R3 Rn etc.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final.md",
+                "file": "sunday-school_12-3-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Final.md",
+            "file": "sunday-school_12-3-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Final.md",
+            "file": "sunday-school_12-3-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Final.md"
+            "file": "sunday-school_12-3-2023.md"
           }
         }
       },
@@ -153,9 +153,16 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "bcm_11-29-2023.md",
-    "Final.md",
+    "README.md",
+    "sunday-school_12-3-2023.md",
+    "Prompts.md",
     "movies.md",
+    "ask_hope.md",
+    "to-do.md",
+    "Temp.md",
+    "Quotes.md",
+    "Final.md",
+    "bcm_11-29-2023.md",
     "is_faith_a_gift.md",
     "church_11-5-2023.md",
     "church_11-12-2023.md",
@@ -170,7 +177,6 @@
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
     "swe_todo.md",
-    "to-do.md",
     "pictures/Screenshot_20231119-113609.png",
     "church_10-29-2023.md",
     "pictures/PXL_20231119_145447184~2.jpg",
@@ -178,15 +184,9 @@
     "PXL_20231119_145447184~2.jpg",
     "PXL_20231029_151955521.jpg",
     "pictures",
-    "Quotes.md",
     "study-night_11-12-2023.md",
     "study_11-11-2023.md",
-    "README.md",
-    "ask_hope.md",
     "retreat_11-4-2023.md",
-    "bcm_11-7-2023.md",
-    "retreat_11-3-2023.md",
-    "study_11-5-2023.md",
-    "church_10-22-2023.md"
+    "bcm_11-7-2023.md"
   ]
 }
