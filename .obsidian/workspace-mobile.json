@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "#malachi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -153,8 +153,10 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "it-term-proj.md",
+    "church_11-26-2023.md",
     "church_12-3-2023.md",
+    "church_11-12-2023.md",
+    "it-term-proj.md",
     "church_10-29-2023.md",
     "sunday-school_12-3-2023.md",
     "swe_todo.md",
@@ -169,12 +171,10 @@
     "bcm_11-29-2023.md",
     "is_faith_a_gift.md",
     "church_11-5-2023.md",
-    "church_11-12-2023.md",
     "bcm_11-28-2023.md",
     "sunday-school_10-29-2023.md",
     "sunday-school_11-19-2023.md",
     "church_11-19-2023.md",
-    "church_11-26-2023.md",
     "music_league.md",
     "img_outline.css.md",
     "pictures/Screenshot_20231119-121330.png",
