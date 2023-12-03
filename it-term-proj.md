@@ -13,6 +13,22 @@
 
 |Tool|Capability|Supported|Comments|
 |-|-|-|-|
+|FireEye Endpoint Security|Correlation|||
+||Validation|||
+||Alert|||
+||Deep Investigation|Yes|FireEye uses algorithms to detect various types of attacks and scan files|
+||Remediation|||
+||Automation|||
+||Threat Hunting|||
+||Integration w/ other security platforms|||
+||Agent vs. Agentless|||
+||OS Support|Linux, MacOS, Windows||
+||Devices not covered|||
+||Cloud support|||
+||Costs (per user, per server, etc.)|||
+
+|Tool|Capability|Supported|Comments|
+|-|-|-|-|
 ||Correlation|||
 ||Validation|||
 ||Alert|||
@@ -26,4 +42,3 @@
 ||Devices not covered|||
 ||Cloud support|||
 ||Costs (per user, per server, etc.)|||
-

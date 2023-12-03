@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church_12-3-2023.md",
-                "mode": "source",
+                "file": "sunday-school_12-3-2023.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#malachi",
+            "query": "#ray",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "church_12-3-2023.md",
+            "file": "it-term-proj.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "church_12-3-2023.md",
+            "file": "it-term-proj.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "church_12-3-2023.md"
+            "file": "it-term-proj.md"
           }
         }
       },
@@ -151,14 +152,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c303bfe8119eb80",
+  "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "church_11-26-2023.md",
-    "church_12-3-2023.md",
-    "church_11-12-2023.md",
-    "it-term-proj.md",
-    "church_10-29-2023.md",
     "sunday-school_12-3-2023.md",
+    "church_12-3-2023.md",
+    "it-term-proj.md",
+    "church_11-26-2023.md",
+    "church_11-12-2023.md",
+    "church_10-29-2023.md",
     "swe_todo.md",
     "README.md",
     "Prompts.md",
