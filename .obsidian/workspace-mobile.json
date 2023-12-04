@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_12-3-2023.md",
+                "file": "bcm_11-29-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#ray",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "study_12-3-2023.md",
+            "file": "bcm_11-29-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "study_12-3-2023.md",
+            "file": "bcm_11-29-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "study_12-3-2023.md"
+            "file": "bcm_11-29-2023.md"
           }
         }
       },
@@ -152,15 +152,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24fa312f95a65bd0",
+  "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
-    "it-term-proj.md",
+    "church_10-29-2023.md",
+    "church_10-22-2023.md",
     "study_12-3-2023.md",
+    "study_11-5-2023.md",
+    "sunday-school_10-29-2023.md",
+    "it-term-proj.md",
     "sunday-school_12-3-2023.md",
     "church_12-3-2023.md",
     "church_11-26-2023.md",
     "church_11-12-2023.md",
-    "church_10-29-2023.md",
     "swe_todo.md",
     "README.md",
     "Prompts.md",
@@ -174,11 +177,9 @@
     "is_faith_a_gift.md",
     "church_11-5-2023.md",
     "bcm_11-28-2023.md",
-    "sunday-school_10-29-2023.md",
     "sunday-school_11-19-2023.md",
     "church_11-19-2023.md",
     "music_league.md",
-    "img_outline.css.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
@@ -187,7 +188,6 @@
     "PXL_20231104_172638680.jpg",
     "PXL_20231119_145447184~2.jpg",
     "PXL_20231029_151955521.jpg",
-    "pictures",
-    "study-night_11-12-2023.md"
+    "pictures"
   ]
 }
