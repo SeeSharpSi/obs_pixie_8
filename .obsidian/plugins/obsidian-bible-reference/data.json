@@ -1,0 +1,14 @@
+{
+  "bibleVersion": "niv",
+  "referenceLinkPosition": "Header",
+  "verseFormatting": "Single Line",
+  "verseNumberFormatting": "1. ",
+  "collapsibleVerses": true,
+  "bookTagging": false,
+  "chapterTagging": false,
+  "enableBibleVerseLookupRibbon": false,
+  "optOutToEvents": false,
+  "bookBacklinking": "None",
+  "chapterBacklinking": "None",
+  "bibleVersionStatusIndicator": "Short"
+}
