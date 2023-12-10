@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study_12-9-2023.md",
-                "mode": "preview",
+                "file": "church_12-10-2023.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "study_12-9-2023.md",
+            "file": "church_12-10-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "study_12-9-2023.md",
+            "file": "church_12-10-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "study_12-9-2023.md"
+            "file": "church_12-10-2023.md"
           }
         }
       },
@@ -155,8 +155,9 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "bcm_11-29-2023.md",
     "study_12-9-2023.md",
+    "church_12-10-2023.md",
+    "bcm_11-29-2023.md",
     "Final.md",
     "sunday-school_12-3-2023.md",
     "church_10-29-2023.md",
@@ -180,7 +181,6 @@
     "church_11-5-2023.md",
     "bcm_11-28-2023.md",
     "sunday-school_11-19-2023.md",
-    "church_11-19-2023.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
