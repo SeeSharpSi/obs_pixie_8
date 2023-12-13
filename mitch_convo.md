@@ -42,6 +42,15 @@ In John 8:58 Jesus states "I am"
 If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to another God (_Isaiah 42:8_) that makes God and Jesus one and the same.
 
 # Scripture
+> [!bible]+ [Isaiah 44:6 - ESV](https://bolls.life/ESV/23/44/)
+> 6. Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: “I am the first and I am the last; besides me there is no god.
+
+> [!bible]+ [Isaiah 44:10 - ESV](https://bolls.life/ESV/23/44/)
+> 10. Who fashions a god or casts an idol that is profitable for nothing?
+
+> [!bible]+ [Isaiah 42:8 - ESV](https://bolls.life/ESV/23/42/)
+> 8. I am the LORD; that is my name; my glory I give to no other, nor my praise to carved idols.
+
 > [!bible]+ [Philippians 2:5-8 - ESV](https://bolls.life/ESV/50/2/)
 > 5. Have this mind among yourselves, which is yours in Christ Jesus,
 > 6. who, though he was in the form of God, did not count equality with God a thing to be grasped,
