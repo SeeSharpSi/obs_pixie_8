@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church_12-10-2023.md",
+                "file": "mitch_convo.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#andr",
+            "query": "Movie",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "church_12-10-2023.md",
+            "file": "mitch_convo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "church_12-10-2023.md",
+            "file": "mitch_convo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "church_12-10-2023.md"
+            "file": "mitch_convo.md"
           }
         }
       },
@@ -155,14 +155,18 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "study_12-9-2023.md",
+    "movies.md",
+    "mitch_convo.md",
+    "study_12-10-2023.md",
+    "study_12-3-2023.md",
+    "study-night_11-12-2023.md",
     "church_12-10-2023.md",
+    "study_12-9-2023.md",
     "bcm_11-29-2023.md",
     "Final.md",
     "sunday-school_12-3-2023.md",
     "church_10-29-2023.md",
     "church_10-22-2023.md",
-    "study_12-3-2023.md",
     "study_11-5-2023.md",
     "sunday-school_10-29-2023.md",
     "it-term-proj.md",
@@ -172,15 +176,11 @@
     "swe_todo.md",
     "README.md",
     "Prompts.md",
-    "movies.md",
     "ask_hope.md",
     "to-do.md",
     "Temp.md",
     "Quotes.md",
     "is_faith_a_gift.md",
-    "church_11-5-2023.md",
-    "bcm_11-28-2023.md",
-    "sunday-school_11-19-2023.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
