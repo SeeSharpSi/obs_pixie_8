@@ -31,6 +31,12 @@ This is an indisputable declaration of Jesus being God (Jehovah's witnesses chan
 If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to another God (_Isaiah 42:8_) that makes God and Jesus one and the same.
 
 # Scripture
+> [!bible]+ [Philippians 2:5-8 - ESV](https://bolls.life/ESV/50/2/)
+> 5. Have this mind among yourselves, which is yours in Christ Jesus,
+> 6. who, though he was in the form of God, did not count equality with God a thing to be grasped,
+> 7. but emptied himself, by taking the form of a servant,  being born in the likeness of men.
+> 8. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross.
+
 > [!bible]+ [Colossians 2:9 - ESV](https://bolls.life/ESV/51/2/)
 > 9. For in him the whole fullness of deity dwells bodily,
 
