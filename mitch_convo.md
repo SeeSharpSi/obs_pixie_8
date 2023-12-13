@@ -4,6 +4,15 @@ tags:
   - mitch
 ---
 
+> [!bible]+ [Exodus 3:14 - ESV](https://bolls.life/ESV/2/3/)
+> 14. God said to Moses, “I AM WHO I AM.”  And he said, “Say this to the people of Israel: ‘I AM has sent me to you.’”
+
+> [!bible]+ [Deuteronomy 32:39 - ESV](https://bolls.life/ESV/5/32/)
+> 39. “‘See now that I, even I, am he, and there is no god beside me; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand.
+
+> [!bible]+ [Isaiah 41:4 - ESV](https://bolls.life/ESV/23/41/)
+> 4. Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
+
 # Jesus is God
 * Is believing he's God required for salvation?
 > [!bible]+ [John 8:24 - NIV](https://bolls.life/NIV/43/8/)
@@ -16,6 +25,8 @@ tags:
 
 John 1:1-14
 This is an indisputable declaration of Jesus being God (Jehovah's witnesses change this to say "the word was a god." They know this confirms Jesus as being God). _see Col 2:9_
+
+In John 8:58 Jesus states "I am"
 
 # God is the only God
 * Isaiah 44:6
