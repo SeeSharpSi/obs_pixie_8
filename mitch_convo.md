@@ -65,3 +65,6 @@ If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to anoth
 
 > [!bible]+ [Mark 5:30 - ESV](https://bolls.life/ESV/41/5/)
 > 30. And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, “Who touched my garments?”
+
+> [!bible]+ [Isaiah 9:6 - ESV](https://bolls.life/ESV/23/9/)
+> 6. For to us a child is born, to us a son is given; and the government shall be upon  his shoulder, and his name shall be called  Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
