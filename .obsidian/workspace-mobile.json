@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "food.md",
+                "file": "mitch_convo.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Movie",
+            "query": "Mitch",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "food.md",
+            "file": "mitch_convo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "food.md",
+            "file": "mitch_convo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "food.md"
+            "file": "mitch_convo.md"
           }
         }
       },
@@ -155,8 +155,8 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "mitch_convo.md",
     "food.md",
+    "mitch_convo.md",
     "movies.md",
     "study_12-10-2023.md",
     "study_12-3-2023.md",
