@@ -2,6 +2,7 @@
   "accentColor": "",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "img_outline"
+    "img_outline",
+    "bible-reference"
   ]
 }
