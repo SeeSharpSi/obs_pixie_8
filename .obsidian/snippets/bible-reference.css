@@ -1,0 +1,31 @@
+@media screen {
+    .callout[data-callout='bible'] {
+        padding: 4px;
+        background-color: #282828;
+        /*--callout-color: 0, 0, 0;*/
+        /*fa-book-bible"*/
+        /* <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --> */
+    }
+
+    .obr-loading-container {
+        padding: 1em;
+    }
+}
+
+@media print {
+    .callout[data-callout='bible'] {
+        margin: 4px;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 4px;
+        background-color: #FAF9F6;
+        border: 1px solid gray;
+        /*--callout-color: 0, 0, 0;*/
+        /*fa-book-bible"*/
+        /* <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --> */
+    }
+
+    .obr-loading-container {
+        padding: 1em;
+    }
+}
