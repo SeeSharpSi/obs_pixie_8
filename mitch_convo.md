@@ -38,6 +38,12 @@ In John 8:58 Jesus states "I am"
 * Mark 5:30
 * Mark 13:32
 
+> [!bible]+ [Mark 5:30 - ESV](https://bolls.life/ESV/41/5/)
+> 30. And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, “Who touched my garments?”
+
+> [!bible]+ [Mark 13:32 - ESV](https://bolls.life/ESV/41/13/)
+> 32. “But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father.
+
 # Process
 If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to another God (_Isaiah 42:8_) that makes God and Jesus one and the same.
 
@@ -68,3 +74,33 @@ If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to anoth
 
 > [!bible]+ [Isaiah 9:6 - ESV](https://bolls.life/ESV/23/9/)
 > 6. For to us a child is born, to us a son is given; and the government shall be upon  his shoulder, and his name shall be called  Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.
+
+> [!bible]+ [John 20:28 - ESV](https://bolls.life/ESV/43/20/)
+> 28. Thomas answered him, “My Lord and my God!”
+
+> [!bible]+ [John 10:30 - ESV](https://bolls.life/ESV/43/10/)
+> 30. I and the Father are one.”
+
+> [!bible]+ [John 3:1-5 - ESV](https://bolls.life/ESV/43/3/)
+> 1. Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
+> 2. This man came to Jesus  by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him.”
+> 3. Jesus answered him, “Truly, truly, I say to you, unless one is born again  he cannot see the kingdom of God.”
+> 4. Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?”
+> 5. Jesus answered, “Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.
+
+* _John 8:24_
+	* We're the Jews supposed to know their savior was God?
+	* who does Jesus say He is?
+
+> [!bible]+ [Hebrews 1:5-14 - ESV](https://bolls.life/ESV/58/1/)
+> 5. For to which of the angels did God ever say, “You are my Son, today I have begotten you”?  Or again, “I will be to him a father, and he shall be to me a son”?
+> 6. And again, when he brings the firstborn into the world, he says, “Let all God's angels worship him.”
+> 7. Of the angels he says, “He makes his angels winds, and his ministers a flame of fire.”
+> 8. But of the Son he says, “Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom.
+> 9. You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”
+> 10. And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands;
+> 11. they will perish, but you remain; they will all wear out like a garment,
+> 12. like a robe you will roll them up, like a garment they will be changed.  But you are the same, and your years will have no end.”
+> 13. And to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
+> 14. Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
+

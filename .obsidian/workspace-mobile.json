@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mitch_convo.md",
+                "file": "food.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "mitch_convo.md",
+            "file": "food.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "mitch_convo.md",
+            "file": "food.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "mitch_convo.md"
+            "file": "food.md"
           }
         }
       },
@@ -155,8 +155,9 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "movies.md",
     "mitch_convo.md",
+    "food.md",
+    "movies.md",
     "study_12-10-2023.md",
     "study_12-3-2023.md",
     "study-night_11-12-2023.md",
@@ -180,7 +181,6 @@
     "to-do.md",
     "Temp.md",
     "Quotes.md",
-    "is_faith_a_gift.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
