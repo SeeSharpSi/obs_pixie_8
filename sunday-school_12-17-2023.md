@@ -28,3 +28,21 @@ Does God want everyone to be saved?
 > 24. You see that a person is justified by works and not by faith alone.
 
 Is faith a work?
+
+Does God draw everyone?
+> [!bible]+ [John 6:44-45 - ESV](https://bolls.life/ESV/43/6/)
+> 44. No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day.
+> 45. It is written in the Prophets, ‘And they will all be taught by God.’ Everyone who has heard and learned from the Father comes to me —
+
+> [!bible]+ [John 12:32 - ESV](https://bolls.life/ESV/43/12/)
+> 32. And I, when I am lifted up from the earth, will draw all people to myself.”
+
+> [!bible]+ [John 16:8 - ESV](https://bolls.life/ESV/43/16/)
+> 8. And when he comes, he will convict the world concerning sin and righteousness and judgment:
+
+> [!bible]+ [2 Corinthians 4:4 - ESV](https://bolls.life/ESV/47/4/)
+> 4. In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God.
+
+> [!bible]+ [Ephesians 2:8 - ESV](https://bolls.life/ESV/49/2/)
+> 8. For by grace you have been saved through faith. And this is not your own doing; it is the gift of God,
+

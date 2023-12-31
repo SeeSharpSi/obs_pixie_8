@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sunday-school_12-17-2023.md",
+                "file": "church_12-31-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sunday-school_12-17-2023.md",
+            "file": "church_12-31-2023.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sunday-school_12-17-2023.md",
+            "file": "church_12-31-2023.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sunday-school_12-17-2023.md"
+            "file": "church_12-31-2023.md"
           }
         }
       },
@@ -155,8 +155,11 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "mitch_convo.md",
+    "church_12-24-2023.md",
+    "church_12-31-2023.md",
+    "sunday-school_12-24-2023.md",
     "sunday-school_12-17-2023.md",
+    "mitch_convo.md",
     "food.md",
     "movies.md",
     "study_12-10-2023.md",
@@ -178,9 +181,6 @@
     "swe_todo.md",
     "README.md",
     "Prompts.md",
-    "ask_hope.md",
-    "to-do.md",
-    "Temp.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
