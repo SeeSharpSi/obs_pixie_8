@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47f7f6dea86c925c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "30496cac9548329a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dad-laptop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88927f46a3c85b87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mitch",
+                "query": "#bible #me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,6 +181,9 @@
       "obsidian-bible-reference:Bible Verse Lookup": false
     }
   },
-  "active": "f473df07f1b86e43",
-  "lastOpenFiles": []
+  "active": "a2e523ea367a2fce",
+  "lastOpenFiles": [
+    "mitch_convo.md",
+    "dad-laptop.md"
+  ]
 }
