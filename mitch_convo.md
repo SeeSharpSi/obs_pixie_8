@@ -104,3 +104,7 @@ If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to anoth
 > 13. And to which of the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
 > 14. Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 
+> [!bible]+ [Psalm 96:5 - ESV](https://bolls.life/ESV/19/96/)
+> 5. For all the gods of the peoples are worthless idols, but the LORD made the heavens.
+
+You have to worship Jesus to be saved. Only God can receive worship.
