@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "church_12-31-2023.md",
+                "file": "bcm_1-23-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mitch",
+            "query": "Romans 26",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "church_12-31-2023.md",
+            "file": "bcm_1-23-2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "church_12-31-2023.md",
+            "file": "bcm_1-23-2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "church_12-31-2023.md"
+            "file": "bcm_1-23-2024.md"
           }
         }
       },
@@ -155,32 +155,32 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
-    "church_12-24-2023.md",
+    "samuel-4.md",
+    "bcm_1-23-2024.md",
+    "sunday-school_12-3-2023.md",
+    "mitch_convo.md",
+    "church_1_7_2024.md",
+    "dad-laptop.md",
+    "/dad-laptop.md",
+    "study_12-10-2023.md",
     "church_12-31-2023.md",
+    "church_12-24-2023.md",
     "sunday-school_12-24-2023.md",
     "sunday-school_12-17-2023.md",
-    "mitch_convo.md",
     "food.md",
     "movies.md",
-    "study_12-10-2023.md",
     "study_12-3-2023.md",
     "study-night_11-12-2023.md",
     "church_12-10-2023.md",
     "study_12-9-2023.md",
     "bcm_11-29-2023.md",
     "Final.md",
-    "sunday-school_12-3-2023.md",
     "church_10-29-2023.md",
     "church_10-22-2023.md",
     "study_11-5-2023.md",
     "sunday-school_10-29-2023.md",
     "it-term-proj.md",
     "church_12-3-2023.md",
-    "church_11-26-2023.md",
-    "church_11-12-2023.md",
-    "swe_todo.md",
-    "README.md",
-    "Prompts.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
