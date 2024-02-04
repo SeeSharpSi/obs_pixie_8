@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-disciples.md",
+                "file": "complimentarianism.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Romans 26",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "12-disciples.md",
+            "file": "complimentarianism.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "12-disciples.md",
+            "file": "complimentarianism.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "12-disciples.md"
+            "file": "complimentarianism.md"
           }
         }
       },
@@ -156,10 +156,13 @@
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
     "Mike_meeting.md",
+    "complimentarianism.md",
+    "10-21-2023_bible-study.md",
+    "ask_hope.md",
     "12-disciples.md",
+    "sunday-school_12-3-2023.md",
     "bcm_1-23-2024.md",
     "samuel-4.md",
-    "sunday-school_12-3-2023.md",
     "mitch_convo.md",
     "church_1_7_2024.md",
     "dad-laptop.md",
@@ -178,9 +181,6 @@
     "bcm_11-29-2023.md",
     "Final.md",
     "church_10-29-2023.md",
-    "church_10-22-2023.md",
-    "study_11-5-2023.md",
-    "sunday-school_10-29-2023.md",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
