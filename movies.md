@@ -2,6 +2,7 @@
 * Mr. Kruger's Christmas
 * Dr. Strangelove
 * Casablanca
+* Casino Royal
 
 # to watch w/ hope
 * Dune
