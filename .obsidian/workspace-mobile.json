@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "movies.md",
+                "file": "ask_hope.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Movie",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "movies.md",
+            "file": "ask_hope.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "movies.md",
+            "file": "ask_hope.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "movies.md"
+            "file": "ask_hope.md"
           }
         }
       },
@@ -155,6 +155,8 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
+    "mitch_convo.md",
+    "movies.md",
     "complimentarianism.md",
     "Mike_meeting.md",
     "10-21-2023_bible-study.md",
@@ -163,7 +165,6 @@
     "sunday-school_12-3-2023.md",
     "bcm_1-23-2024.md",
     "samuel-4.md",
-    "mitch_convo.md",
     "church_1_7_2024.md",
     "dad-laptop.md",
     "/dad-laptop.md",
@@ -173,7 +174,6 @@
     "sunday-school_12-24-2023.md",
     "sunday-school_12-17-2023.md",
     "food.md",
-    "movies.md",
     "study_12-3-2023.md",
     "study-night_11-12-2023.md",
     "church_12-10-2023.md",
