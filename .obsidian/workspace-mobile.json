@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ask_hope.md",
+                "file": "12-disciples.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Philip",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ask_hope.md",
+            "file": "12-disciples.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ask_hope.md",
+            "file": "12-disciples.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ask_hope.md"
+            "file": "12-disciples.md"
           }
         }
       },
@@ -155,12 +155,12 @@
   },
   "active": "24fa312f95a65bd0",
   "lastOpenFiles": [
+    "ask_hope.md",
     "mitch_convo.md",
     "movies.md",
     "complimentarianism.md",
     "Mike_meeting.md",
     "10-21-2023_bible-study.md",
-    "ask_hope.md",
     "12-disciples.md",
     "sunday-school_12-3-2023.md",
     "bcm_1-23-2024.md",
