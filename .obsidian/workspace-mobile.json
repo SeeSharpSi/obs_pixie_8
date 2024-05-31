@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sunday-school_12-3-2023.md",
-                "mode": "preview",
+                "file": "SWE-3623.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-disciples.md",
+                "file": "top_5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Philip",
+            "query": "1-ti",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "12-disciples.md",
+            "file": "SWE-3623.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "12-disciples.md",
+            "file": "SWE-3623.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "12-disciples.md"
+            "file": "SWE-3623.md"
           }
         }
       },
@@ -153,42 +152,44 @@
       "obsidian-bible-reference:Bible Verse Lookup": false
     }
   },
-  "active": "24fa312f95a65bd0",
+  "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "ask_hope.md",
+    "loleks-b&tb.md",
+    "SWE-3623.md",
+    "movie_plans.md",
+    "reasonable_faith.md",
+    "VBS.md",
     "mitch_convo.md",
-    "movies.md",
-    "complimentarianism.md",
-    "Mike_meeting.md",
-    "10-21-2023_bible-study.md",
-    "12-disciples.md",
-    "sunday-school_12-3-2023.md",
-    "bcm_1-23-2024.md",
-    "samuel-4.md",
-    "church_1_7_2024.md",
-    "dad-laptop.md",
-    "/dad-laptop.md",
-    "study_12-10-2023.md",
-    "church_12-31-2023.md",
-    "church_12-24-2023.md",
-    "sunday-school_12-24-2023.md",
-    "sunday-school_12-17-2023.md",
-    "food.md",
-    "study_12-3-2023.md",
-    "study-night_11-12-2023.md",
-    "church_12-10-2023.md",
-    "study_12-9-2023.md",
-    "bcm_11-29-2023.md",
-    "Final.md",
-    "church_10-29-2023.md",
+    "saint.md",
+    "pictures/Screenshot_20240526-160351.png",
+    "psalm_13.md",
+    "thurs_study.md",
+    "pictures/Screenshot_20240523-164207.png",
+    "pictures/thurs_study.md",
+    "adventures.md",
+    "hike_plan.md",
+    "church_5-19-2024.md",
+    "pcb.md",
+    "Be Our guest.md",
+    "ask_hope.md",
+    "trinity.md",
+    "ephesians.md",
+    "code_ideas.md",
+    "music_league.md",
+    "church_4-28-2024.md",
+    "pictures/PXL_20240428_135754492.jpg",
+    "samuel-16.md",
+    "church_4-21-2024.md",
+    "loleks_notes1.md",
+    "secret_church.md",
+    "finance.md",
+    "pictures/PXL_20240326_231641894~2.jpg",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",
     "pictures/Screenshot_20231119-120423.png",
     "pictures/Screenshot_20231119-113609.png",
     "pictures/PXL_20231119_145447184~2.jpg",
     "PXL_20231104_172638680.jpg",
-    "PXL_20231119_145447184~2.jpg",
-    "PXL_20231029_151955521.jpg",
     "pictures"
   ]
 }

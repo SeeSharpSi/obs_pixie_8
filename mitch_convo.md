@@ -108,3 +108,11 @@ If Jesus is a God (_Col 2:9_) and God does not allow praise to be given to anoth
 > 5. For all the gods of the peoples are worthless idols, but the LORD made the heavens.
 
 You have to worship Jesus to be saved. Only God can receive worship.
+
+
+# Qs 
+* Could anyone fulfill the role of Jesus? 
+	* Did Jesus have to be God? 
+* Hebrews 4:14-16 
+	* Christ has to be God to fulfill the role of mediator, priest, and sacrifice 
+* John 8:58

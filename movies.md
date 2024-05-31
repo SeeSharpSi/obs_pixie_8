@@ -5,16 +5,23 @@
 * Casino Royal
 
 # to watch w/ hope
-* Dune
+* ~~Dune~~
 * lotr
 * star wars
 * it's a wonderful life
+* Marry Poppins
+* Lala Land
 
 
-Pacanya with garlic
+Howdy! Do you have a W2 or W9 for me?
+Also it's been a while, def gotta get together for games sometime again. I'm planning to do a game night/midday sometime soon. I won't have anything set until sometime next week but if you're down I'll let you know.
 
-After our Sunday conversation I felt convicted of my answer for the gospel.
-I was mentally absent of "repent" during our conversation and became fixated on why sin is wrong (though in part because I misunderstood the Buddhist question). I am very confident that I repented and was then baptized, but I wanted to clarify my understanding of the gospel and that I realize my answer wasn't good.
 
-Samuel
-Zion
+Act childish, happy while around you but last night realized I'm annoying to you. I'll do better.
+When you said "" last night you sounded frustrated
+
+Feel like I'm the only one really pushing this forwards. (Ask need help says "no I'm fine," any time hanging out with just us has been set up by me, etc). I know I don't have great date ideas, but I feel like when I do (when I'm creative) I get shut down
+
+Seeing you apply yourself at something has...
+
+I'm really bad about being open about my feelings to people
