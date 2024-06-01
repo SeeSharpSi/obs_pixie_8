@@ -14,14 +14,14 @@
 * Four corners (kids can call on this one) 
 * Two trash cans, see which team can fill fastest 
 
-Stay away from Linked things (like snake tag) because she discrepancy 
+Stay away from Linked things (like snake tag) because age discrepancy 
 Don't use tennis balls outside 
 
 ## relay 
 * Put body through hula hoop, pass to next person 
 * Egg spoon thing (heel toe) 
 * Float paper boat in pool and blow to other side 
-* Tic-tac-to relay 
+* Tic-tac-toe relay 
 * Over-under bean bags or water cup game 
 
 
@@ -38,3 +38,57 @@ Don't use tennis balls outside
 
 Have Dr. V lines memorized 
 I will probably bayliff 
+
+
+# plans 
+
+## relay 
+Two teams, several stations: 
+* Over under with cup of water 
+* Egg spoon balance, heel toe 
+* Hop-scotch 
+* Limbo with jump rope 
+
+Another day:
+* Body through hula-hoop, pass to next person in line 
+* Blow paper boat across pool 
+* Tic-tac-toe with bean bags 
+
+## individual outside games  
+* Simon says 
+* Rock paper scissors tournament 
+* Kangaroo hop
+	* Kids hold ball between knees and try to hop from one spot to another. May be too hard for some kids 
+
+## individual inside games 
+* Sharks and minoes 
+* Four corners
+
+
+# days 
+
+
+Monday:
+* Four corners, inside 
+
+Tuesday: 
+* Relay race #1, outside 
+	* Over under with cup of water 
+	* Egg spoon balance, heel toe 
+	* Hop-scotch 
+	* Limbo with jump rope (leaders hold it) 
+
+Wednesday: 
+* Simon Says, outside or inside
+
+Thursday: 
+*  Sharks and minoes, inside
+
+Friday 
+* Relay race #2, outside 
+	* Body through hula-hoop, pass to next person in line 
+	* Blow paper boat across pool 
+	* Tic-tac-toe with bean bags 
+
+Relay race rules: 
+1. In line-up stations (hula-hoop)
