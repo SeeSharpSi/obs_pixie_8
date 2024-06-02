@@ -92,3 +92,12 @@ Friday
 
 Relay race rules: 
 1. In line-up stations (hula-hoop)
+
+
+
+* Move Friday relay to Monday 
+* Do Simon says on Friday 
+* Adjust the days however, to get those two things 
+* Could have a very active game on Tuesday because they're going to be doing very informal auditions 
+* Have the kids run through the relay in pairs 
+* Replace tic-tac-toe and paper boat for relay 
