@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VBS.md",
+                "file": "SWE-3623.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "VBS.md",
+            "file": "SWE-3623.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "VBS.md",
+            "file": "SWE-3623.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "VBS.md"
+            "file": "SWE-3623.md"
           }
         }
       },
@@ -154,12 +154,13 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
-    "church_6-2-2024.md",
-    "SWE-3623.md",
+    "pictures/Screenshot_20240603-180536.png",
     "VBS.md",
+    "reasonable_faith.md",
+    "SWE-3623.md",
+    "church_6-2-2024.md",
     "loleks-b&tb.md",
     "movie_plans.md",
-    "reasonable_faith.md",
     "mitch_convo.md",
     "saint.md",
     "pictures/Screenshot_20240526-160351.png",
@@ -182,7 +183,6 @@
     "samuel-16.md",
     "church_4-21-2024.md",
     "loleks_notes1.md",
-    "secret_church.md",
     "pictures/PXL_20240326_231641894~2.jpg",
     "pictures/Screenshot_20231119-121330.png",
     "pictures/Screenshot_20231119-121218.png",

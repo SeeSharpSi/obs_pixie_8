@@ -68,27 +68,39 @@ Another day:
 # days 
 
 
-Monday:
-* Four corners, inside 
+~~Monday:~~
+* ~~Four corners, inside~~ 
+
+Monday: 
+* Relay #1:
+	* Body though hula hoop 
+	* Kangaroo hop / egg spoon heel toe
+	* Hop-scotch 
+	* Limbo with jump rope 
 
 Tuesday: 
-* Relay race #1, outside 
+* Sharks and minoes
+
+Wednesday: 
+* Relay race #2, outside 
 	* Over under with cup of water 
 	* Egg spoon balance, heel toe 
 	* Hop-scotch 
-	* Limbo with jump rope (leaders hold it) 
-
-Wednesday: 
-* Simon Says, outside or inside
+	* Throw frisbee into hula hoop
 
 Thursday: 
-*  Sharks and minoes, inside
+*  Four corners 
 
-Friday 
-* Relay race #2, outside 
-	* Body through hula-hoop, pass to next person in line 
-	* Blow paper boat across pool 
-	* Tic-tac-toe with bean bags 
+~~Friday~~ 
+* ~~Relay race #2, outside~~ 
+	* ~~Body through hula-hoop, pass to next person in line~~ 
+	* ~~Blow paper boat across pool~~ 
+	* ~~Tic-tac-toe with bean bags~~ 
+
+Friday: 
+* Simon says
+
+
 
 Relay race rules: 
 1. In line-up stations (hula-hoop)
