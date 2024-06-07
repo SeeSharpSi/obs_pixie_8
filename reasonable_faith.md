@@ -35,4 +35,15 @@
 * The inner witness of the Holy Spirit isn't to be tested. Rather, the claims that others attribute to the Holy Spirit should be tested since they're external 
 * The Holy Spirit gives the believer certainty that Jesus lives with him 
 	* John 14:16-17, 20 
+* 46.2 "the water" is probably baptism, "the blood" His crucifixion 
+	* These are the two events that marked the beginning and end of his earthly ministry 
+* 46.3 while arguments and evidence may be used to support the believer's faith, they are never properly the basis of that faith 
+
+### _The Unbeliever_ 
+* 46.4 Does the absence of the Holy Spirit in the unbeliever mean they just rely on arguments and evidence to be convinced Christianity is true? 
+	* Not at all 
+	* God has a special ministry for the Holy Spirit for the unbeliever (John 16:7-11) 
+* 47.5 "Therefore, we find that for believer and unbeliever alike it is the self-authenticating work of the Holy Spirit that supplies knowledge of Christianity's truth. Thus, I would agree that belief in the God of the Bible is a properly basic belief and emphasizes that it is the ministry of the Holy spirit that supplies the circumstances for its proper basicality" 
+
+## Role of Argument and Evidence 
 * 

@@ -85,7 +85,7 @@ Wednesday:
 * Relay race #2, outside 
 	* Over under with cup of water 
 	* Egg spoon balance, heel toe 
-	* Hop-scotch 
+	* Kangaroo hop 
 	* Throw frisbee into hula hoop
 
 Thursday: 
@@ -113,3 +113,6 @@ Relay race rules:
 * Could have a very active game on Tuesday because they're going to be doing very informal auditions 
 * Have the kids run through the relay in pairs 
 * Replace tic-tac-toe and paper boat for relay 
+
+
+Red light green light 
