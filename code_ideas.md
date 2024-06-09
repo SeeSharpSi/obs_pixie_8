@@ -9,3 +9,6 @@
 		* File name substring 
 	* on local NAS
 	* terminal interface (Go Bubble Tea) 
+* Bible app 
+	* Add a note to verse. Convert notes to .md file 
+	* 

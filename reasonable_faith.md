@@ -46,4 +46,7 @@
 * 47.5 "Therefore, we find that for believer and unbeliever alike it is the self-authenticating work of the Holy Spirit that supplies knowledge of Christianity's truth. Thus, I would agree that belief in the God of the Bible is a properly basic belief and emphasizes that it is the ministry of the Holy spirit that supplies the circumstances for its proper basicality" 
 
 ## Role of Argument and Evidence 
-* 
+
+
+Signed
+Also, the classes I'm taking are Software Requirements Engineering and Software QA/Testing. Which is very convenient with the 
