@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mitch_convo.md",
+                "file": "SWE-3623.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#bible #me",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mitch_convo.md",
+                "file": "SWE-3623.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mitch_convo.md",
+                "file": "SWE-3623.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mitch_convo.md"
+                "file": "SWE-3623.md"
               }
             }
           }
@@ -181,8 +180,19 @@
       "obsidian-bible-reference:Bible Verse Lookup": false
     }
   },
-  "active": "a2e523ea367a2fce",
+  "active": "f473df07f1b86e43",
   "lastOpenFiles": [
+    "pictures/Pasted image 20240621140854.png",
+    "pictures/Pasted image 20240621140839.png",
+    "pictures/Pasted image 20240621140716.png",
+    "pictures/Pasted image 20240621140555.png",
+    "pictures/Pasted image 20240621140344.png",
+    "pictures/Pasted image 20240621135529.png",
+    "pictures/Pasted image 20240621135325.png",
+    "pictures/Pasted image 20240621134611.png",
+    "pictures/Pasted image 20240621134440.png",
+    "pictures/Pasted image 20240621134348.png",
+    "pictures/Pasted image 20240621134314.png",
     "mitch_convo.md",
     "dad-laptop.md"
   ]
