@@ -3,31 +3,45 @@
 1. Village
 	* Belle 
 	* Belle (Playoff) 
+		* cue: playoff music after applause 
 		* mv belle house downstage 
+		* pos: upStgR
 		* change into tpstrygrd costume
 	* Maurice's Entrance 
 	* Maurice and Belle 
 	* Maurice Travels 
-		* Flip West Wing 180° 
+		* cue: maurice travels music / asm signal from wings
+		* flip west wing 180° 
+		* pos: upStgR
 		* stay
-1. Forest 
+2. Forest 
 	* Wolf Chase 1
-2. Castle 
+3. Castle 
 	* Maurice and Beast 
+		* cue: blackout
 		* mv west wing off stage left
-3. Cottage 
+		* pos: upStgR
+4. Cottage 
 	* Gaston's Crossover 
 	* Me 
 	* Belle (Reprise) 
 	* Then I'll Find Him Myself 
-4. Castle 
+		* cue: blackout
+		* mv west wing on
+		* pos: upStgR
+5. Castle 
 	* Belle in the Dungeon 
 	* Home 
 	* Home (Tag) 
-5. Tavern 
+6. Tavern 
 	* Gaston 
+		* cue: asm signal 
+		* mv barrel on from stgL
+		* be in character 
 	* Gaston (Reprise) 
-6. Castle 
+		* cue: "crazy old maurice" 
+		* mv barrel off stgR
+7. Castle 
 	* How Long Must This Go On? 
 	* Be Our Guest 
 	* Belle in the West Wing 
@@ -46,10 +60,16 @@
 	* Beauty and the Beast 
 	* Beast Lets Belle Go
 	* If I Can't Love Her (Reprise) 
+		* cue: blackout 
+		* mv west wing off stgL 
+		* pos: downStgR 
 3. Cottage 
 	* A Change in Me 
 	* Show Me the Beast 
-	* The Mob Song
+	* The Mob Song 
+		* cue: "light your torch" 
+		* mv belle house into pos 
+		* pos: downStgL
 4. Castle 
 	* Fight on the Tower 
 	* Home (Reprise) 
