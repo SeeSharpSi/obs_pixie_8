@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE-3643_assignment1.md",
+                "file": "john.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "1-ti",
+            "query": "Bat ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SWE-3643_assignment1.md",
+            "file": "john.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SWE-3643_assignment1.md",
+            "file": "john.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SWE-3643_assignment1.md"
+            "file": "john.md"
           }
         }
       },
@@ -154,42 +154,42 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
+    "batb track.md",
+    "john.md",
+    "/batb track.md",
+    "Sola Scriptura.md",
+    "church_6-16-2024.md",
+    "SWE-3623.md",
+    "church_6-24-2024.md",
+    "pictures/Pasted image 20240621140854.png",
+    "pictures/Pasted image 20240621140839.png",
+    "pictures/Pasted image 20240621140716.png",
+    "pictures/Pasted image 20240621140555.png",
+    "pictures/Pasted image 20240621140344.png",
+    "pictures/Pasted image 20240621135529.png",
+    "pictures/Pasted image 20240621135325.png",
+    "pictures/Pasted image 20240621134611.png",
+    "pictures/Pasted image 20240621134440.png",
+    "pictures/Pasted image 20240621134348.png",
+    "/SWE-3623.md",
+    "ephesians.md",
+    "sunday-school_11-19-2023.md",
+    "psalm78.md",
+    "psalm-84.md",
+    "psalm_13.md",
+    "SWE-3643_assignment1.md",
     "loleks-b&tb.md",
     "church_6-9-2024.md",
-    "SWE-3643_assignment1.md",
     "code_ideas.md",
-    "SWE-3623.md",
     "reasonable_faith.md",
     "VBS.md",
-    "pictures/Screenshot_20240604-114212.png",
-    "pictures/Screenshot_20240604-112604.png",
-    "pictures/Screenshot_20240604-105719.png",
-    "pictures/Screenshot_20240604-104508.png",
-    "pictures/Screenshot_20240603-180536.png",
     "church_6-2-2024.md",
     "movie_plans.md",
     "mitch_convo.md",
     "saint.md",
-    "pictures/Screenshot_20240526-160351.png",
-    "psalm_13.md",
     "thurs_study.md",
-    "pictures/Screenshot_20240523-164207.png",
     "pictures/thurs_study.md",
     "adventures.md",
-    "hike_plan.md",
-    "church_5-19-2024.md",
-    "pcb.md",
-    "Be Our guest.md",
-    "ask_hope.md",
-    "trinity.md",
-    "ephesians.md",
-    "music_league.md",
-    "church_4-28-2024.md",
-    "pictures/PXL_20240428_135754492.jpg",
-    "samuel-16.md",
-    "church_4-21-2024.md",
-    "pictures/PXL_20240326_231641894~2.jpg",
-    "pictures/Screenshot_20231119-121330.png",
     "pictures"
   ]
 }

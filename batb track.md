@@ -96,3 +96,70 @@
 		* enter stage right 
 	* Bows 
 	* Exit Music
+
+* Cart stays center stage until first bonjour - I start asleep center stage 
+* Leave from Be Our Guest sooner 
+
+* When silly girls go to Gaston at start, fill in the down stage table 
+
+* Cut Belle sitting on cart, just bring it over to her sitting position during bookseller dialogue 
+	* Ask if I should just sit on cart until she gets there 
+* Me and Sam match each other, be exactly the same 
+* Mob song come on as unit 
+* Handles on cart should face off stage (may not have time) 
+* ~~Wait for west wing to flip completely before bringing barrel on~~ no
+* Rotate/angle cart more when taking off stage 
+
+* Something drops on stage, pick it up 
+* 
+
+ASK ABOUT SPIKES FOR BELLE HOUSE
+
+Ignatius study Bible rev ce 2
+
+Didache Bible
+
+Isaiah 22:22
+
+Read about the verse in the gospel about the rapture. Like the eagles coming, destruction fo the temple of Jerusalem. Vultures eagles interchangable 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wyd Friday? Would you be down to get lunch?
+
+Last night I said what I said with the best intentions. And I know you've been dealing with tough crap. But don't rely on yourself - find good Godly people to place yourself in and lean on.
+I've been praying for you, and I'm not the only one. You're special, talented, smart, and you mean a lot to a lot of people :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hey, I know I was harsh last night. But I did it in love. You are clearly going through a lot and I've been praying for you.
+Please don't fight this fight alone. Find Godly Christians to be around and to lean on and to be open with. You're so awesome and seeing you walk alone would break so many hearts. 
+I hope you have a wonderful day :)
