@@ -57,7 +57,6 @@
 		* enter from stage left 
 	* Belle in the West Wing 
 	* If I Can't Love Her
-
 <div class="pb"></div>
 
 ## Act Two 

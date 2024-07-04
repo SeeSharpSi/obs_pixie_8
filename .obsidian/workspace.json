@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "033d1cd0188c5c19",
+    "id": "f16b1b7d92f2013e",
     "type": "split",
     "children": [
       {
-        "id": "aafe741d507cb63c",
+        "id": "e062305760eb4a15",
         "type": "tabs",
         "children": [
           {
-            "id": "f473df07f1b86e43",
+            "id": "8dc925561dbdbc37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,69 +20,33 @@
             }
           },
           {
-            "id": "47f7f6dea86c925c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "30496cac9548329a",
+            "id": "fdd8b22c39af6dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE-3623.md",
+                "file": "swe-3623_assignment2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74daf42b5b8196a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "batb track.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88927f46a3c85b87",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           }
-<<<<<<< Updated upstream
-        ]
-=======
         ],
-        "currentTab": 3
->>>>>>> Stashed changes
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "59473235b8482173",
+    "id": "4b04f1fd7cbf427f",
     "type": "split",
     "children": [
       {
-        "id": "c861d257d547a363",
+        "id": "64cacbec0f26ee13",
         "type": "tabs",
         "children": [
           {
-            "id": "811b2a48bba60e89",
+            "id": "fd359f66ff48d4b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,16 +56,12 @@
             }
           },
           {
-            "id": "a2e523ea367a2fce",
+            "id": "57e597d820244f6a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
-                "query": "",
-=======
-                "query": "swe-3",
->>>>>>> Stashed changes
+                "query": "3623",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +71,7 @@
             }
           },
           {
-            "id": "3ce95c5f59d0df0f",
+            "id": "48caaf8dabb324f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,28 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "663d48fcec42866d",
+    "id": "14243efdbfb7e1a5",
     "type": "split",
     "children": [
       {
-        "id": "bd959dc43085af89",
+        "id": "30531da5d7a8cee5",
         "type": "tabs",
         "children": [
           {
-            "id": "60bb3056f5a126f4",
+            "id": "96f1419f21e1057d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "SWE-3623.md",
-=======
-                "file": "batb track.md",
->>>>>>> Stashed changes
+                "file": "swe-3623_assignment2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,23 +111,19 @@
             }
           },
           {
-            "id": "6ec8b239fb454221",
+            "id": "2b929504d8897c14",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "SWE-3623.md",
-=======
-                "file": "batb track.md",
->>>>>>> Stashed changes
+                "file": "swe-3623_assignment2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d8b22c6cabb91d31",
+            "id": "51dcca82b2baf804",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -183,16 +134,12 @@
             }
           },
           {
-            "id": "5a09d9fa6f78fcc2",
+            "id": "29eab063b05b8e33",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "SWE-3623.md"
-=======
-                "file": "batb track.md"
->>>>>>> Stashed changes
+                "file": "swe-3623_assignment2.md"
               }
             }
           }
@@ -205,38 +152,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-bible-reference:Bible Verse Lookup": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-bible-reference:Bible Verse Lookup": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "f473df07f1b86e43",
-  "lastOpenFiles": [
-    "pictures/Pasted image 20240621140854.png",
-    "pictures/Pasted image 20240621140839.png",
-    "pictures/Pasted image 20240621140716.png",
-    "pictures/Pasted image 20240621140555.png",
-    "pictures/Pasted image 20240621140344.png",
-    "pictures/Pasted image 20240621135529.png",
-    "pictures/Pasted image 20240621135325.png",
-    "pictures/Pasted image 20240621134611.png",
-    "pictures/Pasted image 20240621134440.png",
-    "pictures/Pasted image 20240621134348.png",
-    "pictures/Pasted image 20240621134314.png",
-    "mitch_convo.md",
-    "dad-laptop.md"
-=======
-  "active": "74daf42b5b8196a2",
+  "active": "fdd8b22c39af6dff",
   "lastOpenFiles": [
     "SWE-3623.md",
-    "batb track.md",
-    "dad-laptop.md",
-    "mitch_convo.md"
->>>>>>> Stashed changes
+    "swe-3623_assignment2.md",
+    "pictures/Pasted image 20240630223143.png",
+    "pictures/Pasted image 20240630222958.png",
+    "pictures/Pasted image 20240630222922.png",
+    "pictures/Pasted image 20240630222814.png"
   ]
 }
