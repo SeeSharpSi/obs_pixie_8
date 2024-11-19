@@ -1,7 +1,0 @@
-# Halloween 
-
-# Misc. 
-
-# Job 
-
-# Places

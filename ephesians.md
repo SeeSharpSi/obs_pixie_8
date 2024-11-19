@@ -1,6 +1,6 @@
 #bible #ephesians 
 
-![[PXL_20240428_135754492.jpg]]
+![[PXL_20240929_135750361~2.jpg]]
 # 
 
 # random thoughts 
@@ -36,4 +36,14 @@ Spiritual gift tests confirm what someone wants to do. Not what their gift is
 * Eph. 2:8-10
 * We don't work for salvation, we work because of salvation 
 	* Romans 4:2-5
+
+
+# 9-29-2024 
+* Chapter 5 
+* 5:1-21 
+* Ask how he found interpretive challenge in v. 3 
+	* RSV-2CE and NASB95 have an interesting translation of this 
+	* The point Disciple Dojo made about group study with different translations 
+* v.5 is answered in 1 Jn 1:8-10 
+* The thrust of this passage is Christian community 
 * 

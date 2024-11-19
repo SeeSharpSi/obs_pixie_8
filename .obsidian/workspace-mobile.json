@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "john.md",
+                "file": "present_ideas.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "present_ideas"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "top_5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "top_5"
             }
           }
         ]
@@ -47,7 +51,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTime"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -56,13 +62,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Bat ",
+            "query": "#dad",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -73,7 +81,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -81,7 +91,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -97,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "john.md",
+            "file": "Ben.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +117,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -114,10 +128,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "john.md",
+            "file": "worship_qs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -126,8 +142,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "john.md"
-          }
+            "file": "Ben.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -135,7 +153,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -154,45 +174,46 @@
   },
   "active": "7c303bfe8119eb80",
   "lastOpenFiles": [
+    "quote_book.md",
+    "present_ideas.md",
+    "worship_qs.md",
+    "random.md",
+    "revanced.md",
+    "Ben.md",
+    "board_game_night.md",
+    "ephesians.md",
+    "church_9-29-2024.md",
+    "pictures/PXL_20240929_135750361~2.jpg",
+    "face-2-face.md",
+    "apologetic from.md",
+    "bcm_9-11-2024.md",
+    "Are Humans Good or Bad.md",
+    "psalm78.md",
+    "psalm_13.md",
+    "church_11-26-2023.md",
+    "church_6-24-2024.md",
+    "Melchizedek.md",
+    "temmp.md",
+    "coding.md",
+    "music_monthly.md",
+    "sunday-school_11-19-2023.md",
+    "sunday-school_12-17-2023.md",
+    "sunday-school-7-28-2024.md",
+    "church_3-3-2024.md",
+    "swe-3643_mod8disc.md",
+    "pictures/Screenshot_20240720-201151.png",
+    "pictures/Screenshot_20240720-200914.png",
+    "pictures/Screenshot_20240720-175433.png",
+    "pictures/Screenshot_20240720-200302.png",
     "swe-3643_assignment3.pdf",
-    "swe-3623_assignment2.md",
     "pictures/Pasted image 20240630223143.png",
     "pictures/Pasted image 20240630222958.png",
     "pictures/Pasted image 20240630222922.png",
     "pictures/Pasted image 20240630222814.png",
     "batb track.pdf",
-    "/SWE-3623.md",
     "/swe-3643_assignment3.pdf",
-    "/swe-3623_assignment2.md",
     "/pictures/Pasted image 20240630223143.png",
-    "/pictures/Pasted image 20240630222958.png",
-    "/pictures/Pasted image 20240630222922.png",
-    "/pictures/Pasted image 20240630222814.png",
     "/batb track.pdf",
-    "batb track.md",
-    "john.md",
-    "/batb track.md",
-    "Sola Scriptura.md",
-    "church_6-16-2024.md",
-    "SWE-3623.md",
-    "church_6-24-2024.md",
-    "pictures/Pasted image 20240621140854.png",
-    "pictures/Pasted image 20240621140839.png",
-    "ephesians.md",
-    "sunday-school_11-19-2023.md",
-    "psalm78.md",
-    "psalm-84.md",
-    "psalm_13.md",
-    "SWE-3643_assignment1.md",
-    "loleks-b&tb.md",
-    "church_6-9-2024.md",
-    "code_ideas.md",
-    "reasonable_faith.md",
-    "VBS.md",
-    "church_6-2-2024.md",
-    "movie_plans.md",
-    "mitch_convo.md",
-    "saint.md",
     "pictures"
   ]
 }

@@ -8,6 +8,8 @@
 # 3-6
 * v. 3 - "places" was added for clarity; original Greek says "heavenlys"
 
+# Ephesians 4
+
 
 # random thoughts
 * Ephesians 2:8
@@ -15,3 +17,7 @@
 	* if it does refer to faith, does Ephesians say only specific people have this faith? Or does everyone?
 	* does v. 10 apply to everyone?
 	* See [[is_faith_a_gift]]
+
+
+
+
