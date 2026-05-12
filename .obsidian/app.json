@@ -7,5 +7,7 @@
     "margin": "0",
     "downscalePercent": 60
   },
-  "vimMode": true
+  "vimMode": true,
+  "tabSize": 6,
+  "mobilePullAction": "obsidian-git:push"
 }

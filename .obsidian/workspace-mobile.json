@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "top_5"
             }
+          },
+          {
+            "id": "8696bafa7da79740",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,7 +61,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -62,7 +74,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "#dad",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +109,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -173,8 +185,9 @@
       "obsidian-bible-reference:Bible Verse Lookup": false
     }
   },
-  "active": "7c303bfe8119eb80",
+  "active": "8696bafa7da79740",
   "lastOpenFiles": [
+    "church_6-24-2024.md",
     "present_ideas.md",
     "new.md",
     "appdom.md",
@@ -195,7 +208,6 @@
     "psalm78.md",
     "psalm_13.md",
     "church_11-26-2023.md",
-    "church_6-24-2024.md",
     "Melchizedek.md",
     "temmp.md",
     "coding.md",
