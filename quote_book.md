@@ -14,6 +14,11 @@
 	* **Yours truly** 
 * It's God's choice (God chooses) that everyone who believes in Him is conformed into the Son's image 
 	* **Yours truly**, on 2 Thessa. 
+* You're a highland cow 
+	* **Josie** 
+* Nearly all the means which have been employed to prove the existence of God are good and might be of service, if we perfect them 
+	* **Leibniz**, _New Essays on the Understanding_ 
+* Nothing is brighter than the sun; a candle is brighter than nothing; a candle is brighter than the sun 
 * 
 
 
