@@ -7,4 +7,7 @@
 - [x] laptops 
 - [x] steam deck
 - [x] Bible
-- [ ] SSD 
+- [x] SSD 
+- [x] rubber bands 
+- [ ] sleeping mask
+- [x] deodorant 

@@ -4,6 +4,14 @@
 ## Date
 - May 20
 
+## Transportation 
+* Hilton -> Convention Center 
+	* ~7m walk 
+* MSP (airport) -> Hilton 
+	* ~15m drive 
+	* Check if there's shuttle 
+* 
+
 ## Wes recommends
 
 - 11:55–12:35 — From Apps To Infrastructure — Room 101F  
