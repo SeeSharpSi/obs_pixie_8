@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "img_outline",
     "bible-reference"
-  ]
+  ],
+  "cssTheme": "Obsidian Nord"
 }

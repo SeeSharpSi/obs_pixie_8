@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plugin-folders/templ/file-creation-templ.md.md",
+                "file": "plugin-folders/Clippings/Obsidian on X The future of Obsidian plugins.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian on X The future of Obsidian plugins"
+            }
+          },
+          {
+            "id": "8cbd4b87c9e5f745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cdCon Packing List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file-creation-templ.md"
+              "title": "cdCon Packing List"
+            }
+          },
+          {
+            "id": "2a52ce16ee2df077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cdCon Packing List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cdCon Packing List"
+            }
+          },
+          {
+            "id": "4ed387062fe59f54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Source Summit Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Open Source Summit Schedule"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +120,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#5/16/262026",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -190,12 +232,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ff095edc1041f4ed",
+  "active": "4ed387062fe59f54",
   "lastOpenFiles": [
+    "Open Source Summit Schedule.md",
+    "cdCon Packing List.md",
+    "README.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Untitled",
     "plugin-folders/templ/file-creation-templ.md.md",
+    "plugin-folders/Clippings/Obsidian on X The future of Obsidian plugins.md",
+    "plugin-folders/Clippings",
+    "Untitled",
     "plugin-folders/templ",
     "plugin-folders",
     "Bible_and_Theology/Theology_and_Apologetics/trinity.md",
@@ -218,16 +264,12 @@
     "Bible_and_Theology/Sunday_School/sunday-school_12-24-2023.md",
     "Bible_and_Theology/Sunday_School/sunday-school_12-17-2023.md",
     "Bible_and_Theology/Sunday_School/sunday-school_11-19-2023.md",
-    "Bible_and_Theology/Sunday_School/sunday-school_04-7-2024.md",
-    "Bible_and_Theology/Sunday_School/sunday-school-7-28-2024.md",
-    "Bible_and_Theology/Studies/thurs_study.md",
     "Bible_and_Theology/Theology_and_Apologetics",
     "Bible_and_Theology/Sunday_School",
     "Bible_and_Theology/Studies",
     "Bible_and_Theology/Scripture",
     "Bible_and_Theology/Misc",
     "Bible_and_Theology/Church",
-    "Bible_and_Theology/BCM_and_Retreats",
     "pictures/PXL_20240929_135750361~2.jpg",
     "pictures/Screenshot_20240720-201151.png",
     "pictures/Screenshot_20240720-200914.png",

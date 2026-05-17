@@ -9,5 +9,7 @@
   },
   "vimMode": true,
   "tabSize": 6,
-  "mobilePullAction": "obsidian-git:push"
+  "mobilePullAction": "obsidian-git:push",
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false
 }
