@@ -1,10 +1,10 @@
 #5/16/2026
 
-- [ ] clothes 
+- [x] clothes 
 	- jeans 
 	- shirt
 	- PJs
-- [ ] laptops 
-- [ ] steam deck
-- [ ] Bible
-- [ ] 
+- [x] laptops 
+- [x] steam deck
+- [x] Bible
+- [ ] SSD 
