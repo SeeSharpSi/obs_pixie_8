@@ -4,3 +4,4 @@
 ![[PXL_20260518_214156576.jpg]]
 ![[PXL_20260518_214254366.jpg]]
 
+If using diff agents how assure similar score?
