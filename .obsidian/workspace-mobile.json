@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rachel Date Ideas.md",
+                "file": "OSS Summit/Welcome & Opening Remarks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rachel Date Ideas"
+              "title": "Welcome & Opening Remarks"
+            }
+          },
+          {
+            "id": "cadd6fb3999cb8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSS Summit/Quantum - IBM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantum - IBM"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -246,9 +260,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cdd907d822b669d0",
+  "active": "cadd6fb3999cb8e2",
   "lastOpenFiles": [
-    "Untitled.md",
+    "pictures/PXL_20260518_151325228.MP.jpg",
+    "OSS Summit/Quantum - IBM.md",
+    "OSS Summit/Welcome & Opening Remarks.md",
+    "pictures/PXL_20260518_144817695.jpg",
+    "pictures/PXL_20260518_144311665.jpg",
+    "OSS Summit",
     "Rachel Date Ideas.md",
     "cdCon Packing List.md",
     "Open Source Summit Schedule.md",
@@ -257,7 +276,6 @@
     "plugin-folders/templ/file-creation-templ.md.md",
     "plugin-folders/Clippings/Obsidian on X The future of Obsidian plugins.md",
     "plugin-folders/Clippings",
-    "Untitled",
     "plugin-folders/templ",
     "plugin-folders",
     "Bible_and_Theology/Theology_and_Apologetics/trinity.md",
@@ -276,8 +294,6 @@
     "Bible_and_Theology/Theology_and_Apologetics/Ben.md",
     "Bible_and_Theology/Theology_and_Apologetics/Are Humans Good or Bad.md",
     "Bible_and_Theology/Theology_and_Apologetics/12-disciples.md",
-    "Bible_and_Theology/Sunday_School/sunday-school_12-3-2023.md",
-    "Bible_and_Theology/Sunday_School/sunday-school_12-24-2023.md",
     "Bible_and_Theology/Theology_and_Apologetics",
     "Bible_and_Theology/Sunday_School",
     "Bible_and_Theology/Studies",
@@ -291,8 +307,6 @@
     "pictures/Screenshot_20240720-200302.png",
     "pictures/Pasted image 20240630223143.png",
     "pictures/Pasted image 20240630222958.png",
-    "pictures/Pasted image 20240630222922.png",
-    "pictures/Pasted image 20240630222814.png",
-    "/pictures/Pasted image 20240630223143.png"
+    "pictures/Pasted image 20240630222922.png"
   ]
 }
