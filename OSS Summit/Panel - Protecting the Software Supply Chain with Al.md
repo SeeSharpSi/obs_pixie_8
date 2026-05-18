@@ -6,4 +6,5 @@
 	* I'm so confused 
 	* The purpose of versioning is to GO BACK - why would you go back to a hallucination 
 * CVE for LLMs... What does that mean
+* This talk exists because people shirk responsibility from their bad `git push`es 
 * 
