@@ -279,7 +279,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why Don't Al Technologies and CI CD Pipelines Get Along.md",
+                "file": "OSS Summit/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
                 "mode": "source",
                 "source": false
               },
@@ -293,16 +293,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
+                "file": "OSS Summit/Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD"
             }
+          },
+          {
+            "id": "8c902f9378e1ca06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Developer Experience is More Than Just Productivity Metrics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Developer Experience is More Than Just Productivity Metrics"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -442,10 +456,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc3c8d6a03f5d505",
+  "active": "8c902f9378e1ca06",
   "lastOpenFiles": [
-    "Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
-    "Why Don't Al Technologies and CI CD Pipelines Get Along.md",
+    "pictures/PXL_20260518_222016780.jpg",
+    "OSS Summit/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
+    "OSS Summit/Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
+    "Developer Experience is More Than Just Productivity Metrics.md",
+    "pictures/PXL_20260518_221021632.jpg",
+    "pictures/PXL_20260518_220907503.jpg",
+    "pictures/PXL_20260518_220403387 1.jpg",
+    "pictures/PXL_20260518_220403387.jpg",
     "pictures/PXL_20260518_214254366.jpg",
     "pictures/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
     "pictures/PXL_20260518_214156576.jpg",
@@ -463,13 +483,9 @@
     "OSS Summit/cdCon Town Hall.md",
     "OSS Summit/Jenkins - Year in Review and Future Roadmap.md",
     "OSS Summit/The Revolution Hiding in Plain Sight.md",
-    "pictures/PXL_20260518_164529572.jpg",
-    "pictures/PXL_20260518_164341147.jpg",
     "OSS Summit/Rando.md",
     "OSS Summit/Building the AI Native era.md",
-    "pictures/PXL_20260518_153150466.jpg",
     "OSS Summit/Quantum - IBM.md",
-    "pictures/PXL_20260518_151325228.MP.jpg",
     "OSS Summit/Welcome & Opening Remarks.md",
     "OSS Summit",
     "Rachel Date Ideas.md",
@@ -482,8 +498,6 @@
     "plugin-folders/Clippings",
     "plugin-folders/templ",
     "plugin-folders",
-    "Bible_and_Theology/Theology_and_Apologetics/trinity.md",
-    "Bible_and_Theology/Theology_and_Apologetics/saint.md",
     "Bible_and_Theology/Theology_and_Apologetics",
     "Bible_and_Theology/Sunday_School",
     "Bible_and_Theology/Studies",
