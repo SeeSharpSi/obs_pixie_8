@@ -265,7 +265,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Panel - Protecting the Software Supply Chain with Al.md",
+                "file": "OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
                 "mode": "source",
                 "source": false
               },
@@ -414,9 +414,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d438f965108a4dfc",
+  "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
-    "Panel - Protecting the Software Supply Chain with Al.md",
+    "OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
     "OSS Summit/When Pipelines Decide Governing Speed, Trust, and Accountability in Al-Driven CI CD.md",
     "pictures/PXL_20260518_205009536.jpg",
     "pictures/PXL_20260518_204448664.MP.jpg",
