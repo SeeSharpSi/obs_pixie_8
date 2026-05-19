@@ -356,9 +356,37 @@
               "icon": "lucide-file",
               "title": "Platform Engineering - Herding the Electric Sheep"
             }
+          },
+          {
+            "id": "1160dca78138504e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps"
+            }
+          },
+          {
+            "id": "615ccf745b9210df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -498,10 +526,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4f730d4eedac252",
+  "active": "615ccf745b9210df",
   "lastOpenFiles": [
-    "pictures/PXL_20260519_170649786.jpg",
+    "Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down.md",
+    "Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps.md",
     "Platform Engineering - Herding the Electric Sheep.md",
+    "pictures/PXL_20260519_170649786.jpg",
     "Panel Discussion Building an Enterprise Platform for Production-Ready Agents.md",
     "OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
     "OSS Summit/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
@@ -523,7 +553,6 @@
     "OSS Summit/Al in Cl CD Without the Hype Practical Patterns for Platform Engineers.md",
     "OSS Summit/CDEvents Ending the Glue Code Tax.md",
     "OSS Summit/Ortelius V12, Post-Deployment Security Defense for DevSecOps.md",
-    "pictures/PXL_20260518_185717341.jpg",
     "OSS Summit/From Embedded Artifacts to Durable Entities.md",
     "OSS Summit/cdCon Town Hall.md",
     "OSS Summit/Jenkins - Year in Review and Future Roadmap.md",
@@ -536,7 +565,6 @@
     "Rachel Date Ideas.md",
     "cdCon Packing List.md",
     "Open Source Summit Schedule.md",
-    "README.md",
     "plugin-folders/Clippings",
     "plugin-folders/templ",
     "plugin-folders",
