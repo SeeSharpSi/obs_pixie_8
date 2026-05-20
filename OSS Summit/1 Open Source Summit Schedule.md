@@ -34,7 +34,7 @@
 ## Possible schedule (my picks)
 
 ### 11:55–12:35 block
-- [ ] OCI Images: Not Just for Containers Anymore — Room 101G  
+- [x] OCI Images: Not Just for Containers Anymore — Room 101G  
       Link: https://sched.co/2JQwv
 - [ ] From Apps To Infrastructure — Room 101F  
       Link: https://sched.co/2JQws
@@ -48,7 +48,7 @@
       Link: https://sched.co/2JQxY
 - [ ] What's the Deal With Human Rights and Technical Standards? — Room 200A+B  
       Link: https://sched.co/2JQxk
-- [ ] Beyond First PRs: Converting Students Into Long-Term Open Source Contributors — Room 101J  
+- [x] Beyond First PRs: Converting Students Into Long-Term Open Source Contributors — Room 101J  
       Link: https://sched.co/2JQxh
 
 ### 3:05–3:45 block (no strong recommendation)
@@ -60,6 +60,7 @@
 ### 4:20–5:00 block
 - [ ] Automating MCP Server Testing — Room 101I  
       Link: https://sched.co/2JQyf
+* This got moved to the 18th 
 
 ---
 
