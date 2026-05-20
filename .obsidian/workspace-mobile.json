@@ -433,7 +433,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zephyr.md",
+                "file": "OSS Summit/Zephyr.md",
                 "mode": "source",
                 "source": false
               },
@@ -447,7 +447,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free to Use, Not Free to Run - Reinventing Package Registries.md",
+                "file": "OSS Summit/Free to Use, Not Free to Run - Reinventing Package Registries.md",
                 "mode": "source",
                 "source": false
               },
@@ -461,7 +461,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When Similar ls Good Enough - Rethinking Caching for Al.md",
+                "file": "OSS Summit/When Similar ls Good Enough - Rethinking Caching for Al.md",
                 "mode": "source",
                 "source": false
               },
@@ -624,10 +624,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21986c9428112d80",
+  "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
-    "Framework questions.md",
-    "When Similar ls Good Enough - Rethinking Caching for Al.md",
+    "OSS Summit/Framework questions.md",
+    "OSS Summit/When Similar ls Good Enough - Rethinking Caching for Al.md",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",
@@ -635,8 +635,8 @@
     "pictures/PXL_20260520_160540202.jpg",
     "pictures/PXL_20260520_160411937.jpg",
     "pictures/PXL_20260520_160137133.jpg",
-    "Free to Use, Not Free to Run - Reinventing Package Registries.md",
-    "Zephyr.md",
+    "OSS Summit/Free to Use, Not Free to Run - Reinventing Package Registries.md",
+    "OSS Summit/Zephyr.md",
     "OSS Summit/How Maintainers Can Build Their Way Through the Al Flood.md",
     "OSS Summit/1 Open Source Summit Schedule.md",
     "OSS Summit/Linus.md",
