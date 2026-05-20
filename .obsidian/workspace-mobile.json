@@ -454,9 +454,37 @@
               "icon": "lucide-file",
               "title": "Free to Use, Not Free to Run - Reinventing Package Registries"
             }
+          },
+          {
+            "id": "9c648e0473a2e370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "When Similar ls Good Enough - Rethinking Caching for Al.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "When Similar ls Good Enough - Rethinking Caching for Al"
+            }
+          },
+          {
+            "id": "21986c9428112d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic list of things to remember.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generic list of things to remember"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -596,14 +624,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3bd6450e86e0eeb0",
+  "active": "21986c9428112d80",
   "lastOpenFiles": [
+    "Framework questions.md",
+    "When Similar ls Good Enough - Rethinking Caching for Al.md",
+    "pictures/PXL_20260520_162952381.jpg",
+    "pictures/PXL_20260520_162140147.jpg",
+    "pictures/PXL_20260520_161906168.jpg",
+    "pictures/PXL_20260520_161055807.jpg",
+    "pictures/PXL_20260520_160540202.jpg",
+    "pictures/PXL_20260520_160411937.jpg",
+    "pictures/PXL_20260520_160137133.jpg",
     "Free to Use, Not Free to Run - Reinventing Package Registries.md",
     "Zephyr.md",
     "OSS Summit/How Maintainers Can Build Their Way Through the Al Flood.md",
     "OSS Summit/1 Open Source Summit Schedule.md",
     "OSS Summit/Linus.md",
-    "Untitled.md",
+    "Generic list of things to remember.md",
     "OSS Summit/Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down.md",
     "OSS Summit/Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps.md",
     "OSS Summit/Platform Engineering - Herding the Electric Sheep.md",
@@ -616,15 +653,8 @@
     "OSS Summit/Developer Experience is More Than Just Productivity Metrics.md",
     "pictures/PXL_20260518_222016780.jpg",
     "pictures/PXL_20260518_221021632.jpg",
-    "pictures/PXL_20260518_220907503.jpg",
-    "pictures/PXL_20260518_220403387 1.jpg",
-    "pictures/PXL_20260518_220403387.jpg",
-    "pictures/PXL_20260518_214254366.jpg",
     "pictures/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
-    "pictures/PXL_20260518_214156576.jpg",
     "OSS Summit/When Pipelines Decide Governing Speed, Trust, and Accountability in Al-Driven CI CD.md",
-    "pictures/PXL_20260518_205009536.jpg",
-    "pictures/PXL_20260518_204448664.MP.jpg",
     "OSS Summit/CI CD Cybersecurity Guide.md",
     "OSS Summit/Al in Cl CD Without the Hype Practical Patterns for Platform Engineers.md",
     "OSS Summit/CDEvents Ending the Glue Code Tax.md",
@@ -632,8 +662,6 @@
     "OSS Summit/From Embedded Artifacts to Durable Entities.md",
     "OSS Summit/cdCon Town Hall.md",
     "OSS Summit/Jenkins - Year in Review and Future Roadmap.md",
-    "OSS Summit/The Revolution Hiding in Plain Sight.md",
-    "OSS Summit/Rando.md",
     "OSS Summit",
     "plugin-folders/Clippings",
     "plugin-folders/templ",
