@@ -4,6 +4,7 @@
 * Ask Wes about comptia AI certification 
 * Use opencode to add (not remove or edit) tags 
 	* Also have them reformat existing tags to "YYYY/MM/DD" to make obsidian tag folders make more sense 
+	* Actually, just look into doing something entirely different than tags for date created 
 * Look into UK vs England vs Britain geography 
 * Create website that has map with borders that look Nord color theme and can have overlays for provinces and political areas 
 * Make my main desktop ssh-able 
@@ -20,3 +21,4 @@
 * Use that LLM detection software to create an obsidian plugin to tell whether a note is written by an LLM 
 	* Mostly useful for notes clipped with the web clipper 
 * [[Software Writing Software]] 
+* Make scale that's connected to the Internet that orders more coffee beans (or chips, or Oreos, or whatever) once the weight is low enough 

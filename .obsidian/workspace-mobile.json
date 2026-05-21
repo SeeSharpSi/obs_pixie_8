@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic list of things to remember.md",
-                "mode": "preview",
+                "file": "Software Writing Software.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generic list of things to remember"
+              "title": "Software Writing Software"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Generic list of things to remember.md",
+            "file": "Software Writing Software.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -208,13 +208,13 @@
   },
   "active": "e4df3ffb96b2b74e",
   "lastOpenFiles": [
+    "Generic list of things to remember.md",
     "Software Writing Software.md",
     "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
     "plugin-folders/Clippings/DHCP/What is DHCP.md",
     "plugin-folders/Clippings/Obsidian Docs/Internal links.md",
     "plugin-folders/Clippings/DHCP/Personal Research.md",
     "plugin-folders/Clippings/Obsidian Docs/Basic formatting syntax.md",
-    "Generic list of things to remember.md",
     "plugin-folders/Clippings/Obsidian Docs",
     "Poetry/Satan's Shield.md",
     "What Practices did Jesus Say to Have.md",
