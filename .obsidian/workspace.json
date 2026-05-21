@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e062305760eb4a15",
+        "id": "1386c1126c341e49",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc925561dbdbc37",
+            "id": "2139f5f0d0dd7610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SWE-3623.md",
+                "file": "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/7 What is upsampling?.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd8b22c39af6dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "swe-3623_assignment2.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "7 What is upsampling?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,11 +69,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "swe-3623_assignment2.md",
+                "file": "Clippings/8 What is downsampling?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 8 What is downsampling?"
             }
           },
           {
@@ -116,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "swe-3623_assignment2.md",
+                "file": "Clippings/8 What is downsampling?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 8 What is downsampling?"
             }
           },
           {
@@ -129,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -139,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "swe-3623_assignment2.md"
-              }
+                "file": "Clippings/8 What is downsampling?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8 What is downsampling?"
             }
           }
         ]
@@ -152,17 +160,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "fdd8b22c39af6dff",
+  "active": "fd359f66ff48d4b0",
   "lastOpenFiles": [
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/7 What is upsampling.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/7 What is upsampling?.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling?.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling.md",
+    "Clippings",
     "SWE-3623.md",
     "swe-3623_assignment2.md",
     "pictures/Pasted image 20240630223143.png",
