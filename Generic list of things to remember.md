@@ -5,4 +5,5 @@
 * Use opencode to add (not remove or edit) tags 
 	* Also have them reformat existing tags to "YYY/MM/DD" to make obsidian tag folders make more sense 
 * Look into UK vs England vs Britain geography 
-* Create website that has 
+* Create website that has map with borders that look Nord color theme and can have overlays for provinces and political areas 
+* 
