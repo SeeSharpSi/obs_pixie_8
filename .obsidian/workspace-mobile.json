@@ -517,12 +517,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/2 What Is Linear Discriminant Analysis.md",
+                "file": "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 What Is Linear Discriminant Analysis"
+              "title": "9 What Is Synthetic Data"
             }
           }
         ],
@@ -668,10 +668,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac6c3b85f3e30a5c",
+  "active": "44cb9d858b0025a4",
   "lastOpenFiles": [
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/1 What Is Principal Component Analysis (PCA).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/10 What is Data Leakage in Machine Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/7 What is upsampling.md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/2 What Is Linear Discriminant Analysis.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/1 What Is Principal Component Analysis (PCA).md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/5 What Is Latent Space.md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/4 What is Vector Embedding.md",
@@ -700,8 +704,6 @@
     "GTRI",
     "Poetry/Satan's Shield.md",
     "What Practices did Jesus Say to Have.md",
-    "GTRI/OSS Summit/Framework questions.md",
-    "GTRI/OSS Summit/When Similar ls Good Enough - Rethinking Caching for Al.md",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",
@@ -709,8 +711,6 @@
     "pictures/PXL_20260520_160540202.jpg",
     "pictures/PXL_20260520_160411937.jpg",
     "pictures/PXL_20260520_160137133.jpg",
-    "GTRI/OSS Summit/Free to Use, Not Free to Run - Reinventing Package Registries.md",
-    "GTRI/OSS Summit/Zephyr.md",
     "pictures/PXL_20260519_170649786.jpg",
     "pictures/PXL_20260518_222016780.jpg",
     "pictures/PXL_20260518_221021632.jpg",
