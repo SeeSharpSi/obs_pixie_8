@@ -19,3 +19,4 @@
 	* Would need table to store what link corresponds with what note 
 * Use that LLM detection software to create an obsidian plugin to tell whether a note is written by an LLM 
 	* Mostly useful for notes clipped with the web clipper 
+* [[Software Writing Software]] 
