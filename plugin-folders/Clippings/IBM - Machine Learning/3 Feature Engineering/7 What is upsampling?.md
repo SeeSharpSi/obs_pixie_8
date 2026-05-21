@@ -6,7 +6,7 @@ Senior Technical Content Creator
 
 ## What is upsampling?
 
-Upsampling increases the number of data samples in a dataset. In doing so, it aims to correct imbalanced data and thereby improve model performance.
+Upsampling increases the number of data samples in a dataset. In doing so, it aims to correct imbalanced data and thereby improve model performance. 
 
 Upsampling, otherwise known as oversampling, is a data processing and optimization technique that addresses class imbalance in a dataset by adding data. Upsampling adds data by using original samples from minority classes until all classes are equal in size. Both Python scikit-learn and Matlab contain built-in functions for implementing upsampling techniques.
 
