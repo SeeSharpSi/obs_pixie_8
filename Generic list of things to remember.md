@@ -12,4 +12,8 @@
 	1. Journal how the day went in the evening 
 	2. Write down my dream(s) in the morning 
 	3. Prayer journal in morning 
-* 
+* Make obsidian plugin that allows hitting a [link] in an obsidian note and automatically using the web clipper extension (or whatever) to clip it 
+	* Add "clip all links" button 
+	* Could add recursion and "max recursive depth" limit 
+* Use that LLM detection software to create an obsidian plugin to tell whether a note is written by an LLM 
+	* Mostly useful for notes clipped with the web clipper 

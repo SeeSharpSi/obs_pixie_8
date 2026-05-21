@@ -517,12 +517,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
-                "mode": "source",
+                "file": "Generic list of things to remember.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 What Is Synthetic Data"
+              "title": "Generic list of things to remember"
             }
           }
         ],
@@ -648,8 +648,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -670,10 +670,18 @@
   },
   "active": "44cb9d858b0025a4",
   "lastOpenFiles": [
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/10 What is Data Leakage in Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling.md",
+    "plugin-folders/Clippings/What is DHCP.md",
+    "Generic list of things to remember.md",
+    "plugin-folders/Clippings/Basic formatting syntax.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression/2 What is lasso regression.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression/1 What Is Linear Regression.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/1 What Is Supervised Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/7 What is upsampling.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/9 What Is Synthetic Data.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/10 What is Data Leakage in Machine Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling.md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/2 What Is Linear Discriminant Analysis.md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction/1 What Is Principal Component Analysis (PCA).md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/5 What Is Latent Space.md",
@@ -693,17 +701,11 @@
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/3 What Are Machine Learning Algorithms.md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/2 Types of Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
-    "Untitled.md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction",
     "plugin-folders/Clippings/IBM - Machine Learning",
-    "Generic list of things to remember.md",
-    "Tech/LLMs/MCP Ideas.md",
     "Poetry",
     "Tech/LLMs",
     "GTRI",
-    "Poetry/Satan's Shield.md",
-    "What Practices did Jesus Say to Have.md",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",
@@ -713,8 +715,6 @@
     "pictures/PXL_20260520_160137133.jpg",
     "pictures/PXL_20260519_170649786.jpg",
     "pictures/PXL_20260518_222016780.jpg",
-    "pictures/PXL_20260518_221021632.jpg",
-    "GTRI/OSS Summit",
-    "plugin-folders/Clippings"
+    "pictures/PXL_20260518_221021632.jpg"
   ]
 }
