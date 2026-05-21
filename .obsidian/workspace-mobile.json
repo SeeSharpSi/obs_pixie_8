@@ -8,525 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c303bfe8119eb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "church_6-24-2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "church_6-24-2024"
-            }
-          },
-          {
-            "id": "24fa312f95a65bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "top_5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "top_5"
-            }
-          },
-          {
-            "id": "ff095edc1041f4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "plugin-folders/Clippings/Obsidian on X The future of Obsidian plugins.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian on X The future of Obsidian plugins"
-            }
-          },
-          {
-            "id": "8cbd4b87c9e5f745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cdCon Packing List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cdCon Packing List"
-            }
-          },
-          {
-            "id": "2a52ce16ee2df077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cdCon Packing List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cdCon Packing List"
-            }
-          },
-          {
-            "id": "4ed387062fe59f54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cdCon Packing List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cdCon Packing List"
-            }
-          },
-          {
-            "id": "cdd907d822b669d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Welcome & Opening Remarks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome & Opening Remarks"
-            }
-          },
-          {
-            "id": "cadd6fb3999cb8e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Quantum - IBM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quantum - IBM"
-            }
-          },
-          {
-            "id": "7d3d88639c5aa3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Rando.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rando"
-            }
-          },
-          {
-            "id": "3a54438c1f5fd85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/The Revolution Hiding in Plain Sight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Revolution Hiding in Plain Sight"
-            }
-          },
-          {
-            "id": "26219f62797e4a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Jenkins - Year in Review and Future Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jenkins - Year in Review and Future Roadmap"
-            }
-          },
-          {
-            "id": "1ea6f2f0706fd1e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/cdCon Town Hall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cdCon Town Hall"
-            }
-          },
-          {
-            "id": "037c06b037ea840a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/From Embedded Artifacts to Durable Entities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "From Embedded Artifacts to Durable Entities"
-            }
-          },
-          {
-            "id": "03352d8f0c8c4c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Ortelius V12, Post-Deployment Security Defense for DevSecOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ortelius V12, Post-Deployment Security Defense for DevSecOps"
-            }
-          },
-          {
-            "id": "464c623e038896e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CDEvents Ending the Glue Code Tax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CDEvents Ending the Glue Code Tax"
-            }
-          },
-          {
-            "id": "30416a1a217a9b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CI CD Cybersecurity Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CI CD Cybersecurity Guide"
-            }
-          },
-          {
-            "id": "1cb40ed832523f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Al in Cl CD Without the Hype Practical Patterns for Platform Engineers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Al in Cl CD Without the Hype Practical Patterns for Platform Engineers"
-            }
-          },
-          {
-            "id": "8c7c8bcf50fd697e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/When Pipelines Decide Governing Speed, Trust, and Accountability in Al-Driven CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When Pipelines Decide Governing Speed, Trust, and Accountability in Al-Driven CI CD"
-            }
-          },
-          {
-            "id": "d438f965108a4dfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panel - Protecting the Software Supply Chain with Al"
-            }
-          },
-          {
-            "id": "651aa2ecbcfbe71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why Don't Al Technologies and CI CD Pipelines Get Along"
-            }
-          },
-          {
-            "id": "bc3c8d6a03f5d505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD"
-            }
-          },
-          {
-            "id": "8c902f9378e1ca06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developer Experience is More Than Just Productivity Metrics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Developer Experience is More Than Just Productivity Metrics"
-            }
-          },
-          {
-            "id": "0e534338fd0cd1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panel - Protecting the Software Supply Chain with Al"
-            }
-          },
-          {
-            "id": "775a31943c8bf1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Panel Discussion Building an Enterprise Platform for Production-Ready Agents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panel Discussion Building an Enterprise Platform for Production-Ready Agents"
-            }
-          },
-          {
-            "id": "e4f730d4eedac252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Platform Engineering - Herding the Electric Sheep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Platform Engineering - Herding the Electric Sheep"
-            }
-          },
-          {
-            "id": "1160dca78138504e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps"
-            }
-          },
-          {
-            "id": "615ccf745b9210df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down"
-            }
-          },
-          {
-            "id": "dff041532dd920c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e4fdb5206853e831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Linus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linus"
-            }
-          },
-          {
-            "id": "fbd5a2abbeb655cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/How Maintainers Can Build Their Way Through the Al Flood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How Maintainers Can Build Their Way Through the Al Flood"
-            }
-          },
-          {
-            "id": "9783e8613fea007b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Zephyr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zephyr"
-            }
-          },
-          {
-            "id": "3bd6450e86e0eeb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/Free to Use, Not Free to Run - Reinventing Package Registries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Free to Use, Not Free to Run - Reinventing Package Registries"
-            }
-          },
-          {
-            "id": "9c648e0473a2e370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSS Summit/When Similar ls Good Enough - Rethinking Caching for Al.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When Similar ls Good Enough - Rethinking Caching for Al"
-            }
-          },
-          {
-            "id": "21986c9428112d80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generic list of things to remember.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generic list of things to remember"
-            }
-          },
-          {
-            "id": "2948bdd077c1f50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What Practices did Jesus Say to Have.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What Practices did Jesus Say to Have"
-            }
-          },
-          {
-            "id": "6243bb39fefc1368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry/Satan's Shield.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Satan's Shield"
-            }
-          },
-          {
             "id": "44cb9d858b0025a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generic list of things to remember.md",
+                "file": "plugin-folders/Clippings/DHCP/What is DHCP.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generic list of things to remember"
+              "title": "What is DHCP"
+            }
+          },
+          {
+            "id": "375121e62f24d054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plugin-folders/Clippings/Obsidian Docs/Internal links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internal links"
+            }
+          },
+          {
+            "id": "b98f8a8acb8ffced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "plugin-folders/Clippings/DHCP/Personal Research.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Research"
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -554,7 +78,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#5/21/2026",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -622,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "present_ideas.md",
+            "file": "plugin-folders/Clippings/DHCP/Personal Research.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -668,11 +192,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44cb9d858b0025a4",
+  "active": "b98f8a8acb8ffced",
   "lastOpenFiles": [
-    "plugin-folders/Clippings/What is DHCP.md",
+    "plugin-folders/Clippings/DHCP/What is DHCP.md",
+    "plugin-folders/Clippings/DHCP/Personal Research.md",
+    "plugin-folders/Clippings/Obsidian Docs/Internal links.md",
+    "plugin-folders/Clippings/Obsidian Docs/Basic formatting syntax.md",
+    "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
     "Generic list of things to remember.md",
-    "plugin-folders/Clippings/Basic formatting syntax.md",
+    "plugin-folders/Clippings/Obsidian Docs",
+    "Poetry/Satan's Shield.md",
+    "What Practices did Jesus Say to Have.md",
+    "plugin-folders/Clippings/DHCP",
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression/2 What is lasso regression.md",
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression/1 What Is Linear Regression.md",
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
@@ -695,17 +226,10 @@
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/6 What are Bayesian statistics.md",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/5 What is Bias-Variance Tradeoff.md",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/4 Uncertainty Quantification.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/3 What is Data Visualization in Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/2 What Is Linear Algebra for Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/1 What is Statistical Machine Learning.md",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/3 What Are Machine Learning Algorithms.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/2 Types of Machine Learning.md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction",
     "plugin-folders/Clippings/IBM - Machine Learning",
     "Poetry",
-    "Tech/LLMs",
-    "GTRI",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",

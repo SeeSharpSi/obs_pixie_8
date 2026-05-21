@@ -15,5 +15,7 @@
 * Make obsidian plugin that allows hitting a [link] in an obsidian note and automatically using the web clipper extension (or whatever) to clip it 
 	* Add "clip all links" button 
 	* Could add recursion and "max recursive depth" limit 
+	* Could add "refresh" parameter that occasionally checks a link to see if there are updates to the post. This would need to allow for turning off/on per link so stale links don't delete documentation 
+	* Would need table to store what link corresponds with what note 
 * Use that LLM detection software to create an obsidian plugin to tell whether a note is written by an LLM 
 	* Mostly useful for notes clipped with the web clipper 
