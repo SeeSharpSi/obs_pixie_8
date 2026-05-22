@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Writing Software.md",
+                "file": "Generic list of things to remember.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Writing Software"
+              "title": "Generic list of things to remember"
+            }
+          },
+          {
+            "id": "601e6e3fba9858d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generic list of things to remember.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Generic list of things to remember"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Software Writing Software.md",
+            "file": "Generic list of things to remember.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -206,8 +220,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4df3ffb96b2b74e",
+  "active": "601e6e3fba9858d7",
   "lastOpenFiles": [
+    "Prayer.md",
     "Generic list of things to remember.md",
     "Software Writing Software.md",
     "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
@@ -239,7 +254,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/7 What Is Singular Value Decomposition (SVD).md",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/6 What are Bayesian statistics.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/5 What is Bias-Variance Tradeoff.md",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction",
     "plugin-folders/Clippings/IBM - Machine Learning",

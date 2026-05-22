@@ -4,4 +4,4 @@
 	* See if GitLab allows importing pipeline components from same repo (essentially, pipeline == several files within same repo 
 * Make this for GoLang 
 	* Literally call `ailib.PrintCoolRandMessage` and the ailib library will call said function if it already exists, and generate a function based on that if it doesn't 
-	* Could add context if there's comment 
+	* Could add context if there's comment above function 
