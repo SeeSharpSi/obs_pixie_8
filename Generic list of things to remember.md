@@ -25,4 +25,6 @@
 * Make web UI that's bottom bar looks like obsidian mobile. Clocking icons adds tools the AI request can use 
 	* Could have pop up that has ssh-able (remote) servers the AI can act on. Could select one or multiple and it does things 
 	* Shouldn't have direct shell access - can just run the tools you define on it (e.g. list files, cd) 
-* Mercy Hill leadership thing 
+* Mercy Hill leadership thing  
+* Go through and cancel/consolidate subscriptions 
+	* My Google AI Pro sub comes with YouTube premium lite 
