@@ -7,7 +7,7 @@
 	3. Bridal
 	4. Engagement 
 	5. Rehearsal dinner 
-2. Pre-marital counciling 
+2. Pre-marital counciling
 
 # During wedding 
 ## Needs 
@@ -25,10 +25,18 @@
 9. Christ-centered 
 10. Tableware, plates, utensils 
 11. Whoever's going to do wedding 
-12. 
+12. Wedding bands 
+	* Cost of ring 
+	* Resizing other ring 
+13. Send off 
+	* **Must** be bubbles 
+	* Sparklers are cute
+14. Center pieces 
+	* Rachel could make them for free 
 
 ## Want 
-1. Mocktail
+1. Mocktail 
+2. Party favors  
 
 # Post-wedding 
 1. Honey moon 
