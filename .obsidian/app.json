@@ -22,6 +22,7 @@
     "editor:indent-list",
     "editor:toggle-highlight",
     "editor:insert-footnote",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:toggle-numbered-list"
   ]
 }
