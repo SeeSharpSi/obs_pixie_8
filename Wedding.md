@@ -20,7 +20,11 @@
 5. Venue 
 6. Dress 
 7. Florals 
-8. 
+8. Cake 
+9.  
+
+## Want 
+1. Mocktail
 
 # Post-wedding 
 1. Honey moon 
