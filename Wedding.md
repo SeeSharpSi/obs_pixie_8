@@ -7,6 +7,7 @@
 	3. Bridal
 	4. Engagement 
 	5. Rehearsal dinner 
+2. Pre-marital counciling 
 
 # During wedding 
 ## Needs 
@@ -21,7 +22,10 @@
 6. Dress 
 7. Florals 
 8. Cake 
-9.  
+9. Christ-centered 
+10. Tableware, plates, utensils 
+11. Whoever's going to do wedding 
+12. 
 
 ## Want 
 1. Mocktail
