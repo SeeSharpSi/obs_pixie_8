@@ -24,6 +24,7 @@
 	- [ ] Josie's
 	- [ ] Mitch's
 	- [ ] Silas's 
+	- [ ] rain fly 
 - [ ] sleeping bags 
 - [ ] sleeping pads 
 - [ ] food 
@@ -39,7 +40,9 @@
 - [ ] cooler 
 - [ ] fire stuff 
 	- [ ] hatchet 
-	- [ ] fire started / fuel 
+	- [ ] fire starter / fuel 
+	- [ ] lighter
+	- [ ] matches 
 - [ ] water 
 	- [ ] water bottles
 	- [ ] water cooler 
@@ -48,11 +51,12 @@
 - [ ] cooking utensils 
 	- [ ] pot
 	- [ ] stove
+	- [ ] pot holder
 - [ ] eating utensils 
 	- [ ] plates 
+	- [ ] utensils 
 	- [ ] cups 
-	- [ ] 
-- [ ] paper towels 
+	- [ ] paper towels 
 - [ ] card games 
 - [ ] trash bags 
 - [ ] first aid kit 
@@ -64,8 +68,23 @@
 - [ ] toilet paper 
 - [ ] paracord 
 - [ ] ukulele (both) 
+- [ ] (maybe) dutch oven 
+- [ ] pipes 
+- [ ] tubs to throw camping gear in 
+- [ ] hammer/mallet 
+- [ ] power bank 
+- [ ] towels 
+- [ ] rain jacket 
+- [ ] umbrella 
+- [ ] 
 
-
+# food 
+1. Chili 
+2. Sandwich stuff 
+	1. Rotisserie
+3. Hotdogs 
 
 # personal 
 - [ ] still need underquilt 
+- [ ] Long underwear 
+- [ ] 
