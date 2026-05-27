@@ -104,4 +104,65 @@ Tabacco sampler
 Target*
 - [ ] Flip 7 
 - [ ] Bicycle Cards 
-- [ ] 
+
+# Additional Items (GLM 5.1)
+
+## Itinerary Additions
+- Estimated departure/arrival times
+- Trailhead directions and parking info
+- Backup indoor plans for rain
+- Swim spot location and directions
+- Restaurant options for Saturday lunch
+- Reservation/permit requirements
+
+## Packing Additions
+- [ ] Clothing
+  - [ ] Hiking boots
+  - [ ] Camp shoes/sandals
+  - [ ] Swimwear
+  - [ ] Hat
+  - [ ] Warm layer for evening
+  - [ ] Rain pants
+- [ ] Toiletries
+  - [ ] Toothbrush/paste
+  - [ ] Deodorant
+  - [ ] Hand sanitizer
+  - [ ] Wet wipes
+  - [ ] Biodegradable soap
+- [ ] Kitchen extras
+  - [ ] Dish soap and sponge
+  - [ ] Cutting board
+  - [ ] Kitchen knife
+  - [ ] Spatula
+  - [ ] Can opener
+  - [ ] Condiments (salt, pepper, oil, butter)
+  - [ ] Aluminum foil
+  - [ ] Ice for cooler
+- [ ] Camp comfort
+  - [ ] Camp table
+  - [ ] Extra tarp
+  - [ ] Bungee cords
+  - [ ] Doormat for tent entrance
+  - [ ] Camp rug
+- [ ] Safety and navigation
+  - [ ] Trail maps
+  - [ ] Compass
+  - [ ] Whistle
+  - [ ] Emergency blanket
+  - [ ] National park pass
+  - [ ] ID and cash
+
+## Food Additions
+- S'mores supplies (marshmallows, graham crackers, chocolate)
+- Bread/buns for sandwiches and hotdogs
+- Condiments (mustard, ketchup, mayo)
+- Fruit and vegetables
+- Trail mix and energy bars
+- Drinks (juice, soda, water flavoring)
+
+## Personal Additions
+- [ ] Prescription medications
+- [ ] Glasses/contacts
+- [ ] Lip balm with SPF
+- [ ] Muscle rub
+- [ ] Blister pads

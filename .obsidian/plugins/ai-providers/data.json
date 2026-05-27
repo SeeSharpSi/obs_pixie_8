@@ -10,7 +10,7 @@
       "apiKey": "sk-ZFkySb2YdxBU61ya1hX6GuZYr7kOPWsqwPNnzFyE62DovJWPdgQ3u6ZzHwUvJmdG",
       "url": "https://opencode.ai/zen/go/v1",
       "type": "openai",
-      "model": "deepseek-v4-flash",
+      "model": "glm-5.1",
       "availableModels": [
         "minimax-m2.7",
         "minimax-m2.5",
@@ -40,6 +40,24 @@
           "embedding": false,
           "text": true,
           "tools": false,
+          "vision": false
+        },
+        "qwen3.7-max": {
+          "embedding": false,
+          "text": false,
+          "tools": false,
+          "vision": false
+        },
+        "deepseek-v4-pro": {
+          "embedding": false,
+          "text": true,
+          "tools": false,
+          "vision": false
+        },
+        "glm-5.1": {
+          "embedding": false,
+          "text": true,
+          "tools": true,
           "vision": false
         }
       }

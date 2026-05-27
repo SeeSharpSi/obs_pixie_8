@@ -22,7 +22,7 @@
     "editor:indent-list",
     "editor:toggle-highlight",
     "editor:insert-footnote",
-    "editor:configure-toolbar",
-    "local-gpt:quick-access-6"
+    "local-gpt:quick-access-1",
+    "editor:configure-toolbar"
   ]
 }
