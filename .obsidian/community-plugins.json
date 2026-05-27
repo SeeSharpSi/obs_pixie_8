@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-bible-reference",
-  "templater-obsidian"
+  "templater-obsidian",
+  "local-gpt",
+  "ai-providers"
 ]

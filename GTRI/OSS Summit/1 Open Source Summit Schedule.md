@@ -71,5 +71,5 @@
   - 2.
   - 3.
 - One major takeaway that could help org:
-  -
+  - powerful American Open source models coming soon
 - 

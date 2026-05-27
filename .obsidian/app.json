@@ -23,6 +23,6 @@
     "editor:toggle-highlight",
     "editor:insert-footnote",
     "editor:configure-toolbar",
-    "editor:toggle-numbered-list"
+    "local-gpt:quick-access-6"
   ]
 }

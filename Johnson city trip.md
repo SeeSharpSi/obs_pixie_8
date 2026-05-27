@@ -19,6 +19,8 @@
 	- [ ] under tarp
 	- [ ] stakes 
 	- [ ] rain fly 
+	- [ ] rake
+	- [ ] broom 
 - [ ] blankets 
 - [ ] hammocks 
 	- [ ] Josie's
@@ -59,6 +61,7 @@
 	- [ ] paper towels 
 - [ ] card games 
 - [ ] trash bags 
+- [ ] plastic bags (zip lock)
 - [ ] first aid kit 
 - [ ] bug spray 
 - [ ] sun screen 
@@ -76,6 +79,14 @@
 - [ ] towels 
 - [ ] rain jacket 
 - [ ] umbrella 
+- [ ] binoculars 
+- [ ] table cover
+	- [ ] table screen 
+- [ ] snacks for hike 
+- [ ] propane canisters 
+- [ ] roaster sticks 
+- [ ] extra socks 
+- [ ] know nearest hospital
 - [ ] 
 
 # food 
@@ -87,4 +98,10 @@
 # personal 
 - [ ] still need underquilt 
 - [ ] Long underwear 
+
+Tabacco sampler 
+
+Target*
+- [ ] Flip 7 
+- [ ] Bicycle Cards 
 - [ ] 
