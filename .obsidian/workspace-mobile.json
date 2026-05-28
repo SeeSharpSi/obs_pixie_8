@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible_and_Theology/Studies/study_12-10-2023.md",
+                "file": "To_Do/Software Writing Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "study_12-10-2023"
+              "title": "Software Writing Software"
             }
           }
         ],
@@ -278,6 +278,11 @@
   },
   "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
+    "To_Do/Wedding.md",
+    "Prayer.md",
+    "Bible_and_Theology/Studies/study_12-10-2023.md",
+    "To_Do",
+    "Out_Doors",
     "Bible_and_Theology/Sunday_School/sunday-school_11-19-2023.md",
     "School/SWE-3643_assignment1.md",
     "Tech/revanced.md",
@@ -291,7 +296,7 @@
     "Personal/grocery_list.md",
     "Personal/board_game_night.md",
     "Bible_and_Theology/Misc/adoration.md",
-    "Johnson city trip.md",
+    "Out_Doors/Johnson city trip.md",
     "Personal/ask_hope.md",
     "Personal/do_with_hope.md",
     "plugin-folders/Clippings/openpilot 0.11.md",
@@ -301,9 +306,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "plugin-folders/Clippings/Obsidian Docs",
@@ -312,8 +314,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",
-    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",
