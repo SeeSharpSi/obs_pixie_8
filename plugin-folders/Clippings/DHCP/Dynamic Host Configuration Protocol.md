@@ -54,7 +54,7 @@ DHCP services are used for [Internet Protocol version 4](https://en.wikipedia.or
 
 ## Operation
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DHCP_session.svg/330px-DHCP_session.svg.png)
+![[330px-DHCP_session.svg.png]]
 
 An illustration of a typical non-renewing DHCP session; each message may be either a broadcast or a unicast, depending on the DHCP client capabilities. 4
 
@@ -326,7 +326,7 @@ The communication between the relay agent and the DHCP server typically uses bot
 
 ## Client states
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dhcp-client-state-diagram.svg/250px-Dhcp-client-state-diagram.svg.png)
+![[250px-Dhcp-client-state-diagram.svg.png]]
 
 A simplified DHCP client state-transition diagram based on figure 5 of RFC 2131
 

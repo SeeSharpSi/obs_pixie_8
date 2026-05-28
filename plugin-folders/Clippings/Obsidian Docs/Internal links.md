@@ -86,7 +86,7 @@ To search for headers across the entire vault, use the `[[## header]]` syntax.
 For example, `[[##` will search generically across the vault, whereas `[[## team]]` will search for all headers that contain the word *team*.
 
 > [!info]- Screenshot of searching for a heading link
-> ![internal-links-header.png > interface](https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/internal-links-header.png)
+> ![[internal-links-header.png|internal-links-header.png > interface]]
 > 
 > internal-links-header.png > interface
 
@@ -129,7 +129,7 @@ For *specific lines within a list*, the block identifier can be placed directly 
 You can also search for blocks to link to from across your vault using the `[[^^block]]` syntax. However, more items qualify as blocks compared to [heading links](https://obsidian.md/help/links#Link%20to%20a%20heading%20in%20a%20note), so this list will be much longer.
 
 > [!info]- Screenshot of searching for a block link
-> ![link-block-heading.png > interface](https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/link-block-heading.png)
+> ![[link-block-heading.png|link-block-heading.png > interface]]
 > 
 > link-block-heading.png > interface
 

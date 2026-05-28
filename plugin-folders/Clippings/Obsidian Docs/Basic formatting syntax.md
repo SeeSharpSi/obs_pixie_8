@@ -196,7 +196,7 @@ You can add images with external URLs, by adding a `!` symbol before an [externa
 ![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 ```
 
-![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+![[Engelbart.jpg|Engelbart]]
 
 You can change the image dimensions, by adding `|640x480` to the link destination, where 640 is the width and 480 is the height.
 

@@ -42,7 +42,7 @@ The dot product is a way to multiply two vectors to produce a single scalar. It 
 
 Linear algebra enables the expression of complex datasets in a way that algorithms can understand and process, therefore allowing the construction of complex models using a plethora of data collected from the real world.
 
-![A comparison chart illustrating scalar, vector, matrix, and tensor concepts. The image uses colorful numerical representations to differentiate each mathematical structure. Numbers such as '1', '2', '5', and '6' are clearly visible within the matrix and tensor examples.](https://assets.ibm.com/is/image/ibm/datatype?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=616 "Scalar, Vector, Matrix, and Tensor visual chart")
+![[Image 13.png|A comparison chart illustrating scalar, vector, matrix, and tensor concepts. The image uses colorful numerical representations to differentiate each mathematical structure. Numbers such as '1', '2', '5', and '6' are clearly visible within the matrix and tensor examples.]]
 
 ### Understanding algorithms
 

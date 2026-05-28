@@ -125,16 +125,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prayer.md",
+                "file": "plugin-folders/Clippings/Card Games/How to play durak - The fast-paced card Eastern European card game..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prayer"
+              "title": "How to play durak - The fast-paced card Eastern European card game."
+            }
+          },
+          {
+            "id": "9f0c858fa5141bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To_Do/Do.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Do"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -230,7 +244,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Johnson city trip.md",
+            "file": "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -244,7 +258,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ben.md"
+            "file": "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -256,12 +273,12 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,53 +293,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b96848e18015e1f0",
+  "active": "9f0c858fa5141bd4",
   "lastOpenFiles": [
-    "Rachel/Wedding.md",
-    "Generic list of things to remember.md",
-    "Bible_and_Theology/Theology_and_Apologetics/What Practices did Jesus Say to Have.md",
-    "Bible_and_Theology/Studies/study_12-10-2023.md",
-    "Prayer.md",
-    "To_Do/Software Writing Software.md",
-    "README.md",
+    "To_Do/Do.md",
+    "plugin-folders/Clippings/Card Games/How to play durak - The fast-paced card Eastern European card game..md",
+    "plugin-folders/Clippings/Card Games/How To Play President (A Card Game About Privilege).md",
+    "plugin-folders/Clippings/Card Games/Barbu - card game rules.md",
+    "pictures/President-is-a-card-game-that-demonstrates-the-power-of-privilege.jpg",
+    "pictures/Pairs-being-beaten-by-a-single-two-of-hearts.jpg",
+    "pictures/barbuchips.png",
+    "pictures/barbua.gif",
+    "pictures/barbu.jpg",
+    "plugin-folders/Clippings/Card Games/Spades.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/1 What is a feature engineering.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/1 What is Statistical Machine Learning.md",
+    "pictures/Image 16.png",
+    "pictures/Image 15.png",
+    "pictures/Image 14.png",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/2 What Is Linear Algebra for Machine Learning.md",
+    "pictures/Image 13.png",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/3 What is Data Visualization in Machine Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/4 Uncertainty Quantification.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/5 What is Bias-Variance Tradeoff.md",
+    "pictures/Image 12.png",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/6 What are Bayesian statistics.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/7 What Is Singular Value Decomposition (SVD).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/2 Types of Machine Learning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/3 What Are Machine Learning Algorithms.md",
+    "plugin-folders/Clippings/Obsidian Docs/Basic formatting syntax.md",
+    "plugin-folders/Clippings/Obsidian Docs/Internal links.md",
+    "plugin-folders/Clippings/DHCP/What is DHCP.md",
+    "plugin-folders/Clippings/DHCP/Personal Research.md",
+    "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
+    "plugin-folders/Clippings/Card Games/Six Card Golf.md",
+    "plugin-folders/Clippings/Card Games/Palace.md",
+    "plugin-folders/Clippings/Card Games/Euchre.md",
+    "plugin-folders/Clippings/Card Games/Bridge.md",
+    "plugin-folders/Clippings/Card Games/Hearts.md",
+    "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
+    "plugin-folders/Clippings/Card Games",
     "Rachel",
     "To_Do",
     "Out_Doors",
-    "Bible_and_Theology/Sunday_School/sunday-school_11-19-2023.md",
-    "School/SWE-3643_assignment1.md",
-    "Tech/revanced.md",
-    "Personal/movies.md",
-    "Personal/present_ideas.md",
-    "Bible_and_Theology/BCM_and_Retreats/pcb.md",
-    "Personal/movie_plans.md",
-    "Theater_and_Music/loleks_notes1.md",
-    "Bible_and_Theology/Scripture/john.md",
-    "Bible_and_Theology/Theology_and_Apologetics/gods_will.md",
-    "Personal/grocery_list.md",
-    "Personal/board_game_night.md",
-    "Bible_and_Theology/Misc/adoration.md",
-    "Out_Doors/Johnson city trip.md",
-    "Personal/ask_hope.md",
-    "Personal/do_with_hope.md",
-    "plugin-folders/Clippings/openpilot 0.11.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "2026-05-26.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "plugin-folders/Clippings/Obsidian Docs",
     "plugin-folders/Clippings/DHCP",
-    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
-    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning",
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
-    "pictures/PXL_20260520_162952381.jpg",
-    "pictures/PXL_20260520_162140147.jpg",
-    "pictures/PXL_20260520_161906168.jpg",
-    "pictures/PXL_20260520_161055807.jpg",
-    "pictures/PXL_20260520_160540202.jpg",
-    "pictures/PXL_20260520_160411937.jpg",
-    "pictures/PXL_20260520_160137133.jpg",
-    "pictures/PXL_20260519_170649786.jpg",
-    "pictures/PXL_20260518_222016780.jpg",
-    "pictures/PXL_20260518_221021632.jpg"
+    "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression"
   ]
 }

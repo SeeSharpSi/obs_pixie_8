@@ -169,7 +169,7 @@ Probability distributions underpin:
 
 The Bernoulli distribution models the probability of success or failure in a single trial of a discrete random event. That is, it only has two outcomes: 1 (success) or 0 (failure). It's the simplest type of distribution used in statistics, yet it forms the foundation of many classification problems in machine learning. For example, if you were to flip a coin 10 times, and you get 7 heads (success) and 3 tails (failure), the probability mass function (PMF) can be graphed as:
 
-![Distribution coinflips - bar chart](https://assets.ibm.com/is/image/ibm/distribution_coinflips:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Bar chart showing success and failure probabilities")
+![[Image 14.png|Distribution coinflips - bar chart]]
 
 A coin flip is a classic Bernoulli trial. Let's apply the probability mass function to the coin flip example
 
@@ -183,7 +183,7 @@ The probability mass function (PMF) of the Bernoulli distribution is:
 
 $P(X=x)=px(1-p)1-x,forx∈{0,1}$
 
-![Bernoulli distribution - lollipop chart](https://assets.ibm.com/is/image/ibm/bernoulli_distribution_pmf:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Bernoulli distribution graph with probability")
+![[Image 15.png|Bernoulli distribution - lollipop chart]]
 
 Where:
 
@@ -204,7 +204,7 @@ The logistic (sigmoid) function used in logistic regression ensures that predict
 
 The normal distribution describes a continuous random variable whose values tend to cluster around a central mean, with symmetric variability in both directions. It's ubiquitous in statistics because many natural phenomena (height, test scores, measurement errors) follow this pattern, especially when aggregated across samples.
 
-![Normal distribution - bell curve](https://assets.ibm.com/is/image/ibm/normal_distribution:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Bell curve graph with statistical markers")
+![[Image 16.png|Normal distribution - bell curve]]
 
 Imagine you record the heights of 1,000 adults. Plotting this data reveals a bell-shaped curve: most people are close to the average, with fewer at the extremes. This shape is captured by the probability density function (PDF) of the normal distribution:
 

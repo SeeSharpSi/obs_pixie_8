@@ -47,11 +47,11 @@ $A=UΣVT$
 
 SVD allows every matrix (A) to be expressed as a combination of rotations and scalings in space, despite its shape. Other popular matrix decomposition methods often suffer from limitations such as matrix shape requirement, but SVD allows decomposition of matrix A into three smaller matrices: U, V and $Σ$. U and V are orthogonal matrices, where $Σ$ contains the singular values.
 
-![Diagram made for the Think blog](https://assets.ibm.com/is/image/ibm/svd?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=733 "Matrix Decomposition Visualization with SVD")
+![[Image 2.png|Diagram made for the Think blog]]
 
 To use a concrete example, a table of movie ranking by various users is shown here:
 
-![Data table made for the Think blog](https://assets.ibm.com/is/image/ibm/movies-x-users?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1188 "User movie rating matrix with scores")
+![[Image 3.png|Data table made for the Think blog]]
 
 In the movie dataset, each row represents a user and each column represents a movie. The fields represent users’ rating regarding a specific movie, on a scale of 1–5. Data in the real world, when expressed this way, can quickly become unmanageably large. Instead of storing the large dataset as a single matrix, we can use SVD to not only break it down into simpler pieces, but also identify patterns in it.
 

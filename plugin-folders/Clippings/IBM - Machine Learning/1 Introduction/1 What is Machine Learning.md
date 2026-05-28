@@ -154,7 +154,7 @@ In deep reinforcement learning, the policy is represented as a [neural network](
 
 Loosely inspired by the human brain, neural networks comprise interconnected layers of “neurons” (or *nodes*), each of which performs its own mathematical operation (called an “activation function”). The output of each node’s activation function serves as input to each of the nodes of the following layer and so on until the final layer, where the network’s final output is computed. Crucially, the activation functions performed at each node are *nonlinear*, enabling neural networks to model complex patterns and dependencies.
 
-![Neural network diagram with input layer, multiple hidden layers, and output layer connected by weighted links.](https://assets.ibm.com/is/image/ibm/deep-neural-network-diagram:2x1?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=792)
+![[Image.png|Neural network diagram with input layer, multiple hidden layers, and output layer connected by weighted links.]]
 
 Each connection between two neurons is assigned a unique *weight*: a multiplier that increases or decreases one neuron’s contribution to a neuron in the following layer. These weights, along with unique *bias* terms added to each neuron's activation function, are the parameters to be optimized through machine learning.
 
@@ -168,13 +168,13 @@ Having said that, just because something is *theoretically* possible doesn’t m
 
 [Convolutional neural networks (CNNs)](https://www.ibm.com/think/topics/convolutional-neural-networks) add *convolutional layers* to neural networks. In mathematics, a convolution is an operation where one function modifies (or *convolves*) the shape of another. In CNNs, convolutional layers are used to extract important features from data by [applying weighted “filters”.](https://developer.ibm.com/articles/introduction-to-convolutional-neural-networks/) CNNs are primarily associated with computer vision models and image data, but have a number of other important use cases.
 
-![Diagram of image convolution with a numbered input grid, a 3×3 filter matrix, and an output grid showing summed results.](https://assets.ibm.com/is/image/ibm/iclh-diagram-convolutional-neural-networks:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Matrix filter visualization with numeric grid")
+![[Image 1.png|Diagram of image convolution with a numbered input grid, a 3×3 filter matrix, and an output grid showing summed results.]]
 
 ### Recurrent neural networks (RNNs)
 
 [Recurrent neural networks (RNNs)](https://www.ibm.com/think/topics/recurrent-neural-networks) are designed to work on sequential data. Whereas conventional feedforward neural networks map a single input to a single output, RNNs map a *sequence* of inputs to an output by operating in a recurrent loop in which the output for a given step in the input sequence serves as input to the computation for the following step. In effect this creates an internal “memory,” called the *hidden state*, that allows RNNs to understand context and order.
 
-![Diagram comparing folded and unrolled recurrent neural networks, showing X and Y nodes expanded across time steps.](https://assets.ibm.com/is/image/ibm/what-are-recurrent-neural-networks-combined:16x9?dpr=on%2C2.2222222222222223&wid=1584&hei=891)
+![[Image 2.jpg|Diagram comparing folded and unrolled recurrent neural networks, showing X and Y nodes expanded across time steps.]]
 
 ### Transformers
 

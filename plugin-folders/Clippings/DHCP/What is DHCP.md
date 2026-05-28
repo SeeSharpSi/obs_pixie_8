@@ -10,7 +10,7 @@ tags:
   - clippings
   - dhcp
 ---
-![What is DHCP-DHCP principle](https://efficientip.com/wp-content/uploads/2022/06/What-is-DHCP-DHCP-principle.png)
+![[What-is-DHCP-DHCP-principle.png|What is DHCP-DHCP principle]]
 
 What is DHCP-DHCP principle
 
@@ -22,7 +22,7 @@ DHCP allows administrators to make use of network services such as ==DNS==, ==NT
 
 This video is an abstract of our DHCP demystified training available in our [DDI](https://efficientip.com/glossary/what-is-ddi/ "What is DDI? (DNS-DHCP-IPAM)") introduction cursus composed of DHCP, [DNS](https://efficientip.com/glossary/what-is-dns/ "What is DNS?") and [IPAM](https://efficientip.com/glossary/what-is-ipam/ "What is IPAM?"). By watching it, you will learn the role of DHCP, the principles of the DHCP protocol and the message flows between a client and a server.
 
-![](https://www.youtube.com/watch?v=xR0p_yU9Cdo)
+![[Image.jpg]]
 
 ## Configuration Data Sent by DHCP Server and Key Values
 
@@ -40,7 +40,7 @@ The [DHCP service](https://www.efficientip.com/dhcp-underestimated-network-servi
 
 The IP address information assigned by DHCP is only valid for a limited period of time, and is known as a [DHCP lease](https://efficientip.com/glossary/dhcp-lease/ "What is DHCP Lease?"). The period of validity is called the DHCP lease time. When the lease expires, the client can no longer use the IP address and has to stop all communication with the IP network unless he requests to extend the lease “rent” via the DHCP lease renewal cycle. To avoid impacts of the DHCP server not being available at the end of the lease time, clients generally start renewing their lease halfway through the lease period. This renewal process ensures robust IP address allocation to devices. Any device asking for a new IP version 4 address at arrival on the network and not receiving an answer will use automatic private internet protocol addressing (APIPA) to select an address. These addresses are in the network range 169.254.0.0/16.
 
-![What is DHCP-DHCP lease](https://efficientip.com/wp-content/uploads/2022/06/What-is-DHCP-DHCP-lease-1024x579.png)
+![[What-is-DHCP-DHCP-lease-1024x579.png|What is DHCP-DHCP lease]]
 
 What is DHCP-DHCP lease
 
@@ -57,7 +57,7 @@ There are four key DHCP usage scenarios:
 
 [DHCP options](https://efficientip.com/glossary/dhcp-option/) can be used to automatically provide clients with information on the network services they can use. ==This is a very efficient way to push the IP address of the time server, the mail server, the DNS server, and the printer server==[^2]. This can also be used to provide a file name and a file server that will be used by the client to start a specific boot process – mainly used for IP phones and Wi-Fi access points but can also be used for auto-installing clients and servers with ==PXE==[^3] (Preboot eXecution Environment).
 
-![What is DHCP-DHCP options](https://efficientip.com/wp-content/uploads/2020/03/What-is-DHCP-DHCP-options.png)
+![[What-is-DHCP-DHCP-options.png|What is DHCP-DHCP options]]
 
 What is DHCP-DHCP options
 
@@ -104,7 +104,7 @@ Yes, DHCP is used in **both wired and wireless networks**. Regardless of the med
 
 DHCP remains consistent across both mediums because it follows the same **standardized** processes and formats defined in **RFC** specifications. The format of the DHCP message—including headers, options, and **octet** structure—remains the same, ensuring uniform behavior across devices and platforms.
 
-![](https://www.youtube.com/watch?v=937l04pazbw)
+![[Image 1.jpg]]
 
 [^1]: Note: Not key-value data; rather, _values_ DHCP brings
 

@@ -30,7 +30,7 @@ In predictive models such as linear regression or K-nearest neighbor (KNN), bias
 - **Bias** measures how far off, on average, a model’s predictions are from the ground truth values. High-bias models tend to make strong assumptions about the form of the data and cause underfitting. An overly simplistic model tends to have high bias and low variance—a model like this tends to have high training errors and high prediction errors.
 - **Variance** measures how much a model’s predictions change with different training datasets. High-variance models are sensitive to noise in the training data and cause overfitting. A model with complex architecture and more parameters tends to have high variance and low bias.
 
-![Bias variance diagram](https://assets.ibm.com/is/image/ibm/bias-variance-diagram:1x1?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1584)
+![[Image 6.png|Bias variance diagram]]
 
 In this explainer, we use [linear regression](https://www.ibm.com/think/topics/linear-regression) as an example to illustrate how the model complexity affects the bias and variance in predicted results. Recall that in linear regression, the evaluation metric is defined by mean square error (MSE): the average squared error from ground truth and predicted value. A large MSE indicates a poorly fit model on the training data, whereas a low MSE indicates a well-fitted model on the training data.
 
@@ -44,7 +44,7 @@ $RSS=∑i=1n(yi-yi^)2$
 
 Let’s say we’re given a set of input values X and corresponding output values Y. The true relationship between X and Y is nonlinear—think of a smooth, curved U-shape like a sine wave. But we don’t know that underlying function. Instead, we observe noisy data points that approximate it.
 
-![Graphic of noisy data](https://assets.ibm.com/is/image/ibm/noisy-data:3x2?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1056)
+![[Image 7.png|Graphic of noisy data]]
 
 We now want to build a model to predict Y by using X.
 
@@ -58,7 +58,7 @@ $y^=β0+β1x$
 
 The model is represented as a straight line:
 
-![Polynomial degree 1](https://assets.ibm.com/is/image/ibm/polynomial_degree_1:1x1?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1584)
+![[Image 8.png|Polynomial degree 1]]
 
 This model is **very simple** and makes a strong assumption that the relationship between X and Y is linear. But the data clearly has a curved pattern. As a result:
 
@@ -72,7 +72,7 @@ This is an example of underfitting—the model is too simple to learn the true s
 
 $y^=β0+β1x+β2x2+β3x3+β4x4$
 
-![Polynomial degree 4](https://assets.ibm.com/is/image/ibm/polynomial_degree_4:1x1?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1584)
+![[Image 9.png|Polynomial degree 4]]
 
 Now we use a polynomial that includes powers of x up to $x4$:
 
@@ -90,7 +90,7 @@ This is the best-performing model in our example—it generalizes well.
 
 $y^=∑i=025βixi$
 
-![Polynomial degree 25](https://assets.ibm.com/is/image/ibm/polynomial_degree_25?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1584)
+![[Image 10.png|Polynomial degree 25]]
 
 With 26 parameters, the model has high flexibility and fits the training data very closely—even the random noise. The curve looks very squiggly and overfits the data.
 
@@ -106,7 +106,7 @@ In the example above, we can see that model complexity and the number of paramet
 
 Therefore, when we construct a machine learning model, we aim to simultaneously bias and variance to achieve optimum model performance. This optimization not only generates good results from the training, but also generalize well to unseen testing data. In the next section, we dive into the mathematical details of how bias and variance calculation is derived and why machine learning model contains uncertainties that are made up of bias, variance and irreducible error.
 
-![Bias variance tradeoff](https://assets.ibm.com/is/image/ibm/bias_variance_tradeoff_padding:4x3?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1188)
+![[Image 11.png|Bias variance tradeoff]]
 
 ## Bias and variance in practice
 
@@ -328,7 +328,7 @@ Link copied
 
 ## Resources
 
-[![Podcast starring Cassie Kozyrkov: Right Data, right decisions](https://assets.ibm.com/is/image/ibm/1280x720_16x9_aiia_thumbnail_dataintelligence_s2_ep9_01-1:4x3?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=1188 "Think podcast cover with greenery backdrop")](https://www.ibm.com/think/podcasts/ai-in-action/decision-intelligence-data-driven)
+[![[Image 12.png|Podcast starring Cassie Kozyrkov: Right Data, right decisions]]](https://www.ibm.com/think/podcasts/ai-in-action/decision-intelligence-data-driven)
 
 [Podcast: Decision Intelligence: Thoughtful, data-driven choices](https://www.ibm.com/think/podcasts/ai-in-action/decision-intelligence-data-driven)
 

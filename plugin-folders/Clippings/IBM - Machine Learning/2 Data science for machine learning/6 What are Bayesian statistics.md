@@ -43,7 +43,7 @@ Bayes theorem enables inference in the form of a posterior distribution that can
 
 Conceptually, we use the prior information and the observed data to come up with a new estimate of what is likely to happen based on previous belief and new information:
 
- ![The observed distribution and prior distribution being combined into a posterior distribution](https://assets.ibm.com/is/image/ibm/prior-posterior-data:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Probability distribution graph with three curves")Observed distribution and prior distribution combine to create a posterior distribution
+ ![[Image 4.png|The observed distribution and prior distribution being combined into a posterior distribution]]Observed distribution and prior distribution combine to create a posterior distribution
 
 This approach is widely used in statistical machine learning. Model architectures like Naive Bayes leverage Bayes theorem to perform classification tasks like sifting out spam emails. Forecasting in meteorological and financial contexts often apply Bayesian principles to generate probabilistic forecasts that show all possible values in a forecast.
 
@@ -170,7 +170,7 @@ $σ2∼Inverse-Gamma(1,1)$
 
 This states that the data scientist believes that $β0$ and $β1$ are somewhere within a normal distribution centered around 0 and that the errors are probably small but never negative. The inverse-gamma distribution models this belief because it has 0 as a lower bound and the majority of the probable values below 2.
 
- ![The inverse gamma distribution, which is often as a prior for errors.](https://assets.ibm.com/is/image/ibm/inverse-gamma-distribution:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891 "Inverse-Gamma Distribution Graph with Parameters")The inverse gamma distribution, often as a prior for errors.
+ ![[Image 5.png|The inverse gamma distribution, which is often as a prior for errors.]]The inverse gamma distribution, often as a prior for errors.
 
 The data would be used to modify those parameters
 
