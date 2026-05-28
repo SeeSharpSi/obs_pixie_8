@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To_Do/Software Writing Software.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Writing Software"
+              "title": "README"
             }
           }
         ],
@@ -278,7 +278,9 @@
   },
   "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
-    "To_Do/Wedding.md",
+    "Rachel",
+    "To_Do/Software Writing Software.md",
+    "Rachel/Wedding.md",
     "Prayer.md",
     "Bible_and_Theology/Studies/study_12-10-2023.md",
     "To_Do",
@@ -304,8 +306,6 @@
     "2026-05-26.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "plugin-folders/Clippings/Obsidian Docs",
