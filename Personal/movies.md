@@ -4,7 +4,7 @@
 * Casablanca
 * Casino Royal
 
-# to watch w/ hope
+# to watch
 * ~~Dune~~
 * lotr
 * star wars

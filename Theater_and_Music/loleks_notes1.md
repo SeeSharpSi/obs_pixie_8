@@ -92,7 +92,7 @@ Soft r
 
 Silas Tompkins, an aspiring software engineer, sits at his table deliberating. "Why is the economy changing," "how can we solve world hunger," and "why does Canton lack an In-N-Out?" are questions he may ask himself. All we know is that whichever he chooses to solve, he will. While we may not deserve him, he is the man we need.
 
-Silas enjoyed music, so he took up drums and garnered a somewhat personal investment in the sonic arts. This would manifest in his involvement in several highschool plays and his fascination with sound production. Fast-forward to today and you will find him jamming to Don Ellis's cover of "Hey Jude" while coding. He's grateful to Hope for asking him to participate in Kansas, and his sister Josie for introducing him to Loleks.
+Silas enjoyed music, so he took up drums and garnered a somewhat personal investment in the sonic arts. This would manifest in his involvement in several highschool plays and his fascination with sound production. Fast-forward to today and you will find him jamming to Don Ellis's cover of "Hey Jude" while coding.
 
 
 ## 3-14

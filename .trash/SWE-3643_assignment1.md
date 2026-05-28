@@ -44,48 +44,6 @@ Iteration on design is also important, though primarily from a coding standpoint
 Maintenance is something I can't really comment on as I've never done customer facing changes after a full release. Still, it's on my initial list as I've encountered maintenance problems from third parties and how easy they are to implement says a lot about a company.
 Overall, my opinions don't reflect many decisions made by businesses (except possibly Netflix). Most businesses like to spend long periods planning, drawing, and finalizing designs before they touch code. This is understandable, but not my approach to software.
 
-
-Fixing it can't just be me 
-Hey, I hope we can have a deep intentional conversation in the near future about how we feel about each other. And how we feel each other have done in our relationship.
-It seems like we both have pent up stuff
-It seems like something's gone wrong 
-It seems like we've been approaching this wrong
-Get stuff off our chest
-
-I realize early on I did look down on you at certain points (e.g. baptism, homosexuality). Which was wrong of me.
-But you proved to be someone 
-
-You don't trust me
-
-Ask them to pray for him
-	Makes me realize that, instead of being bad about wanting help, you specifically don't want help from me
-
-so... is there a time in the future that works or no? I'm not working Friday if that helps
-I just didn't get a chance to respond in our convo, I was too tired to talk last night after food and what I did say didn't seem to register with you.
-
-It doesn't seem like I talk down to you because I think I'm above you. It's because I don't know if you care about me
-
-
-
-I know that it's not fair of me to ask if you can talk so many times in a row, but it would really mean a lot to me
-
-Was dumping me hard?
-You friendzoning me made me feel so down. But I was like "why do I feel down?" It wasn't very hard to realize, so I made a list:
-* Us in the BCM parking lot staying up late. Getting spooked by the guy in the building across the street
-* Us playing board games at Panera
-	* I know it got stale but I still had a blast
-* Those faces you make (you know the ones)
-* The BCM dance. Especially the chicken dance
-* Me you and other Silas at Hank's house
-* "Why would you watch a 2 hour livestream to watch a guy sit on a rock for 6 minutes"
-* Even at PCB, my highlights include you in the humongous big chair, and you and me commentating Q's food review
-* The hike we went on. That was the most fun I've had in a long time 
-* I know the mall two days ago ended on a bad note, but the mall was still fun. And that evening after the mall I felt somehow closer to you
-
-You've asked me several times why I would date you, and each time I gave the response "because I care about you." But I only recently told you that I love you, and I meant it.
-I loved you for so long. But I didn't tell you because I was waiting for you to show you cared about me. And you were starting to, and you did.
-But I don't love you because you're pretty (though, you are). I don't love you because you're smart (though you are). I love you because of you. And I see myself in you. And I see someone who has lived a hard life and is fighting a spiritual battle I can't imagine. And you're winning the battle. I looked down on you for what you believed. But I completely missed the woman of God you're becoming. That's something I aspire to be like. And I want to be a part of your life.
-
 I know you said you always dreamed of dating someone you were already friends with. I felt the same way (and even put a stake in the ground that I would _never_ date someone I wasn't already friends with).
 But you came around and I asked you out. And I stuck with it. It's just sad that you give up so easily, I had really hoped I was worth not giving up on.
 I think you're right in several ways 
@@ -93,12 +51,7 @@ I think you're right in several ways
 2. I let jealousy for Peter's group get in the way of me participating with you all (which I had started to do before we dated btw)
 3. It was never about us being a unit, a team, a couple. It was about "what am I doing wrong" or "what are they doing wrong"
 
-Yesterday I was pretty shell shocked by your response. But I'll say now what I wanted to say yesterday: I told you those things so that we could work through them together.
-In fact, I'd initially gotten into your truck with the intention of "starting over" as well. But not as friends. Instead, to date to actually see if we're compatible and to be a team. I've messed up a lot, and I want to work through that _with_ you. Because we massively got off on the wrong foot. With both of us busy, and me being prideful. I know you think that "if it was meant to be it will happen." You can't live your life that way. For the important things, you've gotta take a step.
-A few weeks ago I was at my limit with our relationship. But around that time you said that you realized your actions didn't reflect how you felt and that you wanted to fix that. So I gave us another chance. I realize now my actions also didn't reflect how I felt, so please give me the same chance.
-I don't expect you to have an answer right now. I know I've been terrible. But I hope that if you don't have an answer right now you'll at least think about it and maybe talk to some people about it.
-
-Besides, we've got something that friends don't have. We've seen each other at our worst.
+ seen each other at our worst.
 You said you still care about me. Please don't let that die 
 
 Next Valentine's Day I'll make sure you actually find the card I write you

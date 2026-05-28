@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Johnson city trip.md",
+                "file": "Bible_and_Theology/Studies/study_12-10-2023.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Johnson city trip"
+              "title": "study_12-10-2023"
             }
           }
         ],
@@ -162,7 +162,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#5/21/2026",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -230,7 +230,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "plugin-folders/Clippings/openpilot 0.11.md",
+            "file": "Johnson city trip.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -276,8 +276,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b96848e18015e1f0",
+  "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
+    "Bible_and_Theology/Sunday_School/sunday-school_11-19-2023.md",
+    "School/SWE-3643_assignment1.md",
+    "Tech/revanced.md",
+    "Personal/movies.md",
+    "Personal/present_ideas.md",
+    "Bible_and_Theology/BCM_and_Retreats/pcb.md",
+    "Personal/movie_plans.md",
+    "Theater_and_Music/loleks_notes1.md",
+    "Bible_and_Theology/Scripture/john.md",
+    "Bible_and_Theology/Theology_and_Apologetics/gods_will.md",
+    "Personal/grocery_list.md",
+    "Personal/board_game_night.md",
+    "Bible_and_Theology/Misc/adoration.md",
+    "Johnson city trip.md",
+    "Personal/ask_hope.md",
+    "Personal/do_with_hope.md",
     "plugin-folders/Clippings/openpilot 0.11.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "2026-05-26.md",
@@ -288,24 +304,8 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Johnson city trip.md",
-    "GTRI/OSS Summit/1 Open Source Summit Schedule.md",
-    "Learn on Piano.md",
-    "plugin-folders/Clippings/A Pipe Smoking Primer (Pipe Smoking 101).md",
-    "plugin-folders/Clippings/How to Play Regicide Card Game Rules & Strategy Guide.md",
-    "Wedding.md",
-    "GTRI/OSS Summit/Quantum - IBM.md",
-    "GTRI/OSS Summit/Framework questions.md",
-    "My Agent.md",
     "plugin-folders/Clippings/Obsidian Docs",
     "plugin-folders/Clippings/DHCP",
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",

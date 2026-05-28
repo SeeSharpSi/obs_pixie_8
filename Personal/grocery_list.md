@@ -6,7 +6,6 @@ Honey mustard (or chik fil a)
 
 
 Mirror
-Hope BROWNIES
 
 Ken said the only sin that will lead you to hell is not accepting Christ
 

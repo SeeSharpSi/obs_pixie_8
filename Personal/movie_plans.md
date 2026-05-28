@@ -1,7 +1,6 @@
 # spirited away + pizza 
 Invite list: 
 * Nate
-* Hope
 * Josie
 * Sardis Youth? 
 

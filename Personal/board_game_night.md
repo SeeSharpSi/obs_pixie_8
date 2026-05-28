@@ -7,8 +7,7 @@
 	3. Matthew D. 
 - G1 
 	1. Silas 
-	2. Hope 
-	3. Josie 
+	2. Josie 
 
 # To Invite 
 * Mitch 

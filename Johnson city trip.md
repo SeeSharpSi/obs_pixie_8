@@ -16,76 +16,80 @@
 
 # packing 
 - [ ] tent 
-	- [ ] under tarp
-	- [ ] stakes 
-	- [ ] rain fly 
+	- [x] under tarp
+	- [x] stakes 
+	- [x] rain fly 
 	- [ ] rake
 	- [ ] broom 
-- [ ] blankets 
+- [x] blankets 
+- [ ] batteries (AA)
 - [ ] hammocks 
-	- [ ] Josie's
-	- [ ] Mitch's
+	- [x] Josie's
+	- [x] Mitch's
 	- [ ] Silas's 
-	- [ ] rain fly 
+	- [x] rain fly 
 - [ ] sleeping bags 
-- [ ] sleeping pads 
+- [x] sleeping pads 
 - [ ] food 
 	- only need bfast for Sunday 
 	- [ ] eggs 
-	- [ ] frozen chili
+	- [ ] sausage 
+	- [ ] frozen chili 
+	- [ ] yogurt 
 	- [ ] dogs
 	- [ ] tea/coffee 
-	- [ ] percolator 
+	- [x] percolator 
+	- [ ] apples
 - [ ] lights 
-	- [ ] lantern 
+	- [x] lantern 
 	- [ ] head lights 
-- [ ] cooler 
+- [x] cooler 
 - [ ] fire stuff 
-	- [ ] hatchet 
+	- [x] hatchet 
 	- [ ] fire starter / fuel 
-	- [ ] lighter
+	- [x] lighter
 	- [ ] matches 
-- [ ] water 
-	- [ ] water bottles
-	- [ ] water cooler 
-- [ ] chairs 
+- [x] water 
+	- [x] water bottles
+	- [x] water cooler 
+- [x] chairs 
 - [ ] pillows 
-- [ ] cooking utensils 
-	- [ ] pot
-	- [ ] stove
-	- [ ] pot holder
+- [x] cooking utensils 
+	- [x] pot
+	- [x] stove
+	- [x] pot holder
 - [ ] eating utensils 
 	- [ ] plates 
-	- [ ] utensils 
-	- [ ] cups 
+	- [x] utensils 
+	- [x] cups 
 	- [ ] paper towels 
 - [ ] card games 
-- [ ] trash bags 
-- [ ] plastic bags (zip lock)
+- [x] trash bags 
+- [x] plastic bags (zip lock)
 - [ ] first aid kit 
-- [ ] bug spray 
-- [ ] sun screen 
-- [ ] pocket knife 
-- [ ] hiking back packs
-- [ ] duct tape 
-- [ ] toilet paper 
-- [ ] paracord 
-- [ ] ukulele (both) 
+- [x] bug spray 
+- [x] sun screen 
+- [x] pocket knife 
+- [x] hiking back packs
+- [x] duct tape 
+- [x] toilet paper 
+- [x] paracord 
+- [x] ukulele (both) 
 - [ ] (maybe) dutch oven 
 - [ ] pipes 
-- [ ] tubs to throw camping gear in 
-- [ ] hammer/mallet 
-- [ ] power bank 
-- [ ] towels 
-- [ ] rain jacket 
-- [ ] umbrella 
+- [x] tubs to throw camping gear in 
+- [x] hammer/mallet 
+- [x] power bank 
+- [x] towels 
+- [x] rain jacket / ponchos 
+- [x] umbrella 
 - [ ] binoculars 
-- [ ] table cover
-	- [ ] table screen 
+- [x] table cover
+	- [x] table screen 
 - [ ] snacks for hike 
-- [ ] propane canisters 
-- [ ] roaster sticks 
-- [ ] extra socks 
+- [x] propane canisters 
+- [x] roaster sticks 
+- [x] extra socks 
 - [ ] know nearest hospital
 - [ ] 
 

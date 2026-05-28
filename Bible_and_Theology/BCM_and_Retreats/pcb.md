@@ -139,12 +139,6 @@ This trip's theme is "the greatness of God."
 	2. It hurts your ministry towards others (because you look like them, in a bad sense) 
 	* A prevalent one is swearing, though others can be bad jokes, sexual sin, affirming the sin of others, etc. 
 
-Hope is a blessing
-* Seeing her laugh at dinner 
-* Hearing her worship
-* Her asking me if I'm okay
-* Asking my opinion on the worship 
-
 Hardship 
 * Tried to hang intentionally, felt shut down 
 * Pier 
