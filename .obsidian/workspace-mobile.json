@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Prayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Prayer"
             }
           }
         ],
@@ -276,13 +276,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac6c3b85f3e30a5c",
+  "active": "b96848e18015e1f0",
   "lastOpenFiles": [
-    "Rachel",
-    "To_Do/Software Writing Software.md",
     "Rachel/Wedding.md",
-    "Prayer.md",
+    "Generic list of things to remember.md",
+    "Bible_and_Theology/Theology_and_Apologetics/What Practices did Jesus Say to Have.md",
     "Bible_and_Theology/Studies/study_12-10-2023.md",
+    "Prayer.md",
+    "To_Do/Software Writing Software.md",
+    "README.md",
+    "Rachel",
     "To_Do",
     "Out_Doors",
     "Bible_and_Theology/Sunday_School/sunday-school_11-19-2023.md",
@@ -304,8 +307,6 @@
     "plugin-folders/Clippings/openpilot 0.11.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "2026-05-26.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "plugin-folders/Clippings/Obsidian Docs",
@@ -313,7 +314,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
     "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning",
     "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",
     "pictures/PXL_20260520_162952381.jpg",
     "pictures/PXL_20260520_162140147.jpg",
     "pictures/PXL_20260520_161906168.jpg",

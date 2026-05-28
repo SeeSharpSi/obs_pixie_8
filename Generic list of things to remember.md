@@ -1,4 +1,4 @@
-#5/19/2026
+#5/19/2026 #wip 
 * System d quadlets for containers 
 * Boot c
 * Ask Wes about comptia AI certification 
