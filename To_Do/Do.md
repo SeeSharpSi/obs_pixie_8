@@ -14,4 +14,8 @@
 - [ ] ice
 - [ ] sandwich bags 
 - [ ] fire wood (treated) 
+- [ ] towel (for silas) 
+- [ ] 2 bags of hot dog buns 
+- [ ] 1 bag of cheddar wurst 
+- [ ] sugar and creamer for coffee 
 
