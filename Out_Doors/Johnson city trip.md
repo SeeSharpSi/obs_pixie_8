@@ -1,4 +1,4 @@
-#5/25/2026
+#5/25/2026 #wip
 
 # itinerary 
 ## Friday 
@@ -22,33 +22,33 @@
 	- [ ] rake
 	- [ ] broom 
 - [x] blankets 
-- [ ] batteries (AA)
-- [ ] hammocks 
+- [x] batteries (AA)
+- [x] hammocks 
 	- [x] Josie's
 	- [x] Mitch's
-	- [ ] Silas's 
+	- [x] Silas's 
 	- [x] rain fly 
-- [ ] sleeping bags 
+- [x] sleeping bags 
 - [x] sleeping pads 
-- [ ] food 
+- [x] food 
 	- only need bfast for Sunday 
-	- [ ] eggs 
-	- [ ] sausage 
-	- [ ] frozen chili 
-	- [ ] yogurt 
-	- [ ] dogs
-	- [ ] tea/coffee 
+	- [x] eggs 
+	- [x] sausage 
+	- [x] frozen chili 
+	- [x] yogurt 
+	- [x] dogs
+	- [x] tea/coffee 
 	- [x] percolator 
-	- [ ] apples
-- [ ] lights 
+	- [x] apples
+- [x] lights 
 	- [x] lantern 
-	- [ ] head lights 
+	- [x] head lights 
 - [x] cooler 
-- [ ] fire stuff 
+- [x] fire stuff 
 	- [x] hatchet 
-	- [ ] fire starter / fuel 
+	- [x] fire starter / fuel 
 	- [x] lighter
-	- [ ] matches 
+	- [x] matches 
 - [x] water 
 	- [x] water bottles
 	- [x] water cooler 
@@ -58,15 +58,15 @@
 	- [x] pot
 	- [x] stove
 	- [x] pot holder
-- [ ] eating utensils 
-	- [ ] plates 
+- [x] eating utensils 
+	- [x] plates 
 	- [x] utensils 
 	- [x] cups 
-	- [ ] paper towels 
-- [ ] card games 
+	- [x] paper towels 
+- [x] card games 
 - [x] trash bags 
 - [x] plastic bags (zip lock)
-- [ ] first aid kit 
+- [x] first aid kit 
 - [x] bug spray 
 - [x] sun screen 
 - [x] pocket knife 
@@ -83,10 +83,10 @@
 - [x] towels 
 - [x] rain jacket / ponchos 
 - [x] umbrella 
-- [ ] binoculars 
+- [x] binoculars 
 - [x] table cover
 	- [x] table screen 
-- [ ] snacks for hike 
+- [x] snacks for hike 
 - [x] propane canisters 
 - [x] roaster sticks 
 - [x] extra socks 

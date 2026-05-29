@@ -8,3 +8,10 @@
 - [ ] Send resume to Silas 
 - [ ] Purchase Regicide 
 - [ ] GSP: delete comment newlines, show new comment when added, ask Emma what's in activity log bottom box, make sure comment formatting works, make search work
+
+# purchase 
+- [ ] paper towels 
+- [ ] ice
+- [ ] sandwich bags 
+- [ ] fire wood (treated) 
+

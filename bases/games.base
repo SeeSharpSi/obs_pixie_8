@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.hasTag("board_games", "card_games")
+views:
+  - type: table
+    name: Table

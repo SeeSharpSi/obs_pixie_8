@@ -1,0 +1,18 @@
+summaries:
+  WIP: values.filter(!value.toString().contains("wip")).length
+filters:
+  and:
+    - file.hasTag("wip")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.mtime
+    summaries:
+      tags: WIP
+  - type: list
+    name: List
+    filters:
+      and:
+        - file.tags.contains("wip")
