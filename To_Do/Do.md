@@ -29,6 +29,11 @@ Rachel got blue cuz of my eyes
 
 # tell I'm engaged 
 - [ ] Riley Branson
-- [ ] 
+- [ ] Jack Arington 
+- [ ] Silas (say not to tell BCM) 
+- [ ] Chase (say not to tell church)
 
 
+Mitch best man 
+Riley 
+Silas 
