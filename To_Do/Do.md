@@ -12,6 +12,7 @@
 	- [ ] have a page with painting that inspired color pallette on website 
 - [ ] write up on GitLab duo 
 	- [ ] flow, pipelines
+- [ ] continue Bible project using bolls translations (English at least) 
 
 # purchase 
 - [ ] paper towels 
