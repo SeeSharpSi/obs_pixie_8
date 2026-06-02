@@ -195,7 +195,7 @@
               "type": "markdown",
               "state": {
                 "file": "To_Do/Do.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -350,10 +350,10 @@
   },
   "active": "0634b178a489b787",
   "lastOpenFiles": [
-    "Rachel/Honeymoon Plans.md",
-    "wip.base",
     "Rachel/Wedding.md",
+    "wip.base",
     "To_Do/Do.md",
+    "Rachel/Honeymoon Plans.md",
     "Self Hosting Rack.md",
     "plugin-folders/Clippings/Food/How to Make Percolator Coffee on the Stovetop.md",
     "plugin-folders/Clippings/DHCP/What is DHCP.md",

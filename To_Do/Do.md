@@ -16,6 +16,7 @@
 - [ ] ask band if they'd be down to play song(s) for wedding 
 - [ ] set up self-hosting rack - [[Self Hosting Rack]]
 - [ ] learn how to containerize docker app and NOT allow it access to external internet (but allow specific IPs) 
+- [ ] pray about who's officiating wedding 
 
 
 Rachel got blue cuz of my eyes 
@@ -30,8 +31,12 @@ Rachel got blue cuz of my eyes
 - [ ] Hank 
 
 
+# wedding party 
 - [x] Mitch best man 
 - [ ] Riley (asked but waiting on boss)
 - [ ] Silas (haven't asked) 
 
 
+# shopping list 
+- [ ] pack of Gatorade 
+- [ ] box of mountain dew 
