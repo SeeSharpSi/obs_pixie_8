@@ -13,16 +13,9 @@
 - [ ] write up on GitLab duo 
 	- [ ] flow, pipelines
 - [ ] continue Bible project using bolls translations (English at least) 
-
-# purchase 
-- [ ] paper towels 
-- [ ] ice
-- [ ] sandwich bags 
-- [ ] fire wood (treated) 
-- [ ] towel (for silas) 
-- [ ] 2 bags of hot dog buns 
-- [ ] 1 bag of cheddar wurst 
-- [ ] sugar and creamer for coffee 
+- [ ] ask band if they'd be down to play song(s) for wedding 
+- [ ] set up self-hosting rack - [[Self Hosting Rack]]
+- [ ] learn how to containerize docker app and NOT allow it access to external internet (but allow specific IPs) 
 
 
 Rachel got blue cuz of my eyes 
@@ -30,11 +23,13 @@ Rachel got blue cuz of my eyes
 
 # tell I'm engaged 
 - [ ] Riley Branson
-- [ ] Jack Arington 
+- [x] Jack Arington 
 - [ ] Silas (say not to tell BCM) 
 - [ ] Chase (say not to tell church)
 
 
-Mitch best man 
-Riley 
-Silas 
+- [x] Mitch best man 
+- [ ] Riley (asked but waiting on boss)
+- [ ] Silas (haven't asked) 
+
+

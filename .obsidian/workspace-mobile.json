@@ -173,9 +173,23 @@
               "icon": "lucide-file",
               "title": "Do"
             }
+          },
+          {
+            "id": "af1d89e369f048ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To_Do/Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Do"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -320,12 +334,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ba821e77d7646cf",
+  "active": "af1d89e369f048ac",
   "lastOpenFiles": [
+    "Self Hosting Rack.md",
+    "To_Do/Do.md",
     "plugin-folders/Clippings/Food/How to Make Percolator Coffee on the Stovetop.md",
     "plugin-folders/Clippings/DHCP/What is DHCP.md",
     "Hebrews.md",
-    "To_Do/Do.md",
     "Out_Doors/Smokies Points of Interest.md",
     "wip.base",
     "Rachel/Wedding.md",
@@ -364,7 +379,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/7 What Is Singular Value Decomposition (SVD).md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/2 Types of Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/3 What Are Machine Learning Algorithms.md",
     "plugin-folders/Clippings/Card Games",
     "Rachel",
     "To_Do",
