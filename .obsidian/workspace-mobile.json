@@ -180,12 +180,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Hosting Rack.md",
+                "file": "Rachel/Wedding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self Hosting Rack"
+              "title": "Wedding"
             }
           }
         ],
@@ -336,13 +336,13 @@
   },
   "active": "af1d89e369f048ac",
   "lastOpenFiles": [
+    "wip.base",
     "To_Do/Do.md",
     "Self Hosting Rack.md",
     "plugin-folders/Clippings/Food/How to Make Percolator Coffee on the Stovetop.md",
     "plugin-folders/Clippings/DHCP/What is DHCP.md",
     "Hebrews.md",
     "Out_Doors/Smokies Points of Interest.md",
-    "wip.base",
     "Rachel/Wedding.md",
     "plugin-folders/Clippings/Untitled.canvas",
     "plugin-folders/Clippings/Food",
@@ -378,7 +378,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/6 What are Bayesian statistics.md",
     "plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning/7 What Is Singular Value Decomposition (SVD).md",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/2 Types of Machine Learning.md",
     "plugin-folders/Clippings/Card Games",
     "Rachel",
     "To_Do",
