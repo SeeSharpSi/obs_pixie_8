@@ -26,7 +26,8 @@ Rachel got blue cuz of my eyes
 - [x] Jack Arington 
 - [x] Silas (say not to tell BCM) 
 - [x] Chase (say not to tell church)
-- [ ] mccoys 
+- [ ] McCoys 
+- [ ] Hank 
 
 
 - [x] Mitch best man 

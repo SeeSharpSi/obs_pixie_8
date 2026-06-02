@@ -4,5 +4,6 @@
 	* Green 
 	* Not super hot 
 	* Moderate climate 
+	* Cool, natural features 
 * Scotland 
 * Switzerland 

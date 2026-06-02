@@ -194,12 +194,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rachel/Honeymoon Plans.md",
+                "file": "To_Do/Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honeymoon Plans"
+              "title": "Do"
             }
           }
         ],
@@ -350,8 +350,8 @@
   },
   "active": "0634b178a489b787",
   "lastOpenFiles": [
-    "wip.base",
     "Rachel/Honeymoon Plans.md",
+    "wip.base",
     "Rachel/Wedding.md",
     "To_Do/Do.md",
     "Self Hosting Rack.md",
