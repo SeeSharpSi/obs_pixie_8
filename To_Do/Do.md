@@ -18,6 +18,8 @@
 - [ ] set up self-hosting rack - [[Self Hosting Rack]]
 - [ ] learn how to containerize docker app and NOT allow it access to external internet (but allow specific IPs) 
 - [ ] pray about who's officiating wedding 
+- [ ] get ring finger sized 
+- [ ] get passport (soon!) 
 
 
 Rachel got blue cuz of my eyes 
