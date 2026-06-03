@@ -6,8 +6,9 @@
 - [ ] Get credit card
 - [ ] Update resume
 - [ ] Send resume to Silas 
-- [ ] Purchase Regicide 
-- [ ] GSP: delete comment newlines, show new comment when added, ask Emma what's in activity log bottom box, make sure comment formatting works, make search work
+- [x] Purchase Regicide 
+	- decided not to
+- [x] GSP: delete comment newlines, show new comment when added, ask Emma what's in activity log bottom box, make sure comment formatting works, make search work
 - [ ] painting to color pallette idea
 	- [ ] have a page with painting that inspired color pallette on website 
 - [ ] write up on GitLab duo 
@@ -40,3 +41,4 @@ Rachel got blue cuz of my eyes
 # shopping list 
 - [ ] pack of Gatorade 
 - [ ] box of mountain dew 
+
