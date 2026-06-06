@@ -1,0 +1,8 @@
+#6/4/2026 #wip 
+- [x] ask Wes about [SecAI+](https://www.comptia.org/en-us/certifications/secai/)  
+	- "it's still on the radar" 
+- [x] mow the lawn 
+- [ ] passport 
+- [ ] VBS 
+- [ ] record sparrows and flowers 
+- [ ] get Rachel chocolate 

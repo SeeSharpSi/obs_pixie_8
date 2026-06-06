@@ -20,6 +20,7 @@
 - [ ] pray about who's officiating wedding 
 - [ ] get ring finger sized 
 - [ ] get passport (soon!) 
+- [ ] ask Gerald about marriage counseling 
 
 
 Rachel got blue cuz of my eyes 
