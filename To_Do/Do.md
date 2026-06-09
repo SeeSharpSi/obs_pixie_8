@@ -11,16 +11,17 @@
 - [x] GSP: delete comment newlines, show new comment when added, ask Emma what's in activity log bottom box, make sure comment formatting works, make search work
 - [ ] painting to color pallette idea
 	- [ ] have a page with painting that inspired color pallette on website 
-- [ ] write up on GitLab duo 
-	- [ ] flow, pipelines
+- [x] write up on GitLab duo 
+	- [x] flow, pipelines
 - [ ] continue Bible project using bolls translations (English at least) 
-- [ ] ask band if they'd be down to play song(s) for wedding 
+- [x] ask band if they'd be down to play song(s) for wedding 
 - [ ] set up self-hosting rack - [[Self Hosting Rack]]
 - [ ] learn how to containerize docker app and NOT allow it access to external internet (but allow specific IPs) 
 - [ ] pray about who's officiating wedding 
-- [ ] get ring finger sized 
+- [x] get ring finger sized 
 - [ ] get passport (soon!) 
-- [ ] ask Gerald about marriage counseling 
+- [ ] ==GET CHECK FOR PASSPORT==
+- [x] ask Gerald about marriage counseling 
 
 
 Rachel got blue cuz of my eyes 
