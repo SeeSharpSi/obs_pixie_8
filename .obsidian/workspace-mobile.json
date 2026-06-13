@@ -271,9 +271,23 @@
               "icon": "lucide-file",
               "title": "prayer list"
             }
+          },
+          {
+            "id": "01a252c22e9f980e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -419,14 +433,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b346d80bc4f08ddc",
+  "active": "01a252c22e9f980e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "prayer list.md",
     "To_Do/Do.md",
     "Sardis Wedding Invite List.md",
     "Generic list of things to remember.md",
     "Bible_and_Theology/Prayer.md",
     "Bible_and_Theology/Scripture/Hebrews.md",
-    "prayer list.md",
     "Pebble/Pebble LLM Agent.md",
     "Pebble/Obsidian Viewer.md",
     "Pebble",
@@ -466,7 +481,6 @@
     "Out_Doors/Johnson city trip.md",
     "bases",
     "plugin-folders/Clippings/Card Games/How To Play President (A Card Game About Privilege).md",
-    "plugin-folders/Clippings/Card Games/Barbu - card game rules.md",
     "plugin-folders/Clippings/Card Games",
     "Rachel"
   ]
