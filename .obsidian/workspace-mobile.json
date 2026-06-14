@@ -285,9 +285,23 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "b178ec700e82e4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pebble/Pebble LLM Agent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pebble LLM Agent"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -433,12 +447,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "01a252c22e9f980e",
+  "active": "b178ec700e82e4e9",
   "lastOpenFiles": [
-    "Untitled.md",
+    "wip.base",
+    "Rachel/Bday note.md",
+    "Rachel/Kura sushi rankings.md",
     "prayer list.md",
     "To_Do/Do.md",
-    "Sardis Wedding Invite List.md",
+    "Rachel/Sardis Wedding Invite List.md",
     "Generic list of things to remember.md",
     "Bible_and_Theology/Prayer.md",
     "Bible_and_Theology/Scripture/Hebrews.md",
@@ -446,7 +462,6 @@
     "Pebble/Obsidian Viewer.md",
     "Pebble",
     "Rachel/Wedding.md",
-    "wip.base",
     "To_Do/Today To Do.md",
     "To_Do/Work To Do.md",
     "Rachel/Rachel Games.md",
@@ -478,9 +493,7 @@
     "Personal/board_game_night.md",
     "plugin-folders/Clippings/Card Games/How to play durak - The fast-paced card Eastern European card game..md",
     "Test Canvas.canvas",
-    "Out_Doors/Johnson city trip.md",
     "bases",
-    "plugin-folders/Clippings/Card Games/How To Play President (A Card Game About Privilege).md",
     "plugin-folders/Clippings/Card Games",
     "Rachel"
   ]
