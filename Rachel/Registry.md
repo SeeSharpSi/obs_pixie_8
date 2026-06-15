@@ -20,3 +20,14 @@
 15. Forks, knives, spoons 
 16. Set of nice glasses 
 17. Nice vacuum 
+18. 1000% egyptian cotton sheets 
+19. Cloth napkins 
+20. Tent 
+21. Suit cases
+22. Money for flight for future travel 
+	1. "Flight to [insert place] for one year anniversary"
+23. Louis and Ali's coffee thing but actual coffee grounds 
+24. 
+
+
+Ask my mom what's being set aside for us
