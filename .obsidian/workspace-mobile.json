@@ -306,16 +306,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Pebble/Pebble LLM Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pebble LLM Agent"
+            }
+          },
+          {
+            "id": "8a65e525d8fe7af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To_Do/Today To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Today To Do"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -461,11 +475,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bcc4f74a45cf51cb",
+  "active": "8a65e525d8fe7af0",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Pebble/Pebble LLM Agent.md",
     "wip.base",
+    "Rachel/Registry.md",
+    "Pebble/Pebble LLM Agent.md",
+    "Untitled.md",
     "Rachel/Bday note.md",
     "Rachel/Kura sushi rankings.md",
     "prayer list.md",
@@ -505,8 +520,6 @@
     "plugin-folders/Clippings/Staying Safe Around Bears - Bears (U.S. National Park Service).md",
     "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
     "bases/games.base",
-    "Personal/board_game_night.md",
-    "plugin-folders/Clippings/Card Games/How to play durak - The fast-paced card Eastern European card game..md",
     "Test Canvas.canvas",
     "bases",
     "plugin-folders/Clippings/Card Games",
