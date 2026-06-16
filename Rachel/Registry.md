@@ -27,7 +27,12 @@
 22. Money for flight for future travel 
 	1. "Flight to [insert place] for one year anniversary"
 23. Louis and Ali's coffee thing but actual coffee grounds 
-24. 
+24. Automatic Litter Box 
+25. Dish towels
+26. Bath towels
+27. Lawn chairs
+28. Pickle Ball paddles and net 
+29. Matching PJ set
 
 
 Ask my mom what's being set aside for us

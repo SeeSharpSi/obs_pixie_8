@@ -320,12 +320,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rachel/Registry.md",
+                "file": "Pebble/Pebble LLM Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registry"
+              "title": "Pebble LLM Agent"
             }
           }
         ],
@@ -439,7 +439,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Rachel/Registry.md",
+            "file": "Pebble/Pebble LLM Agent.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -477,9 +477,9 @@
   },
   "active": "8a65e525d8fe7af0",
   "lastOpenFiles": [
-    "To_Do/Today To Do.md",
     "wip.base",
     "Rachel/Registry.md",
+    "To_Do/Today To Do.md",
     "Pebble/Pebble LLM Agent.md",
     "Untitled.md",
     "Rachel/Bday note.md",

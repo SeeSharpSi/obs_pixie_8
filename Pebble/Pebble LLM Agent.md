@@ -11,5 +11,15 @@
 * Custom MCP with just an API endpoint and API key
 	* Could make mcp, add endpoints, and all associate with one API key 
 * Make it start scroll at top of most recent response 
+* When it hits the tool call cap it should be told to send final response with caveat rather than erroring 
+* Make model drop-down instead of manually input 
+* Make anthropic endpoints work (qwen) 
+* Put context size number somewhere 
+* Click prompt to see thinking and tool call history of its response 
+* Make the watch's loading indicator and the line under llm_thing the "bold" color 
+* Canceling dictation should go back to home screen
+* Scrolling to the very bottom of the response should show a dictate icon. If there, select will dictate prompt for current chat. If not there, select will open menu with options (like export chat or new chat) 
+* Set max tool calls per mcp server 
+* Make sure the LLM knows to let the user know it ran out of tool calls (when it does) 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 
