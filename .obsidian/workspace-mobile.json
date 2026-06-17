@@ -320,16 +320,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pebble/Pebble LLM Agent.md",
+                "file": "To_Do/Do.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pebble LLM Agent"
+              "title": "Do"
+            }
+          },
+          {
+            "id": "11f3182bdfeb6893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pebble/MLB Pitch-by-Pitch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLB Pitch-by-Pitch"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -475,17 +489,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8a65e525d8fe7af0",
+  "active": "11f3182bdfeb6893",
   "lastOpenFiles": [
+    "Pebble/Pebble LLM Agent.md",
+    "Pebble/MLB Pitch-by-Pitch.md",
     "wip.base",
+    "Rachel/Honeymoon Plans.md",
+    "Rachel wedding gift ideas.md",
+    "To_Do/Do.md",
     "Rachel/Registry.md",
     "To_Do/Today To Do.md",
-    "Pebble/Pebble LLM Agent.md",
     "Untitled.md",
     "Rachel/Bday note.md",
     "Rachel/Kura sushi rankings.md",
     "prayer list.md",
-    "To_Do/Do.md",
     "Rachel/Sardis Wedding Invite List.md",
     "Generic list of things to remember.md",
     "Bible_and_Theology/Prayer.md",
@@ -495,7 +512,6 @@
     "Rachel/Wedding.md",
     "To_Do/Work To Do.md",
     "Rachel/Rachel Games.md",
-    "Rachel/Honeymoon Plans.md",
     "pictures/Recording 20260603095656.m4a",
     "/prayer list.md",
     "/Rachel/Honeymoon Plans.md",
@@ -517,7 +533,6 @@
     "pictures/903A6387-CE3F-80A1-959114C281F642A8.png",
     "pictures/F3DBC0CB-1DD8-B71B-0B3EBEE321AD9411.jpg",
     "plugin-folders/Clippings/How To Protect Yourself From Bears (SAFETY Tips).md",
-    "plugin-folders/Clippings/Staying Safe Around Bears - Bears (U.S. National Park Service).md",
     "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
     "bases/games.base",
     "Test Canvas.canvas",
