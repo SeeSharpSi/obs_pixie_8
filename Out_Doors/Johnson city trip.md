@@ -1,4 +1,4 @@
-#5/25/2026 #wip
+#5/25/2026
 
 # itinerary 
 ## Friday 
