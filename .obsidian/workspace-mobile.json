@@ -334,12 +334,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pebble/Bible.md",
+                "file": "Rachel wedding gift ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bible"
+              "title": "Rachel wedding gift ideas"
             }
           }
         ],
@@ -491,11 +491,15 @@
   },
   "active": "11f3182bdfeb6893",
   "lastOpenFiles": [
-    "Rachel/Funny.md",
     "Pebble/Bible.md",
+    "dgroup/dgroup.md",
+    "dgroup",
+    "Rachel/Registry.md",
+    "wip.base",
+    "Rachel wedding gift ideas.md",
+    "Rachel/Funny.md",
     "Pebble/Pebble LLM Agent.md",
     "Rachel/Wedding.md",
-    "wip.base",
     "To_Do/Work To Do.md",
     "To_Do/Today To Do.md",
     "prayer list.md",
@@ -503,10 +507,7 @@
     "Out_Doors/Johnson city trip.md",
     "Pebble/MLB Pitch-by-Pitch.md",
     "Rachel/Honeymoon Plans.md",
-    "Rachel wedding gift ideas.md",
     "To_Do/Do.md",
-    "Rachel/Registry.md",
-    "Untitled.md",
     "Rachel/Bday note.md",
     "Rachel/Kura sushi rankings.md",
     "Rachel/Sardis Wedding Invite List.md",
@@ -520,7 +521,6 @@
     "/Rachel/Honeymoon Plans.md",
     "/Rachel",
     "To_Do/Self Hosting Rack.md",
-    "plugin-folders/Clippings/Food/How to Make Percolator Coffee on the Stovetop.md",
     "plugin-folders/Clippings/Untitled.canvas",
     "plugin-folders/Clippings/Food",
     "pictures/bearspray.jpg",
@@ -537,7 +537,6 @@
     "bases/games.base",
     "Test Canvas.canvas",
     "bases",
-    "plugin-folders/Clippings/Card Games",
-    "Rachel"
+    "plugin-folders/Clippings/Card Games"
   ]
 }
