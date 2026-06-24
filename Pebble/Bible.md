@@ -9,6 +9,8 @@ Top right shows chapter:verse
 Verse by verse - verses start on new page
 Could open certain Scripture reading each day
 
+Show translation on selection page 
+
 Make notes and bookmarks exportable
 
 
