@@ -30,5 +30,10 @@
 	* [ ] timers could have live countdown 
 * [ ] enable Google oauth for things like the Google calendar mcp 
 * [ ] Allow it to modify timeline pins it's created 
+* [ ] Paper.design MCP
+* [ ] fix "show thinking"
+* [ ] make it read obsidian noteboom 
+	* [ ] tool: grep 
+* [ ] access to my GitHub repos 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 
