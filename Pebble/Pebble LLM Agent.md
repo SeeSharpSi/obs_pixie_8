@@ -35,5 +35,10 @@
 * [ ] make it read obsidian noteboom 
 	* [ ] tool: grep 
 * [ ] access to my GitHub repos 
+* [ ] hit up on main screen to see preset prompts 
+* [ ] hit down on main screen to see past chats 
+	* [ ] preserve chats should be a toggle that defaults to off 
+* [ ] add memories 
+* [ ] add show context toggle that defaults to off 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 
