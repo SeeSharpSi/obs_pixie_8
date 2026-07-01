@@ -3,7 +3,7 @@
 - [x] Add comment delete button GSP
 - [x] Check cdCon ticket in email
 - [x] Clean car — pack gooomhaven
-- [ ] Get credit card
+- [x] Get credit card
 - [ ] Update resume
 - [ ] Send resume to Silas 
 - [x] Purchase Regicide 
@@ -19,7 +19,7 @@
 - [ ] learn how to containerize docker app and NOT allow it access to external internet (but allow specific IPs) 
 - [ ] pray about who's officiating wedding 
 - [x] get ring finger sized 
-- [ ] get passport (soon!) 
+- [x] get passport (soon!) 
 - [ ] ==GET CHECK FOR PASSPORT==
 - [x] ask Gerald about marriage counseling 
 
@@ -38,8 +38,8 @@ Rachel got blue cuz of my eyes
 
 # wedding party 
 - [x] Mitch best man 
-- [ ] Riley (asked but waiting on boss)
-- [ ] Silas (haven't asked) 
+- [x] Riley (asked but waiting on boss)
+- [x] Silas (haven't asked) 
 
 
 # shopping list 

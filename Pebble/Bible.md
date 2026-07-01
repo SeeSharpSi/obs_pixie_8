@@ -8,3 +8,10 @@ Select either bookmarks current verse or shows menu
 Top right shows chapter:verse 
 Verse by verse - verses start on new page
 Could open certain Scripture reading each day
+
+Show translation on selection page 
+
+Make notes and bookmarks exportable
+
+
+If I'm in book chapter verse select and hit back button while on book it should go to menu to choose bookmark or notes list 

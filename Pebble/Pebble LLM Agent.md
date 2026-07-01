@@ -22,6 +22,23 @@
 * [ ] Set max tool calls per mcp server 
 * [ ] Make sure the LLM knows to let the user know it ran out of tool calls (when it does) 
 * [ ] Option to make all text bold font (though, bold text setting would still only apply to actual bold text) 
-* [ ] Add momentum to scroll
+* [x] Add momentum to scroll
+* [ ] notes tool 
+	* [ ] view and edit notes
+* [ ] touch scroll makes screen light turn on with every tap
+* [ ] pressing down on main menu should go to actions screen that shows the actions the AI has taken (e.g. set timers, timeline pins, etc) 
+	* [ ] timers could have live countdown 
+* [ ] enable Google oauth for things like the Google calendar mcp 
+* [ ] Allow it to modify timeline pins it's created 
+* [ ] Paper.design MCP
+* [ ] fix "show thinking"
+* [ ] make it read obsidian noteboom 
+	* [ ] tool: grep 
+* [ ] access to my GitHub repos 
+* [ ] hit up on main screen to see preset prompts 
+* [ ] hit down on main screen to see past chats 
+	* [ ] preserve chats should be a toggle that defaults to off 
+* [ ] add memories 
+* [ ] add show context toggle that defaults to off 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 
