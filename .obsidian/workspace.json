@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rachel/the fit.md",
+                "file": "Pebble/Pebble LLM Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the fit"
+              "title": "Pebble LLM Agent"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "temp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,10 +201,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd359f66ff48d4b0",
+  "active": "c2e4247ad50308b2",
   "lastOpenFiles": [
-    "Rachel/Honeymoon Plans.md",
     "Rachel/the fit.md",
+    "Pebble/Pebble LLM Agent.md",
+    "llm_thing/World Cup 2026 Status.md",
+    "llm_thing/Wedding Plans Summary.md",
+    "llm_thing/Paper Design MCP Research.md",
+    "llm_thing",
+    "dgroup/dgroup.md",
+    "dgroup",
+    "Rachel/Honeymoon Plans.md",
     "Rachel/Sardis Wedding Invite List.md",
     "Rachel/Registry.md",
     "Rachel/Kura sushi rankings.md",
@@ -221,17 +228,12 @@
     "Sardis Wedding Invite List.md",
     "Rachel/Rachel Games.md",
     "Pebble/Obsidian Viewer.md",
-    "Pebble/Pebble LLM Agent.md",
     "Pebble",
     "Bible_and_Theology/Scripture/Hebrews.md",
     "Bible_and_Theology/Prayer.md",
     "wip.base",
     "Prayer.md",
     "prayer list.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/8 What is downsampling.md",
-    "plugin-folders/Clippings/openpilot 0.11.md",
-    "plugin-folders/Clippings/Staying Safe Around Bears - Bears (U.S. National Park Service).md",
-    "plugin-folders/Clippings/Obsidian Docs/Obsidian on X The future of Obsidian plugins.md",
     "plugin-folders/Clippings/Food",
     "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
     "plugin-folders/Clippings/Card Games",
@@ -246,8 +248,6 @@
     "pictures/What-is-DHCP-DHCP-principle.png",
     "pictures/What-is-DHCP-DHCP-options.png",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "bases/games.base",
-    "bases"
+    "copilot"
   ]
 }
