@@ -304,46 +304,17 @@
             "id": "bcc4f74a45cf51cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Pebble/Pebble LLM Agent.md",
-                "mode": "source",
-                "source": false
+                "file": "wip.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Pebble LLM Agent"
-            }
-          },
-          {
-            "id": "8a65e525d8fe7af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To_Do/Do.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Do"
-            }
-          },
-          {
-            "id": "11f3182bdfeb6893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pebble/Pebble LLM Agent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pebble LLM Agent"
+              "icon": "lucide-table",
+              "title": "wip"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -489,41 +460,41 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "11f3182bdfeb6893",
+  "active": "bcc4f74a45cf51cb",
   "lastOpenFiles": [
-    "llm_thing/Wedding Plans Summary.md",
-    "To_Do/Do.md",
+    "Bible_and_Theology/Theology_and_Apologetics/What Practices did Jesus Say to Have.md",
+    "wip.base",
     "Rachel/Wedding.md",
+    "To_Do/Today To Do.md",
+    "Rachel/Registry.md",
+    "Rachel/the fit.md",
+    "prayer list.md",
+    "Bible_and_Theology/Prayer.md",
+    "Pebble/Obsidian Viewer.md",
+    "Rachel/Honeymoon Plans.md",
+    "Generic list of things to remember.md",
+    "llm_thing/All Open Checkboxes.md",
+    "llm_thing/WIP Condensed To-Do.md",
+    "llm_thing/WIP Condensed To-Do-2.md",
+    "/Rachel/the fit.md",
+    "/Rachel/Honeymoon Plans.md",
+    "/Rachel",
+    "To_Do/Do.md",
+    "llm_thing/WIP Summary To Do.md",
+    "llm_thing/Wedding Plans Summary.md",
+    "Rachel/Sardis Wedding Invite List.md",
+    "Pebble/Pebble LLM Agent.md",
     "bases/games.base",
     "llm_thing/Pebble Tool Test.md",
     "llm_thing/Tool Test Note.md",
     "plugin-folders/Clippings/Card Games/Bridge.md",
     "Personal/board_game_night.md",
     "plugin-folders/Clippings/Card Games/Barbu - card game rules.md",
-    "Pebble/Obsidian Viewer.md",
     "Pebble/MLB Pitch-by-Pitch.md",
-    "Pebble/Bible.md",
-    "Pebble/Pebble LLM Agent.md",
-    "llm_thing/MCP Tool Test.md",
-    "llm_thing/MCP Tool Test Note.md",
-    "llm_thing/MCP Re-Test.md",
-    "llm_thing/MCP test note.md",
-    "llm_thing/Obsidian MCP Tool Test Results.md",
-    "README.md",
-    "llm_thing/Paper Design MCP Research.md",
-    "llm_thing/World Cup 2026 Status.md",
     "llm_thing",
-    "Rachel wedding gift ideas.md",
-    "dgroup/dgroup.md",
     "dgroup",
-    "Rachel/Registry.md",
-    "wip.base",
-    "Rachel/Funny.md",
-    "To_Do/Work To Do.md",
-    "To_Do/Today To Do.md",
     "Pebble",
     "pictures/Recording 20260603095656.m4a",
-    "/Rachel",
     "plugin-folders/Clippings/Untitled.canvas",
     "plugin-folders/Clippings/Food",
     "pictures/bearspray.jpg",

@@ -1,5 +1,12 @@
 #6/1/2026 #wip 
 
+# Todo 6-30-2026 
+- [ ] book delta flight with sky miles 
+
+
+
+
+
 * "For honeymoon, I'm thinking nature" - Rachel 
 	* Green 
 	* Not super hot 

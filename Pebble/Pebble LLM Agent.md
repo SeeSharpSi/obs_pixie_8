@@ -39,6 +39,7 @@
 * [ ] hit down on main screen to see past chats 
 	* [ ] preserve chats should be a toggle that defaults to off 
 * [ ] add memories 
-* [ ] add show context toggle that defaults to off 
+* [x] add show context toggle that defaults to off 
+* [ ] redo health tool calls 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 
