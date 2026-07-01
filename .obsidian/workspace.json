@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Honeymoon Plans"
             }
+          },
+          {
+            "id": "c2e4247ad50308b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rachel/the fit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the fit"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -186,8 +201,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9abe51896ab1de9d",
+  "active": "fd359f66ff48d4b0",
   "lastOpenFiles": [
+    "Rachel/Honeymoon Plans.md",
+    "Rachel/the fit.md",
+    "Rachel/Sardis Wedding Invite List.md",
+    "Rachel/Registry.md",
+    "Rachel/Kura sushi rankings.md",
+    "Rachel/Funny.md",
+    "Rachel/Bday note.md",
+    "Rachel wedding gift ideas.md",
+    "Pebble/MLB Pitch-by-Pitch.md",
+    "Pebble/Bible.md",
+    "pictures/Recording 20260603095656.m4a",
+    "Untitled.md",
+    "To_Do/Work To Do.md",
+    "To_Do/Today To Do.md",
+    "To_Do/Self Hosting Rack.md",
+    "Sardis Wedding Invite List.md",
+    "Rachel/Rachel Games.md",
+    "Pebble/Obsidian Viewer.md",
+    "Pebble/Pebble LLM Agent.md",
+    "Pebble",
+    "Bible_and_Theology/Scripture/Hebrews.md",
+    "Bible_and_Theology/Prayer.md",
     "wip.base",
     "Prayer.md",
     "prayer list.md",
@@ -195,22 +232,9 @@
     "plugin-folders/Clippings/openpilot 0.11.md",
     "plugin-folders/Clippings/Staying Safe Around Bears - Bears (U.S. National Park Service).md",
     "plugin-folders/Clippings/Obsidian Docs/Obsidian on X The future of Obsidian plugins.md",
-    "plugin-folders/Clippings/How To Protect Yourself From Bears (SAFETY Tips).md",
-    "plugin-folders/Clippings/Food/How to Make Percolator Coffee on the Stovetop.md",
     "plugin-folders/Clippings/Food",
-    "plugin-folders/Clippings/Card Games/Six Card Golf.md",
-    "plugin-folders/Clippings/Card Games/Spades.md",
     "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
-    "plugin-folders/Clippings/Card Games/Palace.md",
-    "plugin-folders/Clippings/Card Games/How to play durak - The fast-paced card Eastern European card game..md",
-    "plugin-folders/Clippings/Card Games/How to Play Regicide Card Game Rules & Strategy Guide.md",
-    "plugin-folders/Clippings/Card Games/How To Play President (A Card Game About Privilege).md",
-    "plugin-folders/Clippings/Card Games/Hearts.md",
-    "plugin-folders/Clippings/Card Games/Euchre.md",
-    "plugin-folders/Clippings/Card Games/Bridge.md",
-    "plugin-folders/Clippings/Card Games/Barbu - card game rules.md",
     "plugin-folders/Clippings/Card Games",
-    "plugin-folders/Clippings/A Pipe Smoking Primer (Pipe Smoking 101).md",
     "pictures/link-block-heading.png",
     "pictures/joshua-reddekopp-BN_ZAk0plVk-unsplash-2048x1011.jpg",
     "pictures/internal-links-header.png",
@@ -221,17 +245,9 @@
     "pictures/barbu.jpg",
     "pictures/What-is-DHCP-DHCP-principle.png",
     "pictures/What-is-DHCP-DHCP-options.png",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "bases/games.base",
-    "bases",
-    "To_Do",
-    "Rachel"
+    "bases"
   ]
 }
