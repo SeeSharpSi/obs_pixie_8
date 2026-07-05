@@ -1,5 +1,9 @@
 #6/1/2026 #wip 
 
+I appreciate it; I only saw the dates in the invoice but not the times.
+
+We found we could save $1200 by flying in to DUB a day earlier (so flying out the night of the wedding) and decided we wanted to do that. Would we be able to extend the car rental and book a hotel for
+
 # Todo 6-30-2026 
 - [ ] book delta flight with sky miles 
 

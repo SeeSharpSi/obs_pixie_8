@@ -320,6 +320,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Rachel/Honeymoon Plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Honeymoon Plans"
+            }
+          },
+          {
+            "id": "4ec344bccff19ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add to Registery.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add to Registery"
+            }
+          },
+          {
+            "id": "2c9f51e034ec928f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Add to Registery.md",
                 "mode": "source",
                 "source": false
@@ -327,9 +355,23 @@
               "icon": "lucide-file",
               "title": "Add to Registery"
             }
+          },
+          {
+            "id": "867687da3731c2e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dGroup Prayer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dGroup Prayer"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -475,11 +517,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7a6df7cf4398c140",
+  "active": "ac6c3b85f3e30a5c",
   "lastOpenFiles": [
+    "dGroup Prayer.md",
     "Add to Registery.md",
-    "llm_thing/Wedding Registry Checklist.md",
+    "Rachel/Registry.md",
+    "Odyssey Party.md",
+    "llm_thing/Bookshelves for Small Apartments.md",
     "llm_thing/Best Air Purifiers 2026.md",
+    "llm_thing/Luggage Buying Guide & Recommendations.md",
+    "Rachel/Funny.md",
+    "What Makes Jesus Beautiful.md",
+    "pictures/Screenshot_20260702-185556.png",
+    "pictures/Screenshot_20260702-181048 1.png",
+    "pictures/Screenshot_20260702-181048.png",
+    "Rachel/Honeymoon Plans.md",
+    "llm_thing/Wedding Registry Checklist.md",
     "Pebble/Pebble LLM Agent.md",
     "/Pebble/Pebble LLM Agent.md",
     "/Pebble",
@@ -487,12 +540,10 @@
     "Bible_and_Theology/Theology_and_Apologetics/What Practices did Jesus Say to Have.md",
     "Rachel/Wedding.md",
     "To_Do/Today To Do.md",
-    "Rachel/Registry.md",
     "Rachel/the fit.md",
     "prayer list.md",
     "Bible_and_Theology/Prayer.md",
     "Pebble/Obsidian Viewer.md",
-    "Rachel/Honeymoon Plans.md",
     "Generic list of things to remember.md",
     "llm_thing/All Open Checkboxes.md",
     "llm_thing/WIP Condensed To-Do.md",
@@ -500,13 +551,7 @@
     "/Rachel/the fit.md",
     "/Rachel/Honeymoon Plans.md",
     "/Rachel",
-    "To_Do/Do.md",
-    "llm_thing/WIP Summary To Do.md",
-    "llm_thing/Wedding Plans Summary.md",
-    "Rachel/Sardis Wedding Invite List.md",
     "bases/games.base",
-    "llm_thing/Pebble Tool Test.md",
-    "llm_thing/Tool Test Note.md",
     "llm_thing",
     "dgroup",
     "Pebble",
@@ -520,9 +565,6 @@
     "pictures/DE92067F-1DD8-B71B-0B92505F01B692C6.jpg",
     "pictures/29270B60-1DD8-B71B-0BDF09CA67D8D344.jpg",
     "pictures/B89BDC1D-FB19-3FC1-1934312F49E23C9C.jpg",
-    "pictures/22A4B6E5-FD29-1724-93EA3757A834D068.jpg",
-    "pictures/903A6387-CE3F-80A1-959114C281F642A8.png",
-    "pictures/F3DBC0CB-1DD8-B71B-0B3EBEE321AD9411.jpg",
     "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
     "Test Canvas.canvas"
   ]
