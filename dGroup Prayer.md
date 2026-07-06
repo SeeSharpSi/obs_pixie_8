@@ -2,3 +2,5 @@
 
 # Daniel 
 * Action 
+	* To "just do it" 
+* 
