@@ -7,5 +7,7 @@ model: 'claude-3-5-sonnet'
 
 # Things To Do While Here
 
-- [ ] Put By Eyeglasses
+- [x] Put By Eyeglasses
 - [ ] Buy glasses
+- [ ] Get tickets to Shaky Knees
+- [ ] Get tickets to Gaming Convention

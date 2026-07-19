@@ -41,5 +41,9 @@
 * [ ] add memories 
 * [x] add show context toggle that defaults to off 
 * [ ] redo health tool calls 
+* [ ] refactor obsidian notes into two features: one for creating/editing and another for reading 
+* [ ] make obsidian notes for editing allow asking which notes in folder are editable (or what the folders name is so it can search it?) so it doesn't require tons of tool calls to find then edit the file 
+* [ ] fix new notes having same title twice 
+* [ ] make max tool calls nax number unlimited 
 
 [Pebble SDK Docs](https://developer.rebble.io/sdk/) 

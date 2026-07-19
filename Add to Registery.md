@@ -3,6 +3,7 @@
 - [x] toaster oven 
 - [x] floor lamp 
 - [ ] book shelf 
-- [ ] luggage  
-- [ ] cooler
+- [x] luggage  
+- [x] cooler
 - [ ] desk lamp 
+We're going to look for these in person 
