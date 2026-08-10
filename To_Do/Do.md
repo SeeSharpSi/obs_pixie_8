@@ -46,3 +46,7 @@ Rachel got blue cuz of my eyes
 - [ ] pack of Gatorade 
 - [ ] box of mountain dew 
 
+353567803370 option 5
+
+By the time we realized it wasn't our fault, we were out of the 12 hour window for reporting 
+
