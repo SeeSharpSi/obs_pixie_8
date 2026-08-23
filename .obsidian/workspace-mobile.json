@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
-                "mode": "preview",
+                "file": "Honeymoon Recap.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Host Configuration Protocol"
+              "title": "Honeymoon Recap"
             }
           },
           {
@@ -523,9 +523,51 @@
               "icon": "lucide-file",
               "title": "Honeymoon Recap"
             }
+          },
+          {
+            "id": "f4eda7aafe6d4af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Josie Gift ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Josie Gift ideas"
+            }
+          },
+          {
+            "id": "5317dc0c392232e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Assistant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Assistant"
+            }
+          },
+          {
+            "id": "9b61d78eabc22c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 36
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -673,9 +715,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ac6c3b85f3e30a5c",
+  "active": "9b61d78eabc22c84",
   "lastOpenFiles": [
+    "Groomsmen Thanks.md",
+    "Skills/Untitled.md",
+    "Untitled 1",
+    "Skills",
+    "Home Assistant.md",
+    "Josie Gift ideas.md",
     "Honeymoon Recap.md",
+    "plugin-folders/Clippings/DHCP/Dynamic Host Configuration Protocol.md",
     "To_Do/Do.md",
     "Things for Rachel and I to Get Into.md",
     "Vows.md",
@@ -696,11 +745,6 @@
     "llm_thing/Master To-Do List-2.md",
     "llm_thing/To-Do List.md",
     "dGroup Prayer.md",
-    "Add to Registery.md",
-    "llm_thing/Urgent To-Do Checklist-2.md",
-    "llm_thing/Urgent To-Do Checklist.md",
-    "Odyssey Party.md",
-    "Funeral Set.md",
     "pictures/Screenshot_20260702-185556.png",
     "pictures/Screenshot_20260702-181048 1.png",
     "pictures/Screenshot_20260702-181048.png",
@@ -713,7 +757,6 @@
     "Pebble",
     "pictures/Recording 20260603095656.m4a",
     "plugin-folders/Clippings/Untitled.canvas",
-    "plugin-folders/Clippings/Food",
     "pictures/bearspray.jpg",
     "pictures/5750A0F2-1DD8-B71B-0B8990DE5802BEC6.jpg",
     "pictures/C4F3DD3B-1DD8-B71B-0B99A151A098055C.jpg",
@@ -721,7 +764,6 @@
     "pictures/DE92067F-1DD8-B71B-0B92505F01B692C6.jpg",
     "pictures/29270B60-1DD8-B71B-0BDF09CA67D8D344.jpg",
     "pictures/B89BDC1D-FB19-3FC1-1934312F49E23C9C.jpg",
-    "plugin-folders/Clippings/Card Games/RegicideRulesA4.pdf",
     "Test Canvas.canvas"
   ]
 }
