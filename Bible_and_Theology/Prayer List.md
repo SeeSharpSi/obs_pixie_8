@@ -1,4 +1,6 @@
-#2026-06-02 
+---
+created: 2026-06-02
+---
 
 * Wilsons filing for bankruptcy 
 * Matthew Helton to figure out PhD thesis 

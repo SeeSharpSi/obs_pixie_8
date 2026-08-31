@@ -1,4 +1,7 @@
-#2026-07-24 #wip 
+---
+created: 2026-07-24
+---
+#wip
 
 https://www.rabbit.tech 
 

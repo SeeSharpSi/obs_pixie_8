@@ -1,4 +1,7 @@
-#2026-07-19 #wip 
+---
+created: 2026-07-19
+---
+#wip
 
 # Unavoidable costs 
 3895.13
@@ -11,4 +14,3 @@
 * Drive less (?) 
 * Cancel Patreon membership 
 * Spend WAY less on fast food 
-

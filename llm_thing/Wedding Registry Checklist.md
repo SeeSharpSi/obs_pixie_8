@@ -1,11 +1,11 @@
 ---
 date: '2026-07-01T14:03:33.47823-04:00'
 model: 'Claude Opus 4'
+created: 2026-06-14
 ---
+#wip
 
 # Wedding Registry Checklist
-
-#2026-06-14 #wip
 
 # Wedding Registry Checklist
 **Wedding Date:** August 8, 2026

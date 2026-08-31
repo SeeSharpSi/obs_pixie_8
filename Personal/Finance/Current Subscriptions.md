@@ -1,4 +1,6 @@
-#2026-07-08 
+---
+created: 2026-07-08
+---
 1. Discord Nitro $10
 2. Apple Music $6.00
 3. Google One $20.00
@@ -18,7 +20,6 @@ Cancelled:
 Switched to AI Plus ($5)
 Will switch to YouTube Premium Lite ($9) - cancelled current subscription 
 Discord Nitro
-
 
 Dave prayer
 North Virginia neice wedding older brother memory 

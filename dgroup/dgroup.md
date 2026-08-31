@@ -1,4 +1,6 @@
-#2026-06-14
+---
+created: 2026-06-14
+---
 
 # Prayer
 ## Daniel: 
@@ -13,10 +15,8 @@
 	* Remember to serve Stephanie and others 
 	* Not because it's easy, because it's what he's called to do 
 
-
 Tyler Estes got married outside at Mercy Hill 
 Maybe ask him about it 
 
 * Yellowstone 
 * Jackson Hole Mountain Ski Resort 
-

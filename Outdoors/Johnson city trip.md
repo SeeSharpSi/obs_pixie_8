@@ -1,4 +1,6 @@
-#2026-05-25
+---
+created: 2026-05-25
+---
 
 # itinerary 
 ## Friday 
@@ -109,14 +111,6 @@ Target*
 - [ ] Flip 7 
 - [ ] Bicycle Cards 
 - [ ] The Crew 
-
-
-
-
-
-
-
-
 
 # Additional Items (GLM 5.1)
 

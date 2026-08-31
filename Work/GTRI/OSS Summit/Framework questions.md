@@ -1,4 +1,6 @@
-#2026-05-20
+---
+created: 2026-05-20
+---
 * Desktop lpcamm refresh 
 	* Can't say
 * Why no 96gb lpcamm?

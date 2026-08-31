@@ -1,4 +1,7 @@
-#2026-07-01 #wip
+---
+created: 2026-07-01
+---
+#wip
 - [x] air purifier 
 - [x] toaster oven 
 - [x] floor lamp 

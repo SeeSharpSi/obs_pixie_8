@@ -1,14 +1,14 @@
-#2026-06-01
+---
+created: 2026-06-01
+---
 
 - [ ] my obsidian vaults got should be mirrored to it 
-
 
 # computers 
 - [ ] raspberry pi 3
 - [ ] raspberry pi 5
 - [ ] dell
 - [ ] old desktop 
-
 
 # runs 
 - [ ] Odysseus (PewDiePie thing) 

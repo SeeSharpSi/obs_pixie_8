@@ -1,4 +1,7 @@
-#2026-07-19 #wip 
+---
+created: 2026-07-19
+---
+#wip
 
 # General Order 
 * My dad's email

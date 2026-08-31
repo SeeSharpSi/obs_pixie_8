@@ -1,4 +1,7 @@
-#2026-05-30 #hebrews
+---
+created: 2026-05-30
+---
+#hebrews
 
 So we become offspring, then receive help? 
 > [!bible]+ [Hebrews 2:16 - ESV](https://bolls.life/ESV/58/2/)
@@ -15,4 +18,3 @@ Unbelief relates to sin
 God swore in anger 
 > [!bible]+ [Hebrews 4:3 - ESV](https://bolls.life/ESV/58/4/)
 > 3. For we who have believed enter that rest, as he has said, “As I swore in my wrath, ‘They shall not enter my rest,’”  although his works were finished from the foundation of the world.
-

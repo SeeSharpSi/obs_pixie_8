@@ -1,4 +1,6 @@
-#2026-05-18
+---
+created: 2026-05-18
+---
 
 * "The world around is is quantum in nature" 
 	* ...
@@ -7,4 +9,3 @@
 * 
 
 Rand: create app that lets you point to directory — said directory has prompt associated with it and it gives info (e.g. transcriptions vs notes) and you can ask questions 
-

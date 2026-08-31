@@ -1,4 +1,7 @@
-#2026-06-14 #wip 
+---
+created: 2026-06-14
+---
+#wip
 
 1. Food processor 
 2. Cutting boards 
@@ -33,6 +36,5 @@
 27. Lawn chairs
 28. Pickle Ball paddles and net 
 29. Matching PJ set
-
 
 Ask my mom what's being set aside for us

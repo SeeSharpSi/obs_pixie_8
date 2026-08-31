@@ -1,4 +1,6 @@
-#2026-05-20 
+---
+created: 2026-05-20
+---
 * If you think ai can't do reverse engineering on closed source you're in for a surprise 
 	* Closed source is worse because you can find an issue but not fix it 
 * "90% of my code is written by AI"

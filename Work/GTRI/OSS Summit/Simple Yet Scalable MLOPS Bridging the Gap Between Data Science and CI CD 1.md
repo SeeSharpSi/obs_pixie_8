@@ -1,5 +1,7 @@
-#2026-05-18 #cdCon 
-
+---
+created: 2026-05-18
+---
+#cdCon
 
 Observability for k8s 
 	Not grafana

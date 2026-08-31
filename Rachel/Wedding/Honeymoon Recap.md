@@ -1,4 +1,6 @@
-#2026-08-15
+---
+created: 2026-08-15
+---
 
 1. Fav place ate
 	1. Rachel: last night dinner (esp potato soup)
@@ -29,7 +31,6 @@
 9. Craziest thing that happened 
 	1. Rachel: big kiss 
 	2. Silas: car breaking down 
-
 
 Things to do Sunday: 
 1. Buy robe

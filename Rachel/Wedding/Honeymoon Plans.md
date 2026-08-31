@@ -1,4 +1,7 @@
-#2026-06-01 #wip 
+---
+created: 2026-06-01
+---
+#wip
 
 I appreciate it; I only saw the dates in the invoice but not the times.
 
@@ -6,10 +9,6 @@ We found we could save $1200 by flying in to DUB a day earlier (so flying out th
 
 # Todo 6-30-2026 
 - [ ] book delta flight with sky miles 
-
-
-
-
 
 * "For honeymoon, I'm thinking nature" - Rachel 
 	* Green 
@@ -100,9 +99,5 @@ Scotland is a dream for nature lovers who want cool features like deep lochs, ca
 *   **Switzerland & Norway:** While both are stunning and fit the climate and nature criteria perfectly, they are notoriously expensive. Even though the flights and lodging fit into your $4,000 cap, the cost of food, local transport, and activities in these countries would likely push your final tally well over budget.
 *   **New Zealand:** The flight costs alone will likely consume over 75% of your budget, making it very difficult to make a week-long trip work for under $4,000. Plus, August is their winter, so it won't be the lush, green experience you are looking for.
 *   **Indonesia:** While affordable once you are there, August is dry season and can be quite hot, which goes against your preference for a moderate, not-super-hot climate.
-
-
-
-
 
 [fun tiny home 30min from olympic nat part](https://www.airbnb.com/rooms/1137815549333427995?adults=2&check_in=2026-08-09&check_out=2026-08-15&search_mode=regular_search&source_impression_id=p3_1781827594_P3rOnN1wYPOHRmU1&previous_page_section_name=1000&federated_search_id=2f068c93-5123-480c-ae51-ed469f0b7dc7) 

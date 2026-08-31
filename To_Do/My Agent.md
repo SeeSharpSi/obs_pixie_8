@@ -1,4 +1,6 @@
-#2026-05-22 
+---
+created: 2026-05-22
+---
 # MCPs 
 * [gCal](https://developers.google.com/workspace/calendar/api/guides/configure-mcp-server) 
 * Do the notebooklm thing that gets resources and then summary, but with Obsidian Web clipper for 

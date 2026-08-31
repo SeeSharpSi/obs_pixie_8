@@ -1,4 +1,6 @@
-#2026-08-23
+---
+created: 2026-08-23
+---
 Audit this entire codebase for materially useful simplifications in its data structures, state representation, control flow, algorithms, and ownership.
 
 This is an audit-only exercise. Do not edit files, run tests, implement recommendations, commit, or push. Read-only inspection commands are allowed.

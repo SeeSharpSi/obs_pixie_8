@@ -1,4 +1,6 @@
-#2026-05-18
+---
+created: 2026-05-18
+---
 9am
 ## GoDaddy ANS
 * Agent Name Service 
@@ -30,10 +32,6 @@ Guarantees good US open weight model release this year
 * AI finding where SWEs are lazy isn't smart, but it's advertised as such by big companies 
 * 
 
-
 Random idea: Sean's secret scanner but uses LLM to check for false positives 
-
-
-
 
 Unqualified numbers 

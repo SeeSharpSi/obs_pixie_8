@@ -1,11 +1,12 @@
-#2026-06-13
+---
+created: 2026-06-13
+---
 
 Rachel
 Seared eel with miso cream cheese
 Rainbow roll
 Tiger roll
 Kura roll 
-
 
 Silas
 Crab sushi roll 

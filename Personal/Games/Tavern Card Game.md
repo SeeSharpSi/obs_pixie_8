@@ -1,4 +1,7 @@
-#2026-07-21 #wip 
+---
+created: 2026-07-21
+---
+#wip
 
 1. Large coin
 	1. Dragon tail and Medusa 

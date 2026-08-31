@@ -1,4 +1,6 @@
-#2026-06-04 
+---
+created: 2026-06-04
+---
 - [x] ask Wes about [SecAI+](https://www.comptia.org/en-us/certifications/secai/)  
 	- "it's still on the radar" 
 - [x] mow the lawn 

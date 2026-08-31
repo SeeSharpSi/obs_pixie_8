@@ -1,4 +1,6 @@
-#2026-06-18
+---
+created: 2026-06-18
+---
 Bookmark Bible verses 
 Choose Bible version in phone 
 Convert Bolls English bibles to sqlite DB that lives on phone 
@@ -12,6 +14,5 @@ Could open certain Scripture reading each day
 Show translation on selection page 
 
 Make notes and bookmarks exportable
-
 
 If I'm in book chapter verse select and hit back button while on book it should go to menu to choose bookmark or notes list 

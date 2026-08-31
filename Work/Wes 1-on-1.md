@@ -1,4 +1,6 @@
-#2026-07-07
+---
+created: 2026-07-07
+---
 
 "I have some questions about my professional development" 
 
@@ -10,16 +12,13 @@ Master of Science in Analytics (MSA)
 Master of Science in Computer Science (MSCS)
 Master of Science in Cyber security 
 
-
 OMSCS 
 STRAP v TAP
 
 Masters in Machine Learning (doctoral) 
-
 
 Ask coworkers about certs 
 
 # notes 
 Clear prof goal 
 Possibly help Ryan w/ pipeline stuff tickets 
-
