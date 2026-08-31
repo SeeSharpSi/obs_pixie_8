@@ -1,3 +1,5 @@
+#bible
+
 # ch. 1
 * Plantinga
 	* 40.3 

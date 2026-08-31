@@ -2,13 +2,13 @@
 title: How to play durak - The fast-paced card Eastern European card game.
 source: https://berriesandbarnacles.com/how-to-play-durak-a-doukhobor-card-game/
 author:
-  - "[[Emillie Parrish]]"
+- '[[Emillie Parrish]]'
 published: 2025-11-03
 created: 2026-05-28
-description: Durak is a fast-paced card game that allows everyone to play at once. It has Eastern European origins; here is our Doukhobor variation.
+description: Durak is a fast-paced card game that allows everyone to play at once.
+  It has Eastern European origins; here is our Doukhobor variation.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 *Durak is a fast-paced card game that allows everyone to play at once. It has Eastern European origins, and this is our Doukhobor variation.*
 

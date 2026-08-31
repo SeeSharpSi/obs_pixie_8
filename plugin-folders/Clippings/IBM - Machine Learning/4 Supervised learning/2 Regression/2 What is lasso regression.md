@@ -1,13 +1,12 @@
 ---
-title: "What is lasso regression?"
-source: "https://www.ibm.com/think/topics/lasso-regression#1190488335"
+title: What is lasso regression?
+source: https://www.ibm.com/think/topics/lasso-regression#1190488335
 author:
-  - "[[IBM]]"
-published:
+- '[[IBM]]'
+published: null
 created: 2026-05-21
-description: "Lasso regression is a regularization technique that applies a penalty to prevent overfitting and enhance the accuracy of statistical models."
-tags:
-  - "clippings"
+description: Lasso regression is a regularization technique that applies a penalty
+  to prevent overfitting and enhance the accuracy of statistical models.
 ---
 Lasso regression is a regularization technique that applies a penalty to prevent [overfitting](https://www.ibm.com/think/topics/overfitting) and enhance the accuracy of statistical models.
 

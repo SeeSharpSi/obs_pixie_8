@@ -1,8 +1,11 @@
-#das #ephesians #bible 
+---
+book: ephesians
+speaker: das
+---
+#bible
 
 # Ephesians 4 
 * v17 -> v1 
-
 
 Prob move to Monday 
 

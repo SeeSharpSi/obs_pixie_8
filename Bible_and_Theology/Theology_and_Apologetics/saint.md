@@ -1,3 +1,5 @@
+#bible
+
 ![[Screenshot_20240526-160351.png]] 
 
 # the difference 

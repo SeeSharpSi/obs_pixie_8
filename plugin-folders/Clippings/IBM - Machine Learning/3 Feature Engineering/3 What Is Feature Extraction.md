@@ -1,13 +1,13 @@
 ---
-title: "What Is Feature Extraction?"
-source: "https://www.ibm.com/think/topics/feature-extraction#1003835713"
+title: What Is Feature Extraction?
+source: https://www.ibm.com/think/topics/feature-extraction#1003835713
 author:
-  - "[[Vanna Winland]]"
-published:
+- '[[Vanna Winland]]'
+published: null
 created: 2026-05-21
-description: "Feature extraction is a technique that reduces the dimensionality or complexity of data to improve the performance and efficiency of machine learning (ML) algorithms."
-tags:
-  - "clippings"
+description: Feature extraction is a technique that reduces the dimensionality or
+  complexity of data to improve the performance and efficiency of machine learning
+  (ML) algorithms.
 ---
 ## Resources
 

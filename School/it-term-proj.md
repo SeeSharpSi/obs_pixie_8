@@ -1,4 +1,7 @@
-#it4823 #homework 
+---
+course: it4823
+---
+#school
 
 * Pick two:
 	* Crowdstrike Falcon

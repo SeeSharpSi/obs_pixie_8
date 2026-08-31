@@ -1,4 +1,7 @@
-#genesis #joe #bible 
+---
+book: genesis
+---
+#joe #bible
 
 # Genesis
 * Creation, Corruption, Catastrophe, Confusion

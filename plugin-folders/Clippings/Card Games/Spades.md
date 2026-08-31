@@ -1,13 +1,12 @@
 ---
 title: Spades
 source: https://bicyclecards.com/how-to-play/spades/
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
 description: In this game, the spade suit always trumps.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![[Bicycle_Spades_WSOS_Header_v1.jpg]]
 

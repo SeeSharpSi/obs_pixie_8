@@ -2,13 +2,13 @@
 title: What is DHCP?
 source: https://efficientip.com/glossary/what-is-dhcp-and-why-is-it-important/
 author:
-  - "[[efficientip.com]]"
+- '[[efficientip.com]]'
 published: 2022-06-09
 created: 2026-05-21
-description: DHCP (Dynamic Host Configuration Protocol) is a network protocol used to automate the process of configuring devices on networks.
+description: DHCP (Dynamic Host Configuration Protocol) is a network protocol used
+  to automate the process of configuring devices on networks.
 tags:
-  - clippings
-  - dhcp
+- dhcp
 ---
 ![[What-is-DHCP-DHCP-principle.png|What is DHCP-DHCP principle]]
 

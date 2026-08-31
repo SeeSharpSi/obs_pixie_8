@@ -1,4 +1,8 @@
-#james #ray #bible 
+---
+book: james
+speaker: ray
+---
+#bible
 
 # James 4
 * What causes fights?

@@ -1,13 +1,12 @@
 ---
-title: "What Is Principal Component Analysis (PCA)?"
-source: "https://www.ibm.com/think/topics/principal-component-analysis#1793360183"
+title: What Is Principal Component Analysis (PCA)?
+source: https://www.ibm.com/think/topics/principal-component-analysis#1793360183
 author:
-  - "[[IBM]]"
-published:
+- '[[IBM]]'
+published: null
 created: 2026-05-21
-description: "Principal component analysis (PCA) reduces the number of dimensions in large datasets to principal components that retain most of the original information."
-tags:
-  - "clippings"
+description: Principal component analysis (PCA) reduces the number of dimensions in
+  large datasets to principal components that retain most of the original information.
 ---
 Principal component analysis, or PCA, reduces the number of dimensions in large datasets to principal components that retain most of the original information. It does this by transforming potentially correlated variables into a smaller set of variables, called principal components.
 

@@ -1,4 +1,7 @@
-#bible #1-timothy 
+---
+book: 1-timothy
+---
+#bible
 
 # Ch. 2
 

@@ -1,14 +1,16 @@
 ---
-title: "What Is Supervised Learning?"
-source: "https://www.ibm.com/think/topics/supervised-learning#1509394340"
+title: What Is Supervised Learning?
+source: https://www.ibm.com/think/topics/supervised-learning#1509394340
 author:
-  - "[[Ivan Belcic]]"
-  - "[[Cole Stryker]]"
-published:
+- '[[Ivan Belcic]]'
+- '[[Cole Stryker]]'
+published: null
 created: 2026-05-21
-description: "Supervised learning is a machine learning technique that uses labeled data sets to train artificial intelligence algorithms models to identify the underlying patterns and relationships between input features and outputs. The goal of the learning process is to create a model that can predict correct outputs on new real-world data."
-tags:
-  - "clippings"
+description: Supervised learning is a machine learning technique that uses labeled
+  data sets to train artificial intelligence algorithms models to identify the underlying
+  patterns and relationships between input features and outputs. The goal of the learning
+  process is to create a model that can predict correct outputs on new real-world
+  data.
 ---
 Supervised learning is a [machine learning](https://www.ibm.com/think/topics/machine-learning) technique that uses labeled data sets to train [artificial intelligence](https://www.ibm.com/think/topics/artificial-intelligence) (AI) models to identify the underlying patterns and relationships. The goal of the learning process is to create a model that can predict correct outputs on new real-world data.
 

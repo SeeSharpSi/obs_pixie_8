@@ -1,13 +1,12 @@
 ---
-title: "What Is Linear Regression?"
-source: "https://www.ibm.com/think/topics/linear-regression#1190488334"
+title: What Is Linear Regression?
+source: https://www.ibm.com/think/topics/linear-regression#1190488334
 author:
-  - "[[IBM]]"
-published:
+- '[[IBM]]'
+published: null
 created: 2026-05-21
-description: "Linear regression is an analytics procedure that can generate predictions by using an easily interpreted mathematical formula."
-tags:
-  - "clippings"
+description: Linear regression is an analytics procedure that can generate predictions
+  by using an easily interpreted mathematical formula.
 ---
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 

@@ -1,17 +1,16 @@
 ---
-title: "A Pipe Smoking Primer (Pipe Smoking 101)"
-source: "https://www.artofmanliness.com/living/leisure/a-pipe-smoking-primer/"
+title: A Pipe Smoking Primer (Pipe Smoking 101)
+source: https://www.artofmanliness.com/living/leisure/a-pipe-smoking-primer/
 author:
-  - "[[Guest Contributor]]"
+- '[[Guest Contributor]]'
 published: 2009-10-14
 created: 2026-05-25
-description: "Pipe smoking is as much ritual as it is relaxation. Here's how to do it right."
-tags:
-  - "clippings"
+description: Pipe smoking is as much ritual as it is relaxation. Here's how to do
+  it right.
 ---
 ![Vintage young man's portrait with a hat and overcoat while smoking pipe in his hand.](https://content.artofmanliness.com/uploads/2009/10/moviepipe.jpg "Man smoking a pipe")
 
-*Editor’s Note: This is a guest post from AoM reader Jason Mills.  
+*Editor’s Note: This is a guest post from AoM reader Jason Mills. 
 *
 
 I can remember visiting my best friend when I was younger. It was fun to get together and have adventures like boys do, but one thing I really, really liked was his dad. His dad was an old farm man and looked like it from the weather-beaten lines on his face to his calloused hands. He was quiet spoken and loved smoking his pipe. Since my dad was a non-smoker, this fact really intrigued me as a young boy. I’d see him lighting up and smoking his pipe in complete happiness. He always smelled like pipe tobacco (Sir Walter Raleigh) and now, whenever I smell that brand, I always think of him.

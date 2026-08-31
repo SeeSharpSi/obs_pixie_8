@@ -1,14 +1,13 @@
 ---
-title: "What is a feature engineering?"
-source: "https://www.ibm.com/think/topics/feature-engineering#1003835715"
+title: What is a feature engineering?
+source: https://www.ibm.com/think/topics/feature-engineering#1003835715
 author:
-  - "[[Jacob Murel Ph.D.]]"
-  - "[[ Eda Kavlakoglu]]"
-published:
+- '[[Jacob Murel Ph.D.]]'
+- '[[ Eda Kavlakoglu]]'
+published: null
 created: 2026-05-21
-description: "What is feature engineering? Learn the methods and processes for transforming raw data into machine-readable variables"
-tags:
-  - "clippings"
+description: What is feature engineering? Learn the methods and processes for transforming
+  raw data into machine-readable variables
 ---
 [^1]: Alice Zheng and Amanda Casari. *Feature Engineering for Machine Learning* \[Feature engineering for machine learning\]. O’Reilly. 2018. Sinan Ozdemir and Divya Susarla. *Feature Engineering Made Easy* \[Feature engineering made easy\]. Packt. 2018.
 

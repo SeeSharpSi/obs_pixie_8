@@ -1,13 +1,13 @@
 ---
-title: "What is Data Visualization in Machine Learning?"
-source: "https://www.ibm.com/think/topics/data-visualization-machine-learning#498277088"
+title: What is Data Visualization in Machine Learning?
+source: https://www.ibm.com/think/topics/data-visualization-machine-learning#498277088
 author:
-  - "[[Jobit Varughese]]"
-published:
+- '[[Jobit Varughese]]'
+published: null
 created: 2026-05-21
-description: "Data visualization in machine learning is the practice of using charts, plots, and graphs to understand your data, monitor model training, and evaluate performance to catch problems early and build models that actually work."
-tags:
-  - "clippings"
+description: Data visualization in machine learning is the practice of using charts,
+  plots, and graphs to understand your data, monitor model training, and evaluate
+  performance to catch problems early and build models that actually work.
 ---
 ## Data visualization explained
 

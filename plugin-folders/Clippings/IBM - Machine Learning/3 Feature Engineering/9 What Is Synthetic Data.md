@@ -1,13 +1,13 @@
 ---
-title: "What Is Synthetic Data?"
-source: "https://www.ibm.com/think/topics/synthetic-data#1003835707"
+title: What Is Synthetic Data?
+source: https://www.ibm.com/think/topics/synthetic-data#1003835707
 author:
-  - "[[Rina Diane Caballar]]"
+- '[[Rina Diane Caballar]]'
 published: 2024-04-11
 created: 2026-05-21
-description: "Synthetic data is artificial data designed to mimic real-word data. It’s generated through statistical methods or using artificial intelligence (AI) techniques like deep learning and generative AI."
-tags:
-  - "clippings"
+description: Synthetic data is artificial data designed to mimic real-word data. It’s
+  generated through statistical methods or using artificial intelligence (AI) techniques
+  like deep learning and generative AI.
 ---
 ## Author
 
@@ -25,11 +25,11 @@ Synthetic data can come in multimedia, tabular or text form. Synthetic text data
 
 Synthetic data can also be classified according to its level of synthesis:
 
-- **Fully synthetic  
-	  
+- **Fully synthetic 
+
 	**
-- **Partially synthetic  
-	  
+- **Partially synthetic 
+
 	**
 - **Hybrid**
 
@@ -61,17 +61,17 @@ Organizations can choose to generate their own synthetic data. They can also use
 
 Here are some common synthetic data generation techniques:
 
-- **Statistical methods  
-	  
+- **Statistical methods 
+
 	**
-- **Generative adversarial networks (GANs)  
-	  
+- **Generative adversarial networks (GANs) 
+
 	**
-- **Transformer models  
-	  
+- **Transformer models 
+
 	**
-- **Variational autoencoders (VAEs)  
-	  
+- **Variational autoencoders (VAEs) 
+
 	**
 - **Agent-based modeling**
 
@@ -127,14 +127,14 @@ Despite synthetic data’s benefits, it also comes with some downsides. Followin
 
 Here are some challenges associated with synthetic data:
 
-- **Bias  
-	  
+- **Bias 
+
 	**
-- **Model collapse  
-	  
+- **Model collapse 
+
 	**
-- **Trade-off between accuracy and privacy  
-	  
+- **Trade-off between accuracy and privacy 
+
 	**
 - **Verification**
 
@@ -156,14 +156,14 @@ Additional checks and tests must be conducted to validate [synthetic data qualit
 
 Synthetic data is versatile and can be generated for a wide range of applications. Here are some industries where synthetic data can be a boon:
 
-- **Automotive  
-	  
+- **Automotive 
+
 	**
-- **Finance  
-	  
+- **Finance 
+
 	**
-- **Healthcare  
-	  
+- **Healthcare 
+
 	**
 - **Manufacturing**
 

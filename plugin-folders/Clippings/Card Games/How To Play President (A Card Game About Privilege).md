@@ -2,13 +2,13 @@
 title: How To Play President (A Card Game About Privilege)
 source: https://berriesandbarnacles.com/how-to-play-president-a-card-game-about-privilege/
 author:
-  - "[[Emillie Parrish]]"
+- '[[Emillie Parrish]]'
 published: 2025-06-16
 created: 2026-05-28
-description: Learn how to play President, a card game that clearly demonstrates the power of privilege. It's an easy and fun game for large groups.
+description: Learn how to play President, a card game that clearly demonstrates the
+  power of privilege. It's an easy and fun game for large groups.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 *Learn how to play President, a card game that clearly demonstrates the power of privilege. It’s an easy and fun game for large groups.*
 

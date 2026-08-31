@@ -1,7 +1,6 @@
 ---
 created: 2026-05-19
 ---
-#cdCon
 * An AI in production should have accountability 
 	* Literally no, what? 
 * Check prompts into git

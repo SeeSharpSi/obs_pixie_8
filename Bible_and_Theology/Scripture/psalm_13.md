@@ -1,4 +1,7 @@
-#bible #psalm #dad 
+---
+book: psalm
+---
+#bible #dad
 
 # Psalm 13
 * The Psalms record expressions that were prayed and sang 

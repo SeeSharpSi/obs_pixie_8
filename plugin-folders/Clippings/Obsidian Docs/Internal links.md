@@ -1,12 +1,10 @@
 ---
-title: "Internal links"
-source: "https://obsidian.md/help/links"
-author:
-published:
+title: Internal links
+source: https://obsidian.md/help/links
+author: null
+published: null
 created: 2026-05-21
-description: "Internal links - Obsidian Help"
-tags:
-  - "clippings"
+description: Internal links - Obsidian Help
 ---
 Learn how to link to notes, attachments, and other files from your notes, using *internal links*. By linking notes, you can create a network of knowledge.
 
@@ -116,8 +114,8 @@ For *specific lines within a list*, the block identifier can be placed directly 
 
 ```
 - Gemmy
-    $$Paperclip / Pen$$ 
-    ^37006f
+ $$Paperclip / Pen$$ 
+ ^37006f
 - Unhelpful assistant
 ```
 
@@ -155,13 +153,13 @@ By default, Obsidian will show the link text as it appears. For example:
 
 You can change how a link is displayed by customizing its link text:
 
-**Wikilink format**:  
+**Wikilink format**: 
 Use a vertical bar (`|`) to change the display text.
 
 - `[[Example|Custom name]]` appears as [Custom name](https://obsidian.md/help/Example)
 - `[[Example#Details|Section name]]` appears as [Section name](https://obsidian.md/help/Example#Details)
 
-**Markdown format**:  
+**Markdown format**: 
 Use `[Display text](Link URL)` to customize how the link appears.
 
 - `[Custom name](Example.md)` appears as [Custom name](https://obsidian.md/help/Example)

@@ -1,3 +1,5 @@
+#bible
+
 # Evidence for the Existence of God 
 * What do we mean by God? (odd starting point...) 
 	* Infinite but not personal? (Hindu) 

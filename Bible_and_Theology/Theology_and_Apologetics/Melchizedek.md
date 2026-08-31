@@ -1,3 +1,5 @@
+#bible
+
 # Opening 
 "As a software engineer, I have to give everything a title. Some of you may have read in the GroupMe the question "who is Melchizedek?" That's the main question tonight, but a more apt title for this discussion is "tracing the Messiah throughout scripture." 
 Last week Dawson laid out several goals for our study Old Testament stories. One thing that's amazing to me as a gospel-believing Christian is that these stories aren't disconnected from the New Testament. For instance, Jesus speaks to Elijah personally and John the Baptist is directly connected and related to Elijah. Knowing who Elijah is causes us to know who John the Baptist is even more."

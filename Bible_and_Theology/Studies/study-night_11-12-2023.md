@@ -1,4 +1,7 @@
-#bible #acts
+---
+book: acts
+---
+#bible
 
 # Acts 20
 * v. 25 they won't see him again

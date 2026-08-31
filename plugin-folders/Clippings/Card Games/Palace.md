@@ -1,13 +1,12 @@
 ---
 title: Palace
 source: https://bicyclecards.com/how-to-play/palace
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
 description: Be the first to play all of your cards to be the ruler of this Palace!
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![](https://images.ctfassets.net/sm166qdr1jca/7KtYIoWlFtjT2bxVZvurm7/78656e01563a0621612d850ff43fb766/Palace-scaled.jpg?w=2560&q=80&fm=avif)
 

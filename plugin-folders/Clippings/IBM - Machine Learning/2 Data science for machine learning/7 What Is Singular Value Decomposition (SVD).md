@@ -1,13 +1,12 @@
 ---
-title: "What Is Singular Value Decomposition (SVD)?"
-source: "https://www.ibm.com/think/topics/singular-value-decomposition#498277084"
+title: What Is Singular Value Decomposition (SVD)?
+source: https://www.ibm.com/think/topics/singular-value-decomposition#498277084
 author:
-  - "[[Fangfang Lee]]"
-published:
+- '[[Fangfang Lee]]'
+published: null
 created: 2026-05-21
-description: "SVD is a fundamental concept in linear algebra, and it underlies some of the most popular modern AI applications such as IBM Granite."
-tags:
-  - "clippings"
+description: SVD is a fundamental concept in linear algebra, and it underlies some
+  of the most popular modern AI applications such as IBM Granite.
 ---
 By
 

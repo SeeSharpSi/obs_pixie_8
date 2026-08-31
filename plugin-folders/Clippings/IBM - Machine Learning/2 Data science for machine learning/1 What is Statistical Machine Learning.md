@@ -1,13 +1,13 @@
 ---
-title: "What is Statistical Machine Learning?"
-source: "https://www.ibm.com/think/topics/statistical-machine-learning#498277090"
+title: What is Statistical Machine Learning?
+source: https://www.ibm.com/think/topics/statistical-machine-learning#498277090
 author:
-  - "[[Fangfang Lee]]"
-published:
+- '[[Fangfang Lee]]'
+published: null
 created: 2026-05-21
-description: "The article delves into details of the foundations of machine learning - statistics. We will learn what roles probability, statistics, and distribution play in building reliable and practical AI systems."
-tags:
-  - "clippings"
+description: The article delves into details of the foundations of machine learning
+  - statistics. We will learn what roles probability, statistics, and distribution
+  play in building reliable and practical AI systems.
 ---
 ## Authors
 

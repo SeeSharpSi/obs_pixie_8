@@ -1,12 +1,10 @@
 ---
-title: "Basic formatting syntax"
-source: "https://obsidian.md/help/syntax"
-author:
-published:
+title: Basic formatting syntax
+source: https://obsidian.md/help/syntax
+author: null
+published: null
 created: 2026-05-21
-description: "Basic formatting syntax - Obsidian Help"
-tags:
-  - "clippings"
+description: Basic formatting syntax - Obsidian Help
 ---
 Learn how to apply basic formatting to your notes, using [Markdown](https://daringfireball.net/projects/markdown/). For more advanced formatting syntax, refer to [Advanced formatting syntax](https://obsidian.md/help/advanced-syntax).
 
@@ -30,7 +28,7 @@ A blank line between lines of text creates separate paragraphs. This is the defa
 > Multiple adjacent blank spaces within and between paragraphs collapse into a single space when displayed in [Reading view](https://obsidian.md/help/edit-and-read#Reading%20view) or on [Obsidian Publish](https://obsidian.md/help/publish) sites.
 > 
 > ```md
-> Multiple          adjacent          spaces
+> Multiple adjacent spaces
 > 
 > and multiple newlines between paragraphs.
 > ```
@@ -75,14 +73,14 @@ line one line two
 **Single return with two or more trailing spaces**: If you add two or more spaces at the end of the first line before pressing `Enter`, the two lines remain part of the same paragraph, but are broken by a line break (HTML `<br>` element). We'll use two underscores to stand in for spaces in this example.
 
 ```md
-line three__  
+line three__ 
 line four
 ```
 
 Renders as:
 
-line three  
-  
+line three 
+
 line four
 
 **Double return (with or without trailing spaces)**: Pressing `Enter` twice (or more) separates the lines into two distinct paragraphs (HTML `<p>` elements), regardless of whether you add spaces at the end of the first line.
@@ -270,10 +268,10 @@ You can use `Shift+Enter` to insert a [line break](https://obsidian.md/help/synt
 
 ```md
 1. First list item
-   
+
 2. Second list item
 3. Third list item
-   
+
 4. Fourth list item
 5. Fifth list item
 6. Sixth list item
@@ -313,9 +311,9 @@ To create a nested list, indent one or more list items. You can mix list types w
 
 ```md
 1. First list item
-   1. Ordered nested list item
+ 1. Ordered nested list item
 2. Second list item
-   - Unordered nested list item
+ - Unordered nested list item
 ```
 
 1. First list item
@@ -327,9 +325,9 @@ Similarly, you can create a nested task list by indenting one or more list items
 
 ```md
 - [ ] Task item 1
-    - [ ] Subtask 1
+ - [ ] Subtask 1
 - [ ] Task item 2
-    - [ ] Subtask 1
+ - [ ] Subtask 1
 ```
 
 - Task item 1
@@ -404,18 +402,18 @@ You can add syntax highlighting to a code block, by adding a language code after
 ```md
 \`\`\`\`\`js
 function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+ if(arg) {
+ $.facebox({div:'#foo'})
+ }
 }
 \`\`\`\`\`
 ```
 
 ```js
 function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+ if(arg) {
+ $.facebox({div:'#foo'})
+ }
 }
 ```
 
@@ -451,7 +449,7 @@ This is a simple footnote[^1].
 
 [^1]: This is the referenced text.
 [^2]: Add 2 spaces at the start of each new line.
-  This lets you write footnotes that span multiple lines.
+ This lets you write footnotes that span multiple lines.
 [^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
 ```
 

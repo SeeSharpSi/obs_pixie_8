@@ -1,12 +1,10 @@
 ---
-title: "Staying Safe Around Bears - Bears (U.S. National Park Service)"
-source: "https://www.nps.gov/subjects/bears/safety.htm"
-author:
+title: Staying Safe Around Bears - Bears (U.S. National Park Service)
+source: https://www.nps.gov/subjects/bears/safety.htm
+author: null
 published: 2025-09-07
 created: 2026-05-28
-description:
-tags:
-  - "clippings"
+description: null
 ---
 ![[bearsafety_3.jpg|Bear approaches a visitor along a road at Brooks Camp]]
 
@@ -68,7 +66,7 @@ Showing results 1-9 of 9
 - ### I Didn't Know That! Getting Comfortable in Bear Country
 	[![[903A6387-CE3F-80A1-959114C281F642A8.png|a mother bear and two cubs, wet from rain]]](https://www.nps.gov/articles/000/idkt_bears.htm)
 	If the idea of recreating in bear country makes you go, "NOPE!" this article is for you! Take a deep breath and we'll walk you through how to gain confidence and stay safe while recreating around bears.
-- ### 50 Nifty Finds #46: Feeding the Habit
+- ### 50 Nifty Finds 46: Feeding the Habit
 	- Locations: Glacier National Park, Great Smoky Mountains National Park, Mount Rainier National Park, Rocky Mountain National Park, Sequoia & Kings Canyon National Parks, more »
 	- Offices: Harpers Ferry Center, Natural Resource Stewardship and Science Directorate
 	[![[22A4B6E5-FD29-1724-93EA3757A834D068.jpg|poster of bear reaching out to recoiling man and boy who has food]]](https://www.nps.gov/articles/000/50-nifty-finds-46-feeding-the-habit.htm)

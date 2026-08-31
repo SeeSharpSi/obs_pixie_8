@@ -1,13 +1,13 @@
 ---
 title: Bridge
 source: https://bicyclecards.com/how-to-play/bridge
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
-description: Since the 1930s, Bridge has been one of the most popular card games in the world.
+description: Since the 1930s, Bridge has been one of the most popular card games in
+  the world.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![[IMG_4881_smaller.jpg]]
 

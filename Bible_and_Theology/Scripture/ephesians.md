@@ -1,4 +1,7 @@
-#bible #ephesians 
+---
+book: ephesians
+---
+#bible
 
 ![[PXL_20240929_135750361~2.jpg]]
 # 
@@ -11,7 +14,6 @@
 	* 1 Cor. 3:9-10 
 	* Romans 12:4-6 
 	* 1 Peter 4:10 
-
 
 Is a spiritual gift something that God imparts when you're saved? Maybe it's any ability that God has given you, that is to be used in the ministry (and maybe it's even empowered by the Holy Spirit)
 
@@ -36,7 +38,6 @@ Spiritual gift tests confirm what someone wants to do. Not what their gift is
 * Eph. 2:8-10
 * We don't work for salvation, we work because of salvation 
 	* Romans 4:2-5
-
 
 # 9-29-2024 
 * Chapter 5 

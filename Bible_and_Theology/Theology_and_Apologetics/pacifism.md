@@ -1,4 +1,4 @@
-#bible 
+#bible
 
 # Jesus' non-resistant ethic
 * 

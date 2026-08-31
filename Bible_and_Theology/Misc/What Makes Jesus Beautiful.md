@@ -1,6 +1,7 @@
 ---
 created: 2026-07-02
 ---
+#bible
 
 ![[Screenshot_20260702-185556.png]] 
 

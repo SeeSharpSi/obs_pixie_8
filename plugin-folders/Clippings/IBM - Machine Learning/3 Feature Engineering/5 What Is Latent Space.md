@@ -1,13 +1,13 @@
 ---
-title: "What Is Latent Space?"
-source: "https://www.ibm.com/think/topics/latent-space#1003835711"
+title: What Is Latent Space?
+source: https://www.ibm.com/think/topics/latent-space#1003835711
 author:
-  - "[[Dave Bergmann]]"
+- '[[Dave Bergmann]]'
 published: 2023-09-12
 created: 2026-05-21
-description: "A latent space in machine learning is a compressed representation of data points that preserves only essential features informing the data’s underlying structure."
-tags:
-  - "clippings"
+description: A latent space in machine learning is a compressed representation of
+  data points that preserves only essential features informing the data’s underlying
+  structure.
 ---
 ## Authors
 

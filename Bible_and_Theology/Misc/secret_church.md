@@ -1,3 +1,5 @@
+#bible
+
 Why are more philosophical, "thinking" cultures farther away from God?
 	Are they even more philosophical? 
 Red, yellow, green zones

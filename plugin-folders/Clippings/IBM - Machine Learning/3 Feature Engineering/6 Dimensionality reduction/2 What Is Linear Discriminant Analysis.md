@@ -2,12 +2,11 @@
 title: What Is Linear Discriminant Analysis?
 source: https://www.ibm.com/think/topics/linear-discriminant-analysis#1793360182
 author:
-  - "[[IBM]]"
-published:
+- '[[IBM]]'
+published: null
 created: 2026-05-21
-description: Linear discriminant analysis (LDA) is an approach used in supervised machine learning to solve multi-class classification problems.
-tags:
-  - clippings
+description: Linear discriminant analysis (LDA) is an approach used in supervised
+  machine learning to solve multi-class classification problems.
 ---
 ## What is linear discriminant analysis (LDA)?
 

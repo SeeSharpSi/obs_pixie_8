@@ -1,4 +1,7 @@
-#bible #ephesians #dad 
+---
+book: ephesians
+---
+#bible #dad
 
 # Ephesians 2
 * v. 2 and you were dead
@@ -19,7 +22,7 @@
 # random thoughts
 Does God want everyone to be saved?
 > [!bible]+ [2 Peter 3:9 - ESV](https://bolls.life/ESV/61/3/)
-> 9. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you,  not wishing that any should perish, but that all should reach repentance.
+> 9. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
 
 > [!bible]+ [Ezekiel 33:11 - ESV](https://bolls.life/ESV/26/33/)
 > 11. Say to them, As I live, declares the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live; turn back, turn back from your evil ways, for why will you die, O house of Israel?

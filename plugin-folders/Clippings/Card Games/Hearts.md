@@ -1,13 +1,12 @@
 ---
 title: Hearts
 source: https://bicyclecards.com/how-to-play/hearts/
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
 description: Hearts is easy to play, yet there is plenty of room for high strategy.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![[H2P_hearts.jpg]]
 

@@ -1,13 +1,12 @@
 ---
-title: "How To Protect Yourself From Bears (SAFETY Tips)"
-source: "https://wildernesstimes.com/bear-safety-tips/"
+title: How To Protect Yourself From Bears (SAFETY Tips)
+source: https://wildernesstimes.com/bear-safety-tips/
 author:
-  - "[[Mike Miller]]"
+- '[[Mike Miller]]'
 published: 2022-10-27
 created: 2026-05-28
-description: "Encountering a bear while hiking or camping is no simple situation. Arm yourself with the knowledge to stay safe in case a bear attacks."
-tags:
-  - "clippings"
+description: Encountering a bear while hiking or camping is no simple situation. Arm
+  yourself with the knowledge to stay safe in case a bear attacks.
 ---
 ![[Bear-Safety-Tips.jpg|Bear Safety Tips]]
 

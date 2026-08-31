@@ -1,8 +1,6 @@
 ---
 created: 2026-05-18
 ---
-#cdCon
-
 * Platform engineering vs DevOps 
 	* A lot of things change in name, not in function 
 

@@ -1,3 +1,5 @@
+#bible
+
 # 7 
 1. He would not go into Judea, because the Jews sought to kill Him 
 2. Fears of Tabernacles / Booths 

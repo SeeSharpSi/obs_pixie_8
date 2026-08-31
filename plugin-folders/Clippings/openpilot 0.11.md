@@ -1,13 +1,11 @@
 ---
-title: "openpilot 0.11"
-source: "https://blog.comma.ai/011release/"
+title: openpilot 0.11
+source: https://blog.comma.ai/011release/
 author:
-  - "[[comma.ai]]"
+- '[[comma.ai]]'
 published: 2026-03-17
 created: 2026-05-26
-description: "The first robotics agent fully trained in a learned simulation"
-tags:
-  - "clippings"
+description: The first robotics agent fully trained in a learned simulation
 ---
 ## The first robotics agent fully trained in a learned simulation
 
@@ -140,9 +138,9 @@ When comma four is parked, the panda microcontroller stays awake to detect ignit
 
 Parasitic draws above [600 mW](https://static.nhtsa.gov/odi/tsbs/2018/MC-10153705-9999.pdf) are generally considered worth investigating. The previous 225 mW were a real chunk of the car’s key-off power budget. Now at 52 mW, that’s the difference between a dead battery in weeks vs months.
 
-|  | Power | Current | vs. car idle |
+| | Power | Current | vs. car idle |
 | --- | --- | --- | --- |
-| Typical car (key-off) | 250–600 mW | 20–50 mA |  |
+| Typical car (key-off) | 250–600 mW | 20–50 mA | |
 | \+ comma four (previous) | 225 mW | 19 mA | 38–95% |
 | **\+ comma four (0.11)** | **52 mW** | **4.2 mA** | **8–21%** |
 | [BMW diagnostic threshold](https://static.nhtsa.gov/odi/tsbs/2018/MC-10153705-9999.pdf) | 600 mW | 50 mA | 100–240% |

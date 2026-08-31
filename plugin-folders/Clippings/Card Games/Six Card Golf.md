@@ -1,13 +1,13 @@
 ---
 title: Six Card Golf
 source: https://bicyclecards.com/how-to-play/six-card-golf
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
-description: Try to earn the lowest number of points over the course of nine deals (or "holes”).
+description: Try to earn the lowest number of points over the course of nine deals
+  (or "holes”).
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![[807_5.jpg]]
 

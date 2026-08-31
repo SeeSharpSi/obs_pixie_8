@@ -1,13 +1,14 @@
 ---
 title: Euchre
 source: https://bicyclecards.com/how-to-play/euchre
-author:
-published:
+author: null
+published: null
 created: 2026-05-28
-description: Euchre is an offshoot of Juckerspiel, a game that became widely popular throughout Europe during the Napoleonic era. In the 1800s, it became one of the most popular card games in America and Australia.
+description: Euchre is an offshoot of Juckerspiel, a game that became widely popular
+  throughout Europe during the Napoleonic era. In the 1800s, it became one of the
+  most popular card games in America and Australia.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ![](https://images.ctfassets.net/sm166qdr1jca/2I5Cvz6B1RNVmftxre9Szb/c2ecf7af8939fb131380d05e46950f95/Bicycle_Euchre_WEF_Header.jpg?w=4032&q=80&fm=avif)
 

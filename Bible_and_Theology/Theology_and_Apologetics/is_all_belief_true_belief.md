@@ -1,4 +1,4 @@
-#bible #mike #bible 
+#bible #mike #bible
 
 # John 2:23-25
 * About three years prior to Jesus' triumphal entry 

@@ -1,3 +1,5 @@
+#bible
+
 * worship v performance 
 * congregational v personal 
 * What's the purpose of the audition? 

@@ -1,4 +1,7 @@
-#bible #1-samuel 
+---
+book: 1-samuel
+---
+#bible
 
 # 16
 * This chapter is a large turning point as David is anointed King and Saul starts to fade 
@@ -18,7 +21,6 @@
 # random thoughts 
 Jazz every last Friday in downtown Woodstock 
 
-
 ## prayer 
 Silas: for his back to stop hurting / be healed. And that his last week of college goes well 
 Rachel: that everybody finishes the year strong 
@@ -26,5 +28,5 @@ Me: wisdom in my schedule this summer
 
 ## application 
 Silas: 1 Sam 16:7 - don't compare myself with what I think I should be but with what God has told me I am. And also when I'm stressed out / anxious or when God is disciplining me to still turn to God 
-Rachel: looking inwards - not doubting myself and abilities and that God has me there for a reason and I'll be capable of what He's called me to do  
+Rachel: looking inwards - not doubting myself and abilities and that God has me there for a reason and I'll be capable of what He's called me to do 
 Me: God will use me and I'll be capable with Him 

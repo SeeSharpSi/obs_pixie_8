@@ -1,4 +1,4 @@
-#2026-05-21 #dhcp 
+#dhcp
 * https://github.com/infusion/node-dhcp 
 	* Inspect this to see how it works 
 * Does DHCP use TDP or UDP? 

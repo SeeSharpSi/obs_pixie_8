@@ -2,13 +2,13 @@
 title: Barbu - card game rules
 source: https://www.pagat.com/compendium/barbu.html
 author:
-  - "[[John McLeod]]"
+- '[[John McLeod]]'
 published: 1995-09-30
 created: 2026-05-28
-description: How to play Barbu, a compendium card game for four players each of whom must play seven different contracts in an order of their choice.
+description: How to play Barbu, a compendium card game for four players each of whom
+  must play seven different contracts in an order of their choice.
 tags:
-  - clippings
-  - card_games
+- card_games
 ---
 ## Barbu
 
@@ -59,8 +59,8 @@ In negative contracts, there are no trumps. The declarer leads to the first tric
 The positive contracts are:
 
 - **Trumps**. Declarer chooses a trump suit. The declarer leads to the first trick. Players must follow suit if possible. A trick is won by the highest trump in it, or if it contains no trump, by the highest card of the suit led. Any card may be led to a trick, but any other player who can legally head the trick by playing a trump is obliged to do so. (This means that if trumps are led, players are obliged not only to follow suit with a trump, but to play a higher trump than any so far in the trick if this is possible. It also means that if a side-suit is led, a player who is void in that side-suit is obliged to head the trick with a trump unless it already contains a trump higher than any in her hand, in which case she can play anything.) The winner of a trick leads to the next. Each trick scores +5 points to the player winning it. The total score for the contract is therefore +65.
-- **Dominoes (Fantan)**. Declarer chooses a starting rank. For example if the starting rank is to be 5, she says "dominoes from the five". The object is to get rid of all one's cards before the other players. Each player in turn, starting as usual with declarer, must, if possible, play an acceptable card face upwards to the table. Acceptable cards are those of the chosen rank, also cards of the same suit and adjacent rank to one already played. Note that **every** suit must be started with the rank chosen by the declarer - for example in dominoes from the 5, the holder of **7** cannot play it until **5** and **6** are in place, even if **4-56-7** have already been played. A player who cannot play, having no acceptable card, indicates this (perhaps by rapping on the table) and the turn to play passes on. In particular, declarer may have no cards of the rank she chooses, in which case she begins the play by passing. The played cards form a layout with the four cards of the starting rank in a column in the centre, and the other cards of their suits built up in sequence on either side. Play continues until all four players have played all their cards. As usual, aces are high and twos low, so the last card played will be either an ace or a two.  
-	**Example**: A chooses dominoes from the nine and plays the 9 of hearts, B plays the 9 of spades, C plays the 10 of spades. Playable cards for D are now H8, H10, S8, SJ, D9, C9. If D has none of these she must pass.  
+- **Dominoes (Fantan)**. Declarer chooses a starting rank. For example if the starting rank is to be 5, she says "dominoes from the five". The object is to get rid of all one's cards before the other players. Each player in turn, starting as usual with declarer, must, if possible, play an acceptable card face upwards to the table. Acceptable cards are those of the chosen rank, also cards of the same suit and adjacent rank to one already played. Note that **every** suit must be started with the rank chosen by the declarer - for example in dominoes from the 5, the holder of **7** cannot play it until **5** and **6** are in place, even if **4-56-7** have already been played. A player who cannot play, having no acceptable card, indicates this (perhaps by rapping on the table) and the turn to play passes on. In particular, declarer may have no cards of the rank she chooses, in which case she begins the play by passing. The played cards form a layout with the four cards of the starting rank in a column in the centre, and the other cards of their suits built up in sequence on either side. Play continues until all four players have played all their cards. As usual, aces are high and twos low, so the last card played will be either an ace or a two. 
+	**Example**: A chooses dominoes from the nine and plays the 9 of hearts, B plays the 9 of spades, C plays the 10 of spades. Playable cards for D are now H8, H10, S8, SJ, D9, C9. If D has none of these she must pass. 
 	The first player to go out scores +45. Play continues between the other three players, and the second scores +20. The last two players continue playing and the third to go out scores +5 and the last scores -5. The total score for the contract is therefore +65. This contract is sometimes known as Fantan.
 
 The scores are cunningly chosen so that the total over seven hands is 0.
@@ -150,7 +150,7 @@ Some people only allow players to double declarer, not each other, and if the de
 
 Some play that if a negative contract is chosen and no one doubles, the cards are not played. Instead, each opponent of the declarer scores one third of the total (negative) points rounded to the nearest integer, and declarer receives any rounding error. Specifically:
 
-|  | Declarer | Each opponent |
+| | Declarer | Each opponent |
 | --- | --- | --- |
 | No last two | 0 | \-10 |
 | No tricks | +1 | \-9 |

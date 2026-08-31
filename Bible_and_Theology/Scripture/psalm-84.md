@@ -1,4 +1,7 @@
-#bible #dad #psalm 
+---
+book: psalm
+---
+#bible #dad
 
 * we often see meaning that comes from symbolism and imagery
 * not only do they reflect a robust theology of God, but a full range of human experience
@@ -19,9 +22,7 @@
 
 # Psalm 84
 
-
 ## Psalm 117
 * Shortest Psalm
-
 
 He is the greatest object of our affection. Jesus said "compared to me hate your mother and father"

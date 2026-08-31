@@ -1,7 +1,6 @@
 ---
 created: 2026-05-18
 ---
-#cdCon
 * OPA Policies 
 * Accountability 
 	* If an agent does a stupid it's still human error 

@@ -2,12 +2,12 @@
 title: What Is Linear Algebra for Machine Learning?
 source: https://www.ibm.com/think/topics/linear-algebra-for-machine-learning#498277089
 author:
-  - "[[Fangfang Lee]]"
-published:
+- '[[Fangfang Lee]]'
+published: null
 created: 2026-05-21
-description: In machine learning (ML) , linear algebra involves the use of mathematical operations to represent and manipulate data, parameters and computations inside ML models.
-tags:
-  - clippings
+description: In machine learning (ML) , linear algebra involves the use of mathematical
+  operations to represent and manipulate data, parameters and computations inside
+  ML models.
 ---
 ## Author
 

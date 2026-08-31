@@ -1,13 +1,13 @@
 ---
-title: "How to Play Regicide Card Game: Rules & Strategy Guide"
-source: "https://www.wikihow.com/Regicide-Card-Game"
+title: 'How to Play Regicide Card Game: Rules & Strategy Guide'
+source: https://www.wikihow.com/Regicide-Card-Game
 author:
-  - "[[wikihow.com]]"
+- '[[wikihow.com]]'
 published: 2024-09-19
 created: 2026-05-25
-description: "Learn this strategic team game in minutes with our handy rules guideIf you want an exciting cooperative game to play with your friends, Regicide is a great new game that only requires a deck of cards. Together, you have to defeat the..."
-tags:
-  - "clippings"
+description: Learn this strategic team game in minutes with our handy rules guideIf
+  you want an exciting cooperative game to play with your friends, Regicide is a great
+  new game that only requires a deck of cards. Together, you have to defeat the...
 ---
 ## How to Play and Win the Regicide Card Game
 

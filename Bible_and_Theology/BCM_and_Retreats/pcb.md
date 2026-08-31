@@ -1,8 +1,16 @@
+---
+speaker:
+- chase
+- robbie
+- nathan
+- ken
+---
+#bible
 
 This trip's theme is "the greatness of God." 
 # greatness of God 
 ## session 1
-#ken 
+
 * Psalm 139:17-18
 * Psalm 104:24-26 
 * Psalm 95:5-6 
@@ -38,12 +46,12 @@ This trip's theme is "the greatness of God."
 * Acts 1:1-8 
 
 ## session 2 
-#nathan 
+
 * Questions: 
 	* Write down the largest physical object you've ever experienced 
 		* The Grand canyon 
 	* Write down the largest non-tangible thing you've experienced 
-		* The revelation of God through nature  
+		* The revelation of God through nature 
 * Psalm 93 
 * v. 3-4 are our key verses 
 * Matthew 10:29-30 
@@ -63,7 +71,7 @@ This trip's theme is "the greatness of God."
 	* What is holding you back from stepping out of the boat towards Jesus? 
 
 ## session 3
-#chase 
+
 * Psalm 93. . . 
 * "I love the Psalms because you can't systematize them individually" 
 * Psalm 93 has a chiastic formulation, meaning it repeats 
@@ -106,7 +114,7 @@ This trip's theme is "the greatness of God."
 * 2 Timothy 2:13 
 
 ## session 4 
-#robbie 
+
 * Psalm 93:1-4 
 * Is Jesus the Lord of your life? 
 	* We often water down the word "lord" 
@@ -129,7 +137,6 @@ This trip's theme is "the greatness of God."
 	* This is false 
 	* The Bible is a weapon to stand your ground against Satan's schemes 
 * 
-
 
 # random thoughts 
 * Colossians 1:16 

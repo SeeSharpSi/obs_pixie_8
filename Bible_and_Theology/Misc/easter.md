@@ -1,4 +1,7 @@
-#bible #luke #mike 
+---
+book: luke
+---
+#bible #mike
 
 # Luke 24:25-27 
 * Was it necessary for Jesus to come from heaven, to live, to die, to rise, and to ascend to the Father? 

@@ -1,4 +1,4 @@
-#bible 
+#bible
 
 # Savior
 * Hosea 13:4

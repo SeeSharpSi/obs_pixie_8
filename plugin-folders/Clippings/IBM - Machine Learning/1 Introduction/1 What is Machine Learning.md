@@ -1,13 +1,13 @@
 ---
-title: "What is Machine Learning?"
-source: "https://www.ibm.com/think/topics/machine-learning#7281535"
+title: What is Machine Learning?
+source: https://www.ibm.com/think/topics/machine-learning#7281535
 author:
-  - "[[Dave Bergmann]]"
+- '[[Dave Bergmann]]'
 published: 1959-07-02
 created: 2026-05-21
-description: "Machine learning is the subset of AI focused on algorithms that analyze and “learn” the patterns of training data in order to make accurate inferences about new data."
-tags:
-  - "clippings"
+description: Machine learning is the subset of AI focused on algorithms that analyze
+  and “learn” the patterns of training data in order to make accurate inferences about
+  new data.
 ---
 Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate *inferences* about new data. This pattern recognition ability enables machine learning models to make decisions or predictions without explicit, hard-coded instructions.
 
@@ -158,8 +158,8 @@ Loosely inspired by the human brain, neural networks comprise interconnected lay
 
 Each connection between two neurons is assigned a unique *weight*: a multiplier that increases or decreases one neuron’s contribution to a neuron in the following layer. These weights, along with unique *bias* terms added to each neuron's activation function, are the parameters to be optimized through machine learning.
 
-The [**backpropagation**](https://www.ibm.com/think/topics/backpropagation) algorithm enables the computation of how *each individual node* contributes to the overall output of the loss function, allowing even millions or billions of model weights to be individually optimized through [gradient descent](https://www.ibm.com/think/topics/gradient-descent) algorithms. Because of the volume and granularity of updates required to achieve optimal results, deep learning requires very large amounts of data and computational resources compared to traditional ML.  
-  
+The [**backpropagation**](https://www.ibm.com/think/topics/backpropagation) algorithm enables the computation of how *each individual node* contributes to the overall output of the loss function, allowing even millions or billions of model weights to be individually optimized through [gradient descent](https://www.ibm.com/think/topics/gradient-descent) algorithms. Because of the volume and granularity of updates required to achieve optimal results, deep learning requires very large amounts of data and computational resources compared to traditional ML. 
+
 That distributed structure affords deep learning models their incredible power and versatility. Imagine training data as data points scattered on a 2-dimensional graph. Essentially, traditional machine learning aims to find a single curve that runs through every one of those data points; deep learning pieces together an arbitrary number of smaller, individually adjustable lines to form the desired shape. Neural networks are *universal approximators*: it has been theoretically proven that for any function, there exists a neural network arrangement that can reproduce it.<sup>3, 4</sup>
 
 Having said that, just because something is *theoretically* possible doesn’t mean it’s practically achievable through existing training methods. For many years, adequate performance on certain tasks remained out of reach even for deep learning models—but over time, modifications to the standard neural network architecture have unlocked new capabilities for ML models.
@@ -252,7 +252,7 @@ Learn about the main categories of machine learning, from supervised and unsuper
 
 ](https://www.ibm.com/think/topics/machine-learning-types)
 
-1\. [“Some Studies in Machine Learning Using the Game of Checkers,”](https://people.csail.mit.edu/brooks/idocs/Samuel.pdf) *IBM Journal* (accessed through MIT), 3 July 1959  
-2\. [“Using Decision Trees as an Expert System for Clinical Decision Support for COVID-19,“](https://www.i-jmr.org/2023/1/e42540) *Interactive Journal of Medical Research, Vol 12*, 30 January 2023  
-3\. [“Kolmogorov’s Mapping Neural Network Existence Theorem,“](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987  
+1\. [“Some Studies in Machine Learning Using the Game of Checkers,”](https://people.csail.mit.edu/brooks/idocs/Samuel.pdf) *IBM Journal* (accessed through MIT), 3 July 1959 
+2\. [“Using Decision Trees as an Expert System for Clinical Decision Support for COVID-19,“](https://www.i-jmr.org/2023/1/e42540) *Interactive Journal of Medical Research, Vol 12*, 30 January 2023 
+3\. [“Kolmogorov’s Mapping Neural Network Existence Theorem,“](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987 
 4\. [“Multilayer Feedforward Networks with a Non-Polynomial Activation Function Can Approximate Any Function,“](https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf) Center for Research on Information Systems (New York University), March 1992

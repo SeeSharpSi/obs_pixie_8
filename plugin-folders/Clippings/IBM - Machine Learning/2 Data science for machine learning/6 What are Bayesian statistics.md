@@ -1,13 +1,13 @@
 ---
-title: "What are Bayesian statistics?"
-source: "https://www.ibm.com/think/topics/bayesian-statistics#498277085"
+title: What are Bayesian statistics?
+source: https://www.ibm.com/think/topics/bayesian-statistics#498277085
 author:
-  - "[[Joshua Noble]]"
-published:
+- '[[Joshua Noble]]'
+published: null
 created: 2026-05-21
-description: "Bayesian statistics is an approach to statistical inference grounded in Bayes’ theorem to update the probability of a hypothesis as more evidence or data becomes available."
-tags:
-  - "clippings"
+description: Bayesian statistics is an approach to statistical inference grounded
+  in Bayes’ theorem to update the probability of a hypothesis as more evidence or
+  data becomes available.
 ---
 ## What is Bayesian statistics?
 

@@ -1,3 +1,5 @@
+#bible
+
 Sola Scriptura (Gavin Ortlund):
 "The claim that the scriptures are the only infallible rule for Christian faith and practice"
 There is a place for tradition. Creeds and councils can even be binding and authoritative. But tradition is fallible.

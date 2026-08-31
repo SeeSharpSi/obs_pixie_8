@@ -1,13 +1,13 @@
 ---
-title: "Uncertainty Quantification"
-source: "https://www.ibm.com/think/topics/uncertainty-quantification#498277087"
+title: Uncertainty Quantification
+source: https://www.ibm.com/think/topics/uncertainty-quantification#498277087
 author:
-  - "[[Joshua Noble]]"
-published:
+- '[[Joshua Noble]]'
+published: null
 created: 2026-05-21
-description: "Model uncertainty helps us estimate not only how accurate a model is over time but also can help show the range of possible results. It also helps understand how to reduce the uncertainty both in measurement and in models."
-tags:
-  - "clippings"
+description: Model uncertainty helps us estimate not only how accurate a model is
+  over time but also can help show the range of possible results. It also helps understand
+  how to reduce the uncertainty both in measurement and in models.
 ---
 ## What is uncertainty quantification in machine learning?
 

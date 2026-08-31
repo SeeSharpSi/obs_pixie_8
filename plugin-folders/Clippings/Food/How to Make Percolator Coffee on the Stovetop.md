@@ -1,13 +1,12 @@
 ---
-title: "How to Make Percolator Coffee on the Stovetop"
-source: "https://coletticoffee.com/blogs/camping-coffee-tips/how-to-make-percolator-coffee"
+title: How to Make Percolator Coffee on the Stovetop
+source: https://coletticoffee.com/blogs/camping-coffee-tips/how-to-make-percolator-coffee
 author:
-  - "[[coletticoffee.com]]"
+- '[[coletticoffee.com]]'
 published: 2026-03-08
 created: 2026-05-28
-description: "Struggling with weak or bitter coffee? Learn how to make percolator coffee with rich flavor and smooth results for camping or home use."
-tags:
-  - "clippings"
+description: Struggling with weak or bitter coffee? Learn how to make percolator coffee
+  with rich flavor and smooth results for camping or home use.
 ---
 A stovetop coffee percolator is one of the simplest and most reliable ways to brew bold coffee. Before electric coffee makers became common, percolators were the standard in many kitchens — and today they remain popular for people who want a stronger, fuller-bodied cup.
 

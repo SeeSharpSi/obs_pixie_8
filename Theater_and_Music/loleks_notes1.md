@@ -1,5 +1,6 @@
-#loleks
-
+---
+speaker: loleks
+---
 # Notes
 
 ## 1st
@@ -20,10 +21,9 @@
 * Black v neck
 * Black shoes, gangstah
 
-
 * 1st scene come in behind barn, exit in front of stage right pg. 8
 * weird man, enter from behind/front house. Exit same
-* 2nd scene, same thing  pg. 34
+* 2nd scene, same thing pg. 34
 * 3rd scene (hoe down), come from behind something, exit somewhere pg. 51
 Act 2
 * 4th scene (snooping around) come in behind barn, exit behind barn pg. 65
@@ -33,7 +33,6 @@ Act 2
 * Keep walking to Tommy's right side, keep walking
 
 * 4th scene, while exiting stop by barn when Kyle says "oh you left something"
-
 
 # 3-11
 * "You think he _left_ the money too boss?" Say LEFT
@@ -80,7 +79,6 @@ Soft r
 	* Being understandable (line delivery) 
 	* focusing on interesting vocal performance 
 
-
 ## 3-13
 * Hoedown, end center upstage (after tunnel) 
 
@@ -93,7 +91,6 @@ Soft r
 Silas Tompkins, an aspiring software engineer, sits at his table deliberating. "Why is the economy changing," "how can we solve world hunger," and "why does Canton lack an In-N-Out?" are questions he may ask himself. All we know is that whichever he chooses to solve, he will. While we may not deserve him, he is the man we need.
 
 Silas enjoyed music, so he took up drums and garnered a somewhat personal investment in the sonic arts. This would manifest in his involvement in several highschool plays and his fascination with sound production. Fast-forward to today and you will find him jamming to Don Ellis's cover of "Hey Jude" while coding.
-
 
 ## 3-14
 
@@ -118,11 +115,7 @@ Silas enjoyed music, so he took up drums and garnered a somewhat personal invest
 
 ## 3-23
 
-
 ## 3-24 
-
-
-
 
 Sing the highest octave I can 
 28th sign-ups cut-off for volunteer jobs 

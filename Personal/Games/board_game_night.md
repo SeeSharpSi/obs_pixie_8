@@ -1,4 +1,4 @@
-#board_games 
+#board_games
 
 # Groups 
 * Bosses 

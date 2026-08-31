@@ -1,4 +1,4 @@
-#bible #me 
+#bible #me
 
 # ch. 15 
 * The Lord rejects Saul: 

@@ -2,12 +2,12 @@
 title: What Are Machine Learning Algorithms?
 source: https://www.ibm.com/think/topics/machine-learning-algorithms#7281537
 author:
-  - "[[Dave Bergmann]]"
+- '[[Dave Bergmann]]'
 published: 2019-11-18
 created: 2026-05-21
-description: A machine learning algorithm is the procedure and mathematical logic through which an AI model learns patterns in training data and applies to them to new data.
-tags:
-  - clippings
+description: A machine learning algorithm is the procedure and mathematical logic
+  through which an AI model learns patterns in training data and applies to them to
+  new data.
 ---
 ## Think Newsletter
 
@@ -166,7 +166,7 @@ RL algorithms can be *value-based* or *policy-based.* In policy-based algorithms
 Notable reinforcement algorithms include:
 
 - *Q-learning,* derived from value-based methods
-- *Proximal policy optimization (PPO),* a policy-based method used prominently in [reinforcement learning from human feedback (RLHF)](https://www.ibm.com/think/topics/rlhf)  
+- *Proximal policy optimization (PPO),* a policy-based method used prominently in [reinforcement learning from human feedback (RLHF)](https://www.ibm.com/think/topics/rlhf) 
 	*Actor-critic* and derivatives such as *advantage actor-critic* (A2C), which use a hybrid of value- and policy-based methods
 - *REINFORCE* (short for REward Increment = Nonnegative Factor × Offset Reinforcement × Characteristic Eligibility), a seminal policy-based method
 
@@ -242,10 +242,10 @@ Whether you choose to customize pre-built apps and skills or build and deploy cu
 
 ##### Footnotes
 
-*<sup>All links reside outside IBM.com.</sup>  
-*1\. [“Energy-Based Self-Supervised Learning,”](https://helper.ipam.ucla.edu/publications/mlpws4/mlpws4_15927.pdf) Yann LeCun (accessed via UCLA), 19 November 2019  
-2\. [“CHARM: An Efficient Algorithm for Closed Itemset Mining,”](https://epubs.siam.org/doi/epdf/10.1137/1.9781611972726.27) *Proceedings of the 2002 SIAM International Conference on Data Mining  
-*3\. [“Online Association Rule Mining,”](https://dl.acm.org/doi/10.1145/304182.304195) *Proceedings of the 1999 ACM SIGMOD International Conference on Management of Data,* 1 June 1999  
-4\. [“Semi-Supervised Learning with Ladder Networks,”](https://arxiv.org/pdf/1507.02672) arXiv, 24 November 2015  
-5\. [“Kolmogorov’s Mapping Neural Network Existence Theorem,”](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987  
+*<sup>All links reside outside IBM.com.</sup> 
+*1\. [“Energy-Based Self-Supervised Learning,”](https://helper.ipam.ucla.edu/publications/mlpws4/mlpws4_15927.pdf) Yann LeCun (accessed via UCLA), 19 November 2019 
+2\. [“CHARM: An Efficient Algorithm for Closed Itemset Mining,”](https://epubs.siam.org/doi/epdf/10.1137/1.9781611972726.27) *Proceedings of the 2002 SIAM International Conference on Data Mining 
+*3\. [“Online Association Rule Mining,”](https://dl.acm.org/doi/10.1145/304182.304195) *Proceedings of the 1999 ACM SIGMOD International Conference on Management of Data,* 1 June 1999 
+4\. [“Semi-Supervised Learning with Ladder Networks,”](https://arxiv.org/pdf/1507.02672) arXiv, 24 November 2015 
+5\. [“Kolmogorov’s Mapping Neural Network Existence Theorem,”](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987 
 6\. [“Multilayer Feedforward Networks with a Non-Polynomial Activation Function Can Approximate Any Function,”](https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf) Center for Research on Information Systems (New York University), March 1992#5/21/2026

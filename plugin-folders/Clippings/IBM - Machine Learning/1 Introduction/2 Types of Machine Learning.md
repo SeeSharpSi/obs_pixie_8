@@ -1,13 +1,12 @@
 ---
-title: "Types of Machine Learning"
-source: "https://www.ibm.com/think/topics/machine-learning-types#7281536"
+title: Types of Machine Learning
+source: https://www.ibm.com/think/topics/machine-learning-types#7281536
 author:
-  - "[[Chrystal R. China]]"
-published:
+- '[[Chrystal R. China]]'
+published: null
 created: 2026-05-21
-description: "Explore the five major machine learning types, including their unique benefits and capabilities, that teams can leverage for different tasks."
-tags:
-  - "clippings"
+description: Explore the five major machine learning types, including their unique
+  benefits and capabilities, that teams can leverage for different tasks.
 ---
 ## Think Newsletter
 

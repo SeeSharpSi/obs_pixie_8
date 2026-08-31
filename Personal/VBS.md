@@ -24,7 +24,6 @@ Don't use tennis balls outside
 * Tic-tac-toe relay 
 * Over-under bean bags or water cup game 
 
-
 ## resources 
 * 14 orange cones 
 * 8 blow up balls 
@@ -35,10 +34,8 @@ Don't use tennis balls outside
 	* Could do partner jump ropes; counts to something then switches 
 	* Limbo
 
-
 Have Dr. V lines memorized 
 I will probably bayliff 
-
 
 # plans 
 
@@ -54,7 +51,7 @@ Another day:
 * Blow paper boat across pool 
 * Tic-tac-toe with bean bags 
 
-## individual outside games  
+## individual outside games 
 * Simon says 
 * Rock paper scissors tournament 
 * Kangaroo hop
@@ -64,15 +61,13 @@ Another day:
 * Sharks and minoes 
 * Four corners
 
-
 # days 
-
 
 ~~Monday:~~
 * ~~Four corners, inside~~ 
 
 Monday: 
-* Relay #1:
+* Relay 1:
 	* Body though hula hoop 
 	* Kangaroo hop / egg spoon heel toe
 	* Hop-scotch 
@@ -82,17 +77,17 @@ Tuesday:
 * Sharks and minoes
 
 Wednesday: 
-* Relay race #2, outside 
+* Relay race 2, outside 
 	* Over under with cup of water 
 	* Egg spoon balance, heel toe 
 	* Kangaroo hop 
 	* Throw frisbee into hula hoop
 
 Thursday: 
-*  Four corners 
+* Four corners 
 
 ~~Friday~~ 
-* ~~Relay race #2, outside~~ 
+* ~~Relay race 2, outside~~ 
 	* ~~Body through hula-hoop, pass to next person in line~~ 
 	* ~~Blow paper boat across pool~~ 
 	* ~~Tic-tac-toe with bean bags~~ 
@@ -100,12 +95,8 @@ Thursday:
 Friday: 
 * Simon says
 
-
-
 Relay race rules: 
 1. In line-up stations (hula-hoop)
-
-
 
 * Move Friday relay to Monday 
 * Do Simon says on Friday 
@@ -113,6 +104,5 @@ Relay race rules:
 * Could have a very active game on Tuesday because they're going to be doing very informal auditions 
 * Have the kids run through the relay in pairs 
 * Replace tic-tac-toe and paper boat for relay 
-
 
 Red light green light 

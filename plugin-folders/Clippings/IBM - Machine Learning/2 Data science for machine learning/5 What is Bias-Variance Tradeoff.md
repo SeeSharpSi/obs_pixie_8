@@ -1,13 +1,15 @@
 ---
-title: "What is Bias-Variance Tradeoff?"
-source: "https://www.ibm.com/think/topics/bias-variance-tradeoff#498277086"
+title: What is Bias-Variance Tradeoff?
+source: https://www.ibm.com/think/topics/bias-variance-tradeoff#498277086
 author:
-  - "[[Fangfang Lee]]"
-published:
+- '[[Fangfang Lee]]'
+published: null
 created: 2026-05-21
-description: "Bias-variance tradeoff is a fundamental principle that governs the performance of machine learning models. Understanding the core concept of bias-variance tradeoff will help practitioners build robust AI systems that are strike a balance between high training accuracy and high testing accuracy. The article aims to show details and example of bias-variance tradeoff."
-tags:
-  - "clippings"
+description: Bias-variance tradeoff is a fundamental principle that governs the performance
+  of machine learning models. Understanding the core concept of bias-variance tradeoff
+  will help practitioners build robust AI systems that are strike a balance between
+  high training accuracy and high testing accuracy. The article aims to show details
+  and example of bias-variance tradeoff.
 ---
 ## Author
 

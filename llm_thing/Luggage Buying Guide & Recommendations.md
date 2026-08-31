@@ -1,8 +1,7 @@
 ---
 date: '2026-07-02T19:55:44.506952-04:00'
-model: 'claude-opus-4-20250514'
+model: claude-opus-4-20250514
 ---
-
 # Luggage Buying Guide & Recommendations
 
 # Luggage Buying Guide & Recommendations
@@ -125,7 +124,7 @@ model: 'claude-opus-4-20250514'
 | **July Carry-on Max** | ~$325 | Hardside carry-on | Largest carry-on tested (50-62L expandable); 20 handle heights, includes packable tote |
 | **Travelpro VersaPack+ Carry-On** | ~$325 | Softside carry-on | Best with packing cubes; includes shoe bags, laundry bags, built-in compression cubes, laptop sleeve |
 | **Monos Hybrid Carry-On** | ~$355 | Hardside carry-on | Best for international; zipperless latches prevent overpacking; includes shoe/laundry bags; doesn't expand |
-| **Travelpro Platinum Elite Carry-On Spinner** | ~$390 | Softside carry-on | Wirecutter's #1 overall; MagnaTrac wheels, lifetime warranty covering airline damage; USB pass-through |
+| **Travelpro Platinum Elite Carry-On Spinner** | ~$390 | Softside carry-on | Wirecutter's 1 overall; MagnaTrac wheels, lifetime warranty covering airline damage; USB pass-through |
 | **Travelpro Platinum Elite Medium Check-In Spinner** | ~$451 | Softside checked | Best checked bag for most travelers; holds 2 weeks of clothes, garment folder, lifetime warranty |
 | **Monos Hybrid Trunk (Checked)** | ~$485 | Hardside trunk | Trunk-style with aluminum frame; pleasant to pack, lifetime warranty; airlines may flag as oversize |
 | **Samsonite Proxis Global Carry-On Spinner** | ~$500 | Hardside carry-on | Most durable; made of Roxkin (sent to space and survived!), only 4.7 lbs; minimal organization, expands only 0.5" |
@@ -141,13 +140,13 @@ model: 'claude-opus-4-20250514'
 
 ### Luxury ($1,000+)
 
-| Product                                            | Price       | Type              | Highlights                                                                                                            |
+| Product | Price | Type | Highlights |
 | -------------------------------------------------- | ----------- | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Hartmann Reserve Medium Trunk**                  | ~$675       | Hardside checked  | Best overall luxury; included packing cubes, leather trim, 12 handle heights; 14 lbs empty                            |
-| **Rimowa Cabin S**                                 | ~$1,000+    | Aluminum carry-on | Most stylish; iconic aluminum design since 1920, lifetime warranty; limited capacity, shows scratches                 |
-| **Zero Halliburton Classic Aluminum 3.0 Carry-On** | ~$1,045     | Aluminum carry-on | Most durable luxury; nearly indestructible, 10-year warranty; wheels can catch on tight turns                         |
-| **Tumi 19 Degree Aluminum International Carry-on** | ~$795-1,295 | Aluminum carry-on | Ridged exterior hides scratches well; hanger bracket, leather accents; 5-year warranty                                |
-| **Sterling Pacific 40L Cabin Travel Case**         | ~$2,150     | Aluminum carry-on | Most luxurious details; suede interior, leather-wrapped handles, included amenity kit; handles jut out (size concern) |
+| **Hartmann Reserve Medium Trunk** | ~$675 | Hardside checked | Best overall luxury; included packing cubes, leather trim, 12 handle heights; 14 lbs empty |
+| **Rimowa Cabin S** | ~$1,000+ | Aluminum carry-on | Most stylish; iconic aluminum design since 1920, lifetime warranty; limited capacity, shows scratches |
+| **Zero Halliburton Classic Aluminum 3.0 Carry-On** | ~$1,045 | Aluminum carry-on | Most durable luxury; nearly indestructible, 10-year warranty; wheels can catch on tight turns |
+| **Tumi 19 Degree Aluminum International Carry-on** | ~$795-1,295 | Aluminum carry-on | Ridged exterior hides scratches well; hanger bracket, leather accents; 5-year warranty |
+| **Sterling Pacific 40L Cabin Travel Case** | ~$2,150 | Aluminum carry-on | Most luxurious details; suede interior, leather-wrapped handles, included amenity kit; handles jut out (size concern) |
 
 ---
 

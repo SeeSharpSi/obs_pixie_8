@@ -1,6 +1,7 @@
 ---
 created: 2026-06-02
 ---
+#bible
 
 * Wilsons filing for bankruptcy 
 * Matthew Helton to figure out PhD thesis 

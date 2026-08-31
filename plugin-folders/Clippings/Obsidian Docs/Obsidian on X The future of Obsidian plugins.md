@@ -1,13 +1,11 @@
 ---
-title: "Obsidian on X: \"The future of Obsidian plugins\""
-source: "https://x.com/i/status/2054234821875146898"
+title: 'Obsidian on X: "The future of Obsidian plugins"'
+source: https://x.com/i/status/2054234821875146898
 author:
-  - "[[x.com]]"
+- '[[x.com]]'
 published: 2026-05-11
 created: 2026-05-12
-description:
-tags:
-  - "clippings"
+description: null
 ---
 ![Image](https://pbs.twimg.com/media/HIIPQ5gbYAAOQeI?format=png&name=large)
 

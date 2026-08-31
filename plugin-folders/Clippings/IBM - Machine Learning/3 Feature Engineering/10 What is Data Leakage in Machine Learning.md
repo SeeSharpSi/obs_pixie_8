@@ -1,13 +1,12 @@
 ---
-title: "What is Data Leakage in Machine Learning?"
-source: "https://www.ibm.com/think/topics/data-leakage-machine-learning#1003835706"
+title: What is Data Leakage in Machine Learning?
+source: https://www.ibm.com/think/topics/data-leakage-machine-learning#1003835706
 author:
-  - "[[Tim   Mucci]]"
-published:
+- '[[Tim   Mucci]]'
+published: null
 created: 2026-05-21
-description: "Data leakage in machine learning occurs when a model uses information during training that wouldn't be available at the time of prediction."
-tags:
-  - "clippings"
+description: Data leakage in machine learning occurs when a model uses information
+  during training that wouldn't be available at the time of prediction.
 ---
 ## Author
 

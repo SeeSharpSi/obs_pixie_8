@@ -1,7 +1,6 @@
 ---
 created: 2026-05-18
 ---
-#cdCon
 * Speed is not a substitute for judgement 
 * Talk about AI from the perspective of someone who owns the consequences 
 	* True 

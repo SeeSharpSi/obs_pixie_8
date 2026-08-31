@@ -1,4 +1,7 @@
-#bible #the_well
+---
+speaker: the_well
+---
+#bible
 
 "God's will is a buzzword, but what does it mean?"
 
@@ -30,7 +33,7 @@ Was it God's will for Satan to persecute Job?
 
 # random thoughts 
 > [!bible]+ [James 1:2-4 - ESV](https://bolls.life/ESV/59/1/)
-> 2. Count it all joy, my brothers,  when you meet trials of various kinds,
+> 2. Count it all joy, my brothers, when you meet trials of various kinds,
 > 3. for you know that the testing of your faith produces steadfastness.
 > 4. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.
 
@@ -38,6 +41,6 @@ Was it God's will for Satan to persecute Job?
 > 12. Indeed, all who desire to live a godly life in Christ Jesus will be persecuted,
 
 > [!bible]+ [2 Corinthians 12:9-10 - ESV](https://bolls.life/ESV/47/12/)
-> 9. But he said to me,  “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
+> 9. But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
 > 10. For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.
 

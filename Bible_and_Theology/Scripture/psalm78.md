@@ -1,4 +1,7 @@
-#bible #psalm #dad 
+---
+book: psalm
+---
+#bible #dad
 
 # Psalm 78
 * My wife and I have very distinct testimonies: 
@@ -45,7 +48,6 @@
 
 * Romans 2:4 
 * 
-
 
 ## Proverbs 22:6 
 

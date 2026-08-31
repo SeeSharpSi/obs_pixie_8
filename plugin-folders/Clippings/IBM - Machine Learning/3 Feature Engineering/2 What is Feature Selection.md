@@ -1,14 +1,13 @@
 ---
-title: "What is Feature Selection?"
-source: "https://www.ibm.com/think/topics/feature-selection#1003835714"
+title: What is Feature Selection?
+source: https://www.ibm.com/think/topics/feature-selection#1003835714
 author:
-  - "[[Ivan Belcic]]"
-  - "[[Cole Stryker]]"
-published:
+- '[[Ivan Belcic]]'
+- '[[Cole Stryker]]'
+published: null
 created: 2026-05-21
-description: "Feature selection is the process of selecting the most relevant features of a dataset to use when building and training a machine learning model."
-tags:
-  - "clippings"
+description: Feature selection is the process of selecting the most relevant features
+  of a dataset to use when building and training a machine learning model.
 ---
 ## Authors
 
@@ -49,8 +48,8 @@ Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybr
 
 A feature is a definable quality of the items in a dataset. Features are also known as variables because their values can change from one data point to the next, and attributes because they characterize the data points in the dataset. Different features characterize the data points in various ways.
 
-Features can be independent variables, dependent variables that derive their value from independent variables or combined attributes that are compiled from multiple other features.  
-  
+Features can be independent variables, dependent variables that derive their value from independent variables or combined attributes that are compiled from multiple other features. 
+
 The goal of feature selection is to identify the most important input variables that the model can use to predict dependent variables. The target variable is the dependent variable that the model is charged with predicting.
 
 For example, in a database of employees, input features can include age, location, salary, title, performance metrics and duration of employment. An employer can use these variables to generate a target combined attribute representing an employee’s likelihood of leaving for a better offer. Then, the employer can determine how to encourage those employees to stay.

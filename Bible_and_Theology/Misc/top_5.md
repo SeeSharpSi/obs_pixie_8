@@ -1,4 +1,4 @@
-#bible #apologetics #ben 
+#bible #apologetics #ben
 
 ![[PXL_20240326_231641894~2.jpg]]
 # Daniel 9:20-27

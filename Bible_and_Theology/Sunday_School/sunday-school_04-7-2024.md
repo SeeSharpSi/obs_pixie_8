@@ -1,4 +1,9 @@
-#genesis #joe 
+---
+book: genesis
+---
+#bible
+
+#joe
 
 # preface 
 * Jacob was 91 when Joseph was born 

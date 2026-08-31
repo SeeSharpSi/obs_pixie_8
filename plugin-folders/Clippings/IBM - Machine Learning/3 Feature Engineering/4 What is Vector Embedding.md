@@ -1,14 +1,13 @@
 ---
-title: "What is Vector Embedding?"
-source: "https://www.ibm.com/think/topics/vector-embedding#1003835712"
+title: What is Vector Embedding?
+source: https://www.ibm.com/think/topics/vector-embedding#1003835712
 author:
-  - "[[Dave Bergmann]]"
-  - "[[Cole Stryker]]"
+- '[[Dave Bergmann]]'
+- '[[Cole Stryker]]'
 published: 2021-03-10
 created: 2026-05-21
-description: "Vector embeddings are numerical representations of data points, such as words or images, as an array of numbers that ML models can process."
-tags:
-  - "clippings"
+description: Vector embeddings are numerical representations of data points, such
+  as words or images, as an array of numbers that ML models can process.
 ---
 ## Authors
 
@@ -76,13 +75,13 @@ A vector embedding transforms a data point, such as a word, sentence or image, i
 
 To understand vector embeddings requires the explanation of a few key concepts:
 
-- **How vector embeddings represent data.  
-	  
+- **How vector embeddings represent data. 
+
 	**
-- **How vector embeddings can be compared.  
-	  
+- **How vector embeddings can be compared. 
+
 	**
-- **How models can be used to generate vector embeddings.  
+- **How models can be used to generate vector embeddings. 
 	**
 
 ### How vector embeddings represent data
@@ -119,14 +118,14 @@ Stand-alone embedding models might be pretrained offerings or trained from scrat
 
 In some scenarios, the embedding process is an integrated part of a larger neural network. For example, in the encoder-decoder [convolutional neural networks (CNNs)](https://www.ibm.com/topics/convolutional-neural-networks) used for tasks such as [image segmentation](https://www.ibm.com/topics/image-segmentation), the act of optimizing the entire network to make accurate predictions entails training the encoder layers to output effective vector embeddings of input images.
 
-**Pretrained models  
+**Pretrained models 
 **For many use cases and fields of study, pretrained models can provide useful embeddings that can serve as inputs to custom models or vector databases. Such open source models are typically trained on a massive and broad set of training data to learn embeddings useful to many downstream tasks such as [few-shot learning](https://www.ibm.com/topics/few-shot-learning) or [zero-shot learning](https://www.ibm.com/topics/zero-shot-learning).
 
 For text data, basic open source [word embedding](https://www.ibm.com/topics/word-embeddings) models such as Google’s Word2Vec or Stanford University’s Global Vectors (GloVe) can be trained from scratch, but are also offered in variants pretrained on public text data such as Wikipedia and Common Crawl. Likewise, encoder-decoder large language models (LLMs) often used for embeddings, such as BERT and its many variants, are pretrained on a huge amount of text data.
 
 For computer vision tasks, pretrained image classification models such as ImageNet, ResNet or VGG can be adapted to output embeddings by simply removing their final, fully connected prediction layer.
 
-**Custom embedding models**  
+**Custom embedding models** 
 Some use cases, particularly those involving esoteric concepts or novel classes of data, benefit from the [fine-tuning](https://www.ibm.com/topics/fine-tuning) of pretrained models or the training of fully custom embedding models.
 
 The legal and medical domains are prominent examples of fields that often rely on esoteric and highly specialized vocabulary, knowledge bases or imagery unlikely to have been included in the training data of more generalist models. Supplementing the base knowledge of pretrained models through further training on domain-specific examples can help the model output more effective embeddings.
@@ -189,21 +188,21 @@ As of June 2024, BERT remains the most popular language model on Hugging Face, h
 
 Vector embeddings can be used to represent various natural language data.
 
-**Word embeddings**  
+**Word embeddings** 
 [Word embeddings](https://www.ibm.com/topics/word-embeddings) aim to capture not only the semantic meaning of individual words but also their contextual relationship to other words with which they often cooccur. In doing so, word embeddings can generalize well to new contexts and even rare or previously unseen words.
 
 GloVe, a popular word embedding model, was trained on a “global word-word cooccurrence matrix,” inferring semantic meaning and semantic relationships from how often specific words are used close to one another. For example, meaning can be derived from how “ice” and “steam” coincide with “water” at roughly the same frequency, but coincide with “solid” and “gas” at very different rates.<sup>5</sup>
 
 The way the dimensions of a word embedding vector implicitly capture these relationships enables us to mathematically manipulate them in useful and intuitive ways. In a well-configured word embedding scheme, subtracting the vector for “man” from the vector for “king” and adding the vector for “woman” should essentially yield the vector for “queen.”
 
-**Sentence embeddings**  
+**Sentence embeddings** 
 Sentence embeddings embed the semantic meaning of entire phrases or sentences, rather than individual words. They’re typically generated with SBERT or other variants of sentence transformers.
 
 - Sentence embeddings can embed representations of user queries, for use in search engines or question-answering applications.
 - In machine translation, the vector embedding of a sentence in one language can be used to output a sentence in a different language with a similar vector embedding.
 - Sentence embeddings are often used in sentiment analysis. Classifiers can be either trained on labeled examples of each category of sentiment or by using supervised learning, then classify new samples by matching their vector embedding to the learned embedding for each class. Sentiment analysis is also possible through zero-shot learning, in which the embedding for a specific sentence is compared to the word embedding of a particular categorization.
 
-**Document embeddings**  
+**Document embeddings** 
 Document embeddingsare often used to classify documents or web pages for indexing in search engines or vector databases. Typical models for document embedding include BERT variants, Doc2vec (which is an expansion of the Word2vec model) or other open source embedding models such as Instructor (link resides outside ibm.com).
 
 ## Other types of vector embeddings
@@ -224,7 +223,7 @@ A primary benefit of an effective vector database solution is to optimize the ef
 
 This type of similarity search is typically through straightforward [nearest-neighbor](https://www.ibm.com/topics/knn) algorithms that infer connections between data points based on their proximity in high-dimensional vector space.
 
-**Semantic search  
+**Semantic search 
 **Semantic search uses vector embeddings to power searches that transcend simple keyword matching. For example, returning results for “apples” and “oranges” even though the original query was “fruit.” 
 
 ### Retrieval augmented generation (RAG)
@@ -264,8 +263,8 @@ Whether you choose to customize pre-built apps and skills or build and deploy cu
 
 External links to ibm.com
 
-1 ["Stable Tuple Embeddings for Dynamic Databases" \[Stable tuple embeddings for dynamic databases\]](https://arxiv.org/abs/2103.06766). arXiv. March 11, 2021.  
-2 ["Leaderboard: Image Classification on ImageNet" \[Image classification on ImageNet\]](https://paperswithcode.com/sota/image-classification-on-imagenet). Papers With Code. Accessed June 5, 2024.  
-3 ["Models" \[Models\] (sorted by "Most downloads")](https://huggingface.co/models?sort=downloads). Hugging Face. Accessed June 5, 2024.  
-4 ["DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter" \[DistilBERT, a distilled version of BERT: smaller, faster, cheaper, and lighter\]](https://arxiv.org/abs/1910.01108). arXiv. October 2, 2019.  
+1 ["Stable Tuple Embeddings for Dynamic Databases" \[Stable tuple embeddings for dynamic databases\]](https://arxiv.org/abs/2103.06766). arXiv. March 11, 2021. 
+2 ["Leaderboard: Image Classification on ImageNet" \[Image classification on ImageNet\]](https://paperswithcode.com/sota/image-classification-on-imagenet). Papers With Code. Accessed June 5, 2024. 
+3 ["Models" \[Models\] (sorted by "Most downloads")](https://huggingface.co/models?sort=downloads). Hugging Face. Accessed June 5, 2024. 
+4 ["DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter" \[DistilBERT, a distilled version of BERT: smaller, faster, cheaper, and lighter\]](https://arxiv.org/abs/1910.01108). arXiv. October 2, 2019. 
 5 ["GloVe: Global Vectors for Word Representation" \[GloVe: global vectors for word representation\]](https://nlp.stanford.edu/projects/glove/). Stanford University. August 2014.

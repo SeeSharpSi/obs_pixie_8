@@ -2,13 +2,12 @@
 title: Dynamic Host Configuration Protocol
 source: https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol?wprov=sfla1
 author:
-  - "[[wikipedia.org]]"
+- '[[wikipedia.org]]'
 published: 2001-10-07
 created: 2026-05-21
-description:
+description: null
 tags:
-  - clippings
-  - dhcp
+- dhcp
 ---
 The **Dynamic Host Configuration Protocol** (**DHCP**) is a [network management protocol](https://en.wikipedia.org/wiki/Network_protocol "Network protocol") used on [Internet Protocol](https://en.wikipedia.org/wiki/Internet_Protocol "Internet Protocol") (IP) networks for automatically assigning [IP addresses](https://en.wikipedia.org/wiki/IP_address "IP address") and other communication parameters to devices connected to the network using a [client–server](https://en.wikipedia.org/wiki/Client%E2%80%93server "Client–server") architecture.[^4]<sup><span title="Page / location: Introduction">: Introduction</span></sup>
 
@@ -171,85 +170,85 @@ The following tables list the available DHCP options.[^16] [^15]
 | 12 | Host name | Minimum of 1 octet | Name of the client. The name may be qualified with the local domain name. |
 | 13 | Boot file size | 2 octets | Length of the boot image in 512B blocks |
 | 14 | [Merit](https://en.wikipedia.org/wiki/Merit_Network "Merit Network") dump file | Minimum of 1 octet | Path where crash dumps should be stored |
-| 15 | Domain name | Minimum of 1 octet |  |
+| 15 | Domain name | Minimum of 1 octet | |
 | 16 | Swap server | 4 octets | The IP address of a server where a swap service (e.g., swap over NFS) is provided for diskless workstations [^17] |
 | 17 | Root path | Minimum of 1 octet | The path in the remote filesystem specified by siaddr or sname that the client should mount as its root filesystem (e.g, over NFS) |
-| 18 | Extensions path | Minimum of 1 octet |  |
+| 18 | Extensions path | Minimum of 1 octet | |
 | 255 | End | 0 octets | Used to mark the end of the vendor option field |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 19 | IP forwarding enable/disable | 1 octet |  |
-| 20 | Non-local source routing enable/disable | 1 octet |  |
-| 21 | Policy filter | Multiples of 8 octets |  |
-| 22 | Maximum datagram reassembly size | 2 octets |  |
-| 23 | Default IP time-to-live | 1 octet |  |
-| 24 | Path MTU aging timeout | 4 octets |  |
-| 25 | Path MTU plateau table | Multiples of 2 octets |  |
+| 19 | IP forwarding enable/disable | 1 octet | |
+| 20 | Non-local source routing enable/disable | 1 octet | |
+| 21 | Policy filter | Multiples of 8 octets | |
+| 22 | Maximum datagram reassembly size | 2 octets | |
+| 23 | Default IP time-to-live | 1 octet | |
+| 24 | Path MTU aging timeout | 4 octets | |
+| 25 | Path MTU plateau table | Multiples of 2 octets | |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 26 | Interface MTU | 2 octets |  |
-| 27 | All subnets are local | 1 octet |  |
-| 28 | Broadcast address | 4 octets |  |
-| 29 | Perform mask discovery | 1 octet |  |
-| 30 | Mask supplier | 1 octet |  |
-| 31 | Perform router discovery | 1 octet |  |
-| 32 | Router solicitation address | 4 octets |  |
+| 26 | Interface MTU | 2 octets | |
+| 27 | All subnets are local | 1 octet | |
+| 28 | Broadcast address | 4 octets | |
+| 29 | Perform mask discovery | 1 octet | |
+| 30 | Mask supplier | 1 octet | |
+| 31 | Perform router discovery | 1 octet | |
+| 32 | Router solicitation address | 4 octets | |
 | 33 | Static route | Multiples of 8 octets | A list of destination/router pairs |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 34 | Trailer encapsulation option | 1 octet |  |
-| 35 | ARP cache timeout | 4 octets |  |
-| 36 | Ethernet encapsulation | 1 octet |  |
+| 34 | Trailer encapsulation option | 1 octet | |
+| 35 | ARP cache timeout | 4 octets | |
+| 36 | Ethernet encapsulation | 1 octet | |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 37 | TCP default TTL | 1 octet |  |
-| 38 | TCP keepalive interval | 4 octets |  |
-| 39 | TCP keepalive garbage | 1 octet |  |
+| 37 | TCP default TTL | 1 octet | |
+| 38 | TCP keepalive interval | 4 octets | |
+| 39 | TCP keepalive garbage | 1 octet | |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 40 | Network information service domain | Minimum of 1 octet |  |
-| 41 | Network information servers | Multiples of 4 octets |  |
-| 42 | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol "Network Time Protocol") (NTP) servers | Multiples of 4 octets |  |
-| 43 | Vendor-specific information | Minimum of 1 octets |  |
-| 44 | NetBIOS over TCP/IP name server | Multiples of 4 octets |  |
-| 45 | NetBIOS over TCP/IP datagram Distribution Server | Multiples of 4 octets |  |
-| 46 | NetBIOS over TCP/IP node type | 1 octet |  |
-| 47 | NetBIOS over TCP/IP scope | Minimum of 1 octet |  |
-| 48 | [X Window System](https://en.wikipedia.org/wiki/X_Window_System "X Window System") font server | Multiples of 4 octets |  |
-| 49 | X Window System display manager | Multiples of 4 octets |  |
-| 64 | [Network Information Service](https://en.wikipedia.org/wiki/Network_Information_Service "Network Information Service") + domain | Minimum of 1 octet |  |
-| 65 | Network Information Service+ servers | Multiples of 4 octets |  |
-| 68 | Mobile IP home agent | Multiples of 4 octets |  |
-| 69 | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") (SMTP) server | Multiples of 4 octets |  |
-| 70 | [Post Office Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol "Post Office Protocol") (POP3) server | Multiples of 4 octets |  |
-| 71 | [Network News Transfer Protocol](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol "Network News Transfer Protocol") (NNTP) server | Multiples of 4 octets |  |
-| 72 | Default [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web "World Wide Web") (WWW) server | Multiples of 4 octets |  |
-| 73 | Default [Finger protocol](https://en.wikipedia.org/wiki/Finger_protocol "Finger protocol") server | Multiples of 4 octets |  |
-| 74 | Default [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Internet Relay Chat") (IRC) server | Multiples of 4 octets |  |
-| 75 | [StreetTalk](https://en.wikipedia.org/wiki/StreetTalk "StreetTalk") server | Multiples of 4 octets |  |
-| 76 | StreetTalk Directory Assistance (STDA) server | Multiples of 4 octets |  |
+| 40 | Network information service domain | Minimum of 1 octet | |
+| 41 | Network information servers | Multiples of 4 octets | |
+| 42 | [Network Time Protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol "Network Time Protocol") (NTP) servers | Multiples of 4 octets | |
+| 43 | Vendor-specific information | Minimum of 1 octets | |
+| 44 | NetBIOS over TCP/IP name server | Multiples of 4 octets | |
+| 45 | NetBIOS over TCP/IP datagram Distribution Server | Multiples of 4 octets | |
+| 46 | NetBIOS over TCP/IP node type | 1 octet | |
+| 47 | NetBIOS over TCP/IP scope | Minimum of 1 octet | |
+| 48 | [X Window System](https://en.wikipedia.org/wiki/X_Window_System "X Window System") font server | Multiples of 4 octets | |
+| 49 | X Window System display manager | Multiples of 4 octets | |
+| 64 | [Network Information Service](https://en.wikipedia.org/wiki/Network_Information_Service "Network Information Service") + domain | Minimum of 1 octet | |
+| 65 | Network Information Service+ servers | Multiples of 4 octets | |
+| 68 | Mobile IP home agent | Multiples of 4 octets | |
+| 69 | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol "Simple Mail Transfer Protocol") (SMTP) server | Multiples of 4 octets | |
+| 70 | [Post Office Protocol](https://en.wikipedia.org/wiki/Post_Office_Protocol "Post Office Protocol") (POP3) server | Multiples of 4 octets | |
+| 71 | [Network News Transfer Protocol](https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol "Network News Transfer Protocol") (NNTP) server | Multiples of 4 octets | |
+| 72 | Default [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web "World Wide Web") (WWW) server | Multiples of 4 octets | |
+| 73 | Default [Finger protocol](https://en.wikipedia.org/wiki/Finger_protocol "Finger protocol") server | Multiples of 4 octets | |
+| 74 | Default [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat "Internet Relay Chat") (IRC) server | Multiples of 4 octets | |
+| 75 | [StreetTalk](https://en.wikipedia.org/wiki/StreetTalk "StreetTalk") server | Multiples of 4 octets | |
+| 76 | StreetTalk Directory Assistance (STDA) server | Multiples of 4 octets | |
 
 | Code | Name | Length | Notes |
 | --- | --- | --- | --- |
-| 50 | Requested IP address | 4 octets |  |
-| 51 | IP address lease time | 4 octets |  |
-| 52 | Option overload | 1 octet |  |
-| 53 | DHCP message type | 1 octet |  |
-| 54 | Server identifier | 4 octets |  |
-| 55 | Parameter request list | Minimum of 1 octet |  |
-| 56 | Message | Minimum of 1 octet |  |
-| 57 | Maximum DHCP message size | 2 octets |  |
-| 58 | Renewal (T1) time value | 4 octets |  |
-| 59 | Rebinding (T2) time value | 4 octets |  |
-| 60 | Vendor class identifier | Minimum of 1 octet |  |
-| 61 | Client identifier | Minimum of 2 octets |  |
-| 66 | TFTP server name | Minimum of 1 octet |  |
-| 67 | Bootfile name | Minimum of 1 octet |  |
+| 50 | Requested IP address | 4 octets | |
+| 51 | IP address lease time | 4 octets | |
+| 52 | Option overload | 1 octet | |
+| 53 | DHCP message type | 1 octet | |
+| 54 | Server identifier | 4 octets | |
+| 55 | Parameter request list | Minimum of 1 octet | |
+| 56 | Message | Minimum of 1 octet | |
+| 57 | Maximum DHCP message size | 2 octets | |
+| 58 | Renewal (T1) time value | 4 octets | |
+| 59 | Rebinding (T2) time value | 4 octets | |
+| 60 | Vendor class identifier | Minimum of 1 octet | |
+| 61 | Client identifier | Minimum of 2 octets | |
+| 66 | TFTP server name | Minimum of 1 octet | |
+| 67 | Bootfile name | Minimum of 1 octet | |
 
 ### DHCP message types
 
