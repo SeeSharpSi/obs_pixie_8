@@ -1,23 +1,20 @@
 ---
-title: What Is Synthetic Data?
-source: https://www.ibm.com/think/topics/synthetic-data#1003835707
+title: What is synthetic data?
+source: https://www.ibm.com/think/topics/synthetic-data
 author:
 - '[[Rina Diane Caballar]]'
-published: 2024-04-11
+published: 2024-12-10
 created: 2026-05-21
-description: Synthetic data is artificial data designed to mimic real-word data. It’s
-  generated through statistical methods or using artificial intelligence (AI) techniques
-  like deep learning and generative AI.
+description: "Synthetic data is artificial data designed to mimic real-word data. It’s generated through statistical methods or using artificial intelligence (AI) techniques like deep learning and generative AI."
 ---
-## Author
 
-Staff Writer
+## What is synthetic data?
 
-IBM Think
+Synthetic data is artificial data designed to mimic real-world data. It’s generated through statistical methods or by using [artificial intelligence (AI)](https://www.ibm.com/think/topics/artificial-intelligence) techniques like [deep learning](https://www.ibm.com/think/topics/deep-learning) and [generative AI](https://www.ibm.com/think/topics/generative-ai).
 
 Despite being artificially generated, [synthetic data](https://research.ibm.com/blog/what-is-synthetic-data) retains the underlying statistical properties of the original data that it is based on. As such, synthetic datasets can supplement or even replace real datasets.
 
-Synthetic data can act as a placeholder for test data and is primarily used to train [machine learning](https://www.ibm.com/think/topics/machine-learning) models, serving as a potential solution to the ever-growing need for—yet short supply of—high-quality real-world training data for [AI models](https://www.ibm.com/think/topics/ai-model). However, synthetic data is also gaining traction in sectors like finance and healthcare where data is in limited supply, time-consuming to obtain or difficult to access due to [data privacy](https://www.ibm.com/think/topics/data-privacy) concerns and security requirements. In fact, research firm Gartner predicts that 75% of businesses will employ generative AI to create synthetic customer data by 2026.[^1]
+Synthetic data can act as a placeholder for test data and is primarily used to train [machine learning](https://www.ibm.com/think/topics/machine-learning) models, serving as a potential solution to the ever-growing need for—yet short supply of—high-quality real-world training data for [AI models](https://www.ibm.com/think/topics/ai-model). However, synthetic data is also gaining traction in sectors like finance and healthcare where data is in limited supply, time-consuming to obtain or difficult to access due to [data privacy](https://www.ibm.com/think/topics/data-privacy) concerns and security requirements. In fact, research firm Gartner predicts that 75% of businesses will employ generative AI to create synthetic customer data by 2026.<sup>1</sup>
 
 ## Types of synthetic data
 
@@ -25,12 +22,8 @@ Synthetic data can come in multimedia, tabular or text form. Synthetic text data
 
 Synthetic data can also be classified according to its level of synthesis:
 
-- **Fully synthetic 
-
-	**
-- **Partially synthetic 
-
-	**
+- **Fully synthetic**
+- **Partially synthetic**
 - **Hybrid**
 
 ### Fully synthetic
@@ -41,7 +34,7 @@ Financial organizations, for instance, might lack samples of suspicious transact
 
 ### Partially synthetic
 
-Partially synthetic data is derived from real-world information but replaces portions of the original [dataset](https://www.ibm.com/think/topics/dataset) —typically those containing sensitive information—with artificial values. This privacy-preserving technique helps protect personal data while still maintaining the characteristics of real data.
+Partially synthetic data is derived from real-world information but replaces portions of the original [dataset](https://www.ibm.com/think/topics/dataset)—typically those containing sensitive information—with artificial values. This privacy-preserving technique helps protect personal data while still maintaining the characteristics of real data.
 
 Partially synthetic data can be especially valuable in clinical research, for example, where real data is crucial to the results but safeguarding patients’ [personally identifiable information (PII)](https://www.ibm.com/think/topics/pii) and medical records is equally critical.
 
@@ -49,30 +42,16 @@ Partially synthetic data can be especially valuable in clinical research, for ex
 
 Hybrid synthetic data combines real datasets with fully synthetic ones. It takes records from the original dataset and randomly pairs them with records from their synthetic counterparts. Hybrid synthetic data can be used to analyze and glean insights from customer data, for instance, without tracing back any sensitive data to a specific customer.
 
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## How is synthetic data generated?
 
 Organizations can choose to generate their own synthetic data. They can also use solutions such as the [Synthetic Data Vault](https://github.com/sdv-dev/SDV), a Python library for creating synthetic data, or other [open-source](https://www.ibm.com/think/topics/open-source) algorithms, frameworks, packages and [tools](https://github.com/statice/awesome-synthetic-data?tab=readme-ov-file#open-source-tools). Prebuilt datasets, such as [IBM® Synthetic Data Sets](https://www.ibm.com/products/synthetic-data-sets), are another option.
 
 Here are some common synthetic data generation techniques:
 
-- **Statistical methods 
-
-	**
-- **Generative adversarial networks (GANs) 
-
-	**
-- **Transformer models 
-
-	**
-- **Variational autoencoders (VAEs) 
-
-	**
+- **Statistical methods**
+- **Generative adversarial networks (GANs)**
+- **Transformer models**
+- **Variational autoencoders (VAEs)**
 - **Agent-based modeling**
 
 ### Statistical methods
@@ -107,6 +86,13 @@ For instance, agent-based models in epidemiology represent individuals in a popu
 
 ## Benefits of synthetic data
 
+[Synthetic data is a growing technology](https://www.ibm.com/think/insights/ai-synthetic-data), offering these advantages for enterprises:
+
+- **Customization**
+- **Efficiency**
+- **Increased data privacy**
+- **Richer data**
+
 ### Customization
 
 [Data science](https://www.ibm.com/think/topics/data-science) teams can tailor synthetic data to fit the exact specifications and needs of a business. And because data scientists have greater control over synthetic datasets, managing and analyzing them becomes easier.
@@ -114,6 +100,8 @@ For instance, agent-based models in epidemiology represent individuals in a popu
 ### Efficiency
 
 Generating synthetic data eliminates the time-consuming process of gathering real data, making it quicker to produce and helping accelerate workflows. Synthetic data also comes prelabeled, thereby removing the tedious step of manually [labeling](https://www.ibm.com/think/topics/data-labeling) volumes of data and annotating them by hand.
+
+### Increased data privacy
 
 Synthetic data resembles real-world data, but it can be generated such that any personal data isn’t traceable to a particular individual. This acts as a form of data anonymization, helping keep sensitive information safe. Synthetic data also allows enterprises to avoid intellectual property and copyright issues, doing away with web crawlers that scrape and collect information from websites without users’ knowledge or consent.
 
@@ -127,15 +115,9 @@ Despite synthetic data’s benefits, it also comes with some downsides. Followin
 
 Here are some challenges associated with synthetic data:
 
-- **Bias 
-
-	**
-- **Model collapse 
-
-	**
-- **Trade-off between accuracy and privacy 
-
-	**
+- **Bias**
+- **Model collapse**
+- **Trade-off between accuracy and privacy**
 - **Verification**
 
 ### Bias
@@ -145,6 +127,8 @@ Synthetic data can still exhibit the biases that might be present in the real-wo
 ### Model collapse
 
 [Model collapse](https://www.ibm.com/think/topics/model-collapse) happens when an AI model is repeatedly trained on AI-generated data, causing model performance to decline. A healthy mix of real and artificial training datasets can help prevent this problem.
+
+### Trade-off between accuracy and privacy
 
 During the synthetic data generation process, a battle between accuracy and privacy ensues. Prioritizing accuracy might mean retaining more personal data, while keeping privacy top of mind might result in a reduction in accuracy. Finding the right balance for a company’s use cases is vital.
 
@@ -156,15 +140,9 @@ Additional checks and tests must be conducted to validate [synthetic data qualit
 
 Synthetic data is versatile and can be generated for a wide range of applications. Here are some industries where synthetic data can be a boon:
 
-- **Automotive 
-
-	**
-- **Finance 
-
-	**
-- **Healthcare 
-
-	**
+- **Automotive**
+- **Finance**
+- **Healthcare**
 - **Manufacturing**
 
 ### Automotive
@@ -183,14 +161,6 @@ Synthetic datasets can help pharmaceutical companies speed up drug development. 
 
 Manufacturing companies can use synthetic data to improve the visual inspection capabilities of computer vision models that examine products in real time for defects and deviations from standards. Artificial datasets can also enhance [predictive maintenance](https://www.ibm.com/think/topics/predictive-maintenance), with synthetic sensor data helping machine learning models better anticipate equipment failures and recommend appropriate and timely measures.
 
-Link copied
+## Footnotes
 
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)
-
-[^1]: [3 Bold and Actionable Predictions for the Future of GenAI](https://www.gartner.com/en/articles/3-bold-and-actionable-predictions-for-the-future-of-genai), Gartner, 12 April 2024
+<sup>1</sup> [3 Bold and Actionable Predictions for the Future of GenAI](https://www.gartner.com/en/articles/3-bold-and-actionable-predictions-for-the-future-of-genai), Gartner, 12 April 2024

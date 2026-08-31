@@ -1,13 +1,14 @@
 ---
-title: What Is Linear Regression?
-source: https://www.ibm.com/think/topics/linear-regression#1190488334
-author:
-- '[[IBM]]'
-published: null
+title: What is linear regression?
+source: https://www.ibm.com/think/topics/linear-regression
+author: null
+published: 2024-12-16
 created: 2026-05-21
-description: Linear regression is an analytics procedure that can generate predictions
-  by using an easily interpreted mathematical formula.
+description: "Linear regression is an analytics procedure that can generate predictions by using an easily interpreted mathematical formula."
 ---
+
+## What is linear regression?
+
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 
 This form of analysis estimates the coefficients of the linear equation, involving one or more independent variables that best predict the value of the dependent variable. Linear regression fits a straight line or surface that minimizes the discrepancies between predicted and actual output values. There are simple linear regression calculators that use a “least squares” method to discover the best-fit line for a set of paired data. You then estimate the value of X (dependent variable) from Y (independent variable).
@@ -23,12 +24,6 @@ You can perform linear regression in Microsoft Excel or use statistical software
 - Sklearn linear regression.
 - Linear regression Python.
 - Excel linear regression.
-
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
 
 ## Why linear regression is important
 
@@ -82,13 +77,3 @@ Linear regression techniques can be used to analyze risk. For example, an insura
 ### Sports analysis
 
 Linear regression isn’t always about business. It’s also important in sports. For instance, you might wonder if the number of games won by a basketball team in a season is related to the average number of points the team scores per game. A scatterplot indicates that these variables are linearly related. The number of games won and the average number of points scored by the opponent are also linearly related. These variables have a negative relationship. As the number of games won increases, the average number of points scored by the opponent decreases. With linear regression, you can model the relationship of these variables. A good model can be used to predict how many games teams will win.
-
-Link copied
-
-[IBM X-Force Threat Intelligence Index 2026](https://www.ibm.com/reports/threat-intelligence)
-
-[
-
-Gain insights to prepare and respond to cyberattacks with greater speed and effectiveness with the IBM X-Force® Threat Intelligence Index.
-
-](https://www.ibm.com/reports/threat-intelligence)

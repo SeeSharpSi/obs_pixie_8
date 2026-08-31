@@ -1,14 +1,12 @@
 ---
-title: What Is Singular Value Decomposition (SVD)?
-source: https://www.ibm.com/think/topics/singular-value-decomposition#498277084
+title: What is singular value decomposition (SVD)?
+source: https://www.ibm.com/think/topics/singular-value-decomposition
 author:
 - '[[Fangfang Lee]]'
-published: null
+published: 2026-02-19
 created: 2026-05-21
-description: SVD is a fundamental concept in linear algebra, and it underlies some
-  of the most popular modern AI applications such as IBM Granite.
+description: "SVD is a fundamental concept in linear algebra, and it underlies some of the most popular modern AI applications such as IBM Granite."
 ---
-By
 
 Singular value decomposition (SVD) is a way to break any matrix into three simpler matrices that reveal its underlying structure. It’s one of the most important tools in machine learning and data science.
 
@@ -42,15 +40,15 @@ The singular value decomposition (SVD) is a way of breaking down a complex matri
 
 In mathematical form, any matrix A can be written as:
 
-$A=UΣVT$
+$$ A=U \Sigma V^T $$
 
-SVD allows every matrix (A) to be expressed as a combination of rotations and scalings in space, despite its shape. Other popular matrix decomposition methods often suffer from limitations such as matrix shape requirement, but SVD allows decomposition of matrix A into three smaller matrices: U, V and $Σ$. U and V are orthogonal matrices, where $Σ$ contains the singular values.
+SVD allows every matrix (A) to be expressed as a combination of rotations and scalings in space, despite its shape. Other popular matrix decomposition methods often suffer from limitations such as matrix shape requirement, but SVD allows decomposition of matrix A into three smaller matrices: U, V and $\Sigma$. U and V are orthogonal matrices, where $\Sigma$ contains the singular values.
 
-![[Image 2.png|Diagram made for the Think blog]]
+![Diagram made for the Think blog](https://assets.ibm.com/is/image/ibm/svd?ts=1771521495663&dpr=off)
 
 To use a concrete example, a table of movie ranking by various users is shown here:
 
-![[Image 3.png|Data table made for the Think blog]]
+![Data table made for the Think blog](https://assets.ibm.com/is/image/ibm/movies-x-users?ts=1771521495855&dpr=off)
 
 In the movie dataset, each row represents a user and each column represents a movie. The fields represent users’ rating regarding a specific movie, on a scale of 1–5. Data in the real world, when expressed this way, can quickly become unmanageably large. Instead of storing the large dataset as a single matrix, we can use SVD to not only break it down into simpler pieces, but also identify patterns in it.
 
@@ -63,13 +61,7 @@ SVD can identify features such as:
 
 SVD factorizes this matrix into three parts:
 
-$A=UΣV⊤$
-
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
+$$ A=U \Sigma V^{\top} $$
 
 ### Step 1. The left singular vector U
 
@@ -84,7 +76,7 @@ Orthogonality ensures that these preference directions are independent—each ca
 
 ### Step 2. Singular values (Σ)
 
-$Σ$ is a **diagonal matrix** —a square matrix where all the entries outside the main diagonal axis are zero. Along the diagonal line, values shown (usually represented as $σ1$, $σ2$, $σn$ and so on, are called singular values, and they measure how strong each pattern is).
+$\Sigma$ is a **diagonal matrix**—a square matrix where all the entries outside the main diagonal axis are zero. Along the diagonal line, values shown (usually represented as $\sigma_1$ , $\sigma_2$ , $\sigma_n$ and so on, are called singular values, and they measure how strong each pattern is).
 
 These singular values are non-negative and arranged in descending order
 
@@ -133,19 +125,3 @@ The matrix **V** contains the key input directions—the fundamental patterns in
 Large singular values indicate directions where the data carries significant structure and variation. Small singular values indicate directions dominated by noise or redundancy. By keeping only the strongest directions and discarding the rest, SVD isolates the essential geometry of the data.
 
 In essence, eigenvectors introduced the idea that complex linear transformations can be understood as simple stretching along special directions. SVD generalizes this idea to any matrix, making it possible to uncover the dominant patterns in real-world datasets, compress information, remove noise and reduce dimensionality. All by focusing on the directions where the matrix truly does meaningful work.
-
-## Author
-
-Developer Advocate
-
-IBM
-
-Link copied
-
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)

@@ -1,23 +1,18 @@
 ---
-title: What Is Linear Algebra for Machine Learning?
-source: https://www.ibm.com/think/topics/linear-algebra-for-machine-learning#498277089
+title: What is linear algebra for machine learning?
+source: https://www.ibm.com/think/topics/linear-algebra-for-machine-learning
 author:
 - '[[Fangfang Lee]]'
-published: null
+published: 2025-10-16
 created: 2026-05-21
-description: In machine learning (ML) , linear algebra involves the use of mathematical
-  operations to represent and manipulate data, parameters and computations inside
-  ML models.
+description: "In machine learning (ML) , linear algebra involves the use of mathematical operations to represent and manipulate data, parameters and computations inside ML models."
 ---
-## Author
 
-Developer Advocate
+## What is linear algebra for machine learning?
 
-IBM
+In machine learning (ML) , linear algebra involves the use of mathematical operations to represent and manipulate data, parameters and computations inside ML models. It provides the language and tools to express how data flows through models and how models “learn.”
 
-In machine learning (ML), linear algebra involves the use of mathematical operations to represent and manipulate data, parameters and computations inside ML models. It provides the language and tools to express how data flows through models and how models “learn.”
-
-Powerful modern [machine learning algorithms](https://www.ibm.com/think/topics/machine-learning-algorithms) and [generative AI](https://www.ibm.com/think/topics/generative-ai), at their core, are powered by linear algebra. Whether training a [neural network](https://www.ibm.com/think/topics/neural-networks), building a [recommendation system](https://www.ibm.com/think/topics/recommendation-engine) or applying [principal component analysis (PCA)](https://www.ibm.com/think/topics/principal-component-analysis) to a complex and high-dimensional dataset, practitioners are using linear algebra to perform massive calculations.
+Powerful modern [machine learning algorithms](https://www.ibm.com/think/topics/machine-learning-algorithms) and [generative AI](https://www.ibm.com/think/topics/generative-ai), at their core, are powered by linear algebra. Whether training a [neural network](https://www.ibm.com/think/topics/neural-networks) , building a [recommendation system](https://www.ibm.com/think/topics/recommendation-engine) or applying [principal component analysis (PCA)](https://www.ibm.com/think/topics/principal-component-analysis) to a complex and high-dimensional dataset, practitioners are using linear algebra to perform massive calculations.
 
 ## Why linear algebra matters
 
@@ -34,7 +29,7 @@ In [machine learning](https://www.ibm.com/think/topics/machine-learning) and [da
 At its most basic level, linear algebra gives the tools to represent and work with data in structured forms. Most machine learning workflows start by organizing data into numerical formats, and each structure—scalar, vector, matrix and tensor—serves a different purpose.
 
 - A **scalar** is the simplest building block, which is a single numerical value, like 5 or 2.3. Scalars often represent parameters, scaling factors or single measurements.
-- A **vector** is an ordered array of numbers, usually written as a column or row. Vectors can represent anything from a list of features describing a single data point to the coordinates of a position in space. For example, the vector \[3,5,7\] might represent the number of visits, purchases and returns for a customer.
+- A **vector** is an ordered array of numbers, usually written as a column or row. Vectors can represent anything from a list of features describing a single data point to the coordinates of a position in space. For example, the vector [3,5,7] might represent the number of visits, purchases and returns for a customer.
 - A **matrix** is a two-dimensional array of numbers arranged in rows and columns. A dataset where each row is a data point and each column is a feature naturally forms a matrix. Matrices are central to linear algebra because they allow for efficient storage of data. Operations like scalar multiplication (multiplying every element of a matrix by a constant number) and matrix multiplication (combining two matrices to apply a transformation or compute relationships) are pervasive in algorithms.
 - A **tensor** is a generalization of scalars, vectors and matrices to higher dimensions. For instance, a color image might be stored as a 3D tensor where height, width and color channels form three separate axes. In deep learning, tensors are the standard data structure for feeding information into neural networks.
 
@@ -42,15 +37,15 @@ The dot product is a way to multiply two vectors to produce a single scalar. It 
 
 Linear algebra enables the expression of complex datasets in a way that algorithms can understand and process, therefore allowing the construction of complex models using a plethora of data collected from the real world.
 
-![[Image 13.png|A comparison chart illustrating scalar, vector, matrix, and tensor concepts. The image uses colorful numerical representations to differentiate each mathematical structure. Numbers such as '1', '2', '5', and '6' are clearly visible within the matrix and tensor examples.]]
+![A comparison chart illustrating scalar, vector, matrix, and tensor concepts. The image uses colorful numerical representations to differentiate each mathematical structure. Numbers such as '1', '2', '5', and '6' are clearly visible within the matrix and tensor examples.](https://assets.ibm.com/is/image/ibm/datatype?ts=1763389665583&dpr=off)
 
 ### Understanding algorithms
 
 Many machine learning algorithms are built upon a system of linear equations. [Linear regression](https://www.ibm.com/think/topics/linear-regression) is a simple yet powerful algorithm used for predicting continuous values. The process of finding the “best fit” line or plane that minimizes the error between predicted and actual values often boils down to solving a system of linear equations. For example,when predicting house prices based on square footage and number of bedrooms, coefficients (weights) must be found to satisfy equations like:
 
-$price=w1*squarefootage+w2*numberofbedrooms+b$
+$$ price = w_1 * square_footage + w_2 * number_of_bedrooms + b $$
 
-...where $w1$, $w2$ and $b$ are the unknown coefficients to solve for. This can be represented and solved using matrices. Techniques like “least squares” are used to find the approximate solutions to these systems when an exact solution doesn’t exist, which is often the case with real-world, noisy data. In other words, approximating a [loss function,](https://www.ibm.com/think/topics/loss-function) is represented as a collection of linear equations that solved for with calculus.
+...where $w_1$, $w_2$ and $b$ are the unknown coefficients to solve for. This can be represented and solved using matrices. Techniques like “least squares” are used to find the approximate solutions to these systems when an exact solution doesn’t exist, which is often the case with real-world, noisy data. In other words, approximating a [loss function,](https://www.ibm.com/think/topics/loss-function) is represented as a collection of linear equations that solved for with calculus.
 
 More complex algorithms, such as those found in deep learning and neural networks, heavily rely on operations like massive matrix multiplication for processing information through different layers. Each layer in a neural network performs a linear transformation on its input data, which is essentially a matrix transformation where the input vector is multiplied by a weight matrix. This allows the network to learn complex patterns and relationships within the data.
 
@@ -71,7 +66,9 @@ In short, dimensionality reduction is a way to distill complex data into its mos
 Eigenvalues, eigenvectors and eigendecomposition together describe the fundamental modes of behavior of a linear transformation or system:
 
 - **Eigenvector**: Imagine a linear transformation (like stretching or rotating a vector space). An eigenvector of a square matrix is a non-zero vector that, when that transformation is applied to it, only changes by a scalar factor. It doesn’t change its direction. It’s a special direction in the data that remains stable under the transformation.
+
 - **Eigenvalue**: This is the scalar factor by which an eigenvector is scaled. It tells you how much the eigenvector is stretched or compressed during the transformation. In PCA, larger eigenvalues correspond to principal components that capture more variance in the data.
+
 - **Eigendecomposition**: This is the process of breaking down a square matrix into a set of its eigenvectors and eigenvalues. For a given matrix, if one can find its eigenvectors and eigenvalues, one can reconstruct the original matrix from them. In PCA, eigendecomposition of the covariance matrix of the data allows for the identification of the principal components (eigenvectors) that best represent the variance in the data, ordered by their corresponding eigenvalues.
 
 Another powerful technique, **singular value decomposition (SVD)**, also plays a crucial role in dimensionality reduction and is fundamental to areas like matrix factorization in recommendation systems. While related to eigendecomposition, SVD can be applied to any matrix (not just square matrices) and offers a more general way to decompose a matrix into its constituent parts, revealing underlying structures and reducing dimensions effectively. For instance, in recommendation systems, SVD helps decompose a user-item interaction matrix into lower-dimensional matrices representing latent features of users and items, which are then used to predict new recommendations.
@@ -82,12 +79,6 @@ Many machine learning models involve optimization problems, where the goal is to
 
 Understanding optimization also means understanding the properties of the matrices involved in these calculations. This is where concepts like the **determinant** and the identity matrix become relevant. The determinant of a square matrix is a single number that provides crucial information about the matrix. For example, a non-zero determinant indicates that the matrix is invertible (meaning it has a corresponding matrix inversion operation), which is critical for solving systems of linear equations uniquely. If the determinant is zero, the system might have no unique solution or infinitely many, indicating issues like linear independence (where one vector in a set can be expressed as a linear combination of others). An identity matrix (a square matrix with ones on the main diagonal and zeros elsewhere) is special because when you multiply any matrix by the identity matrix, the original matrix remains unchanged, acting like the number ‘1’ in scalar multiplication.
 
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## Tools and further exploration
 
 The good news is that ML practitioners don’t need to manually perform these complex calculations. Libraries like NumPy in Python provide highly optimized functions for all these linear algebra concepts, making it the de facto standard for numerical computing in machine learning. For example, *numpy.linalg.eig()* can compute eigenvalues and eigenvectors, and *numpy.dot()* handles dot products and matrix multiplications with ease. Frameworks like TensorFlow (popular in deep learning) also heavily leverage linear algebra under the hood, abstracting away the low-level details so users can focus on building models.
@@ -95,13 +86,3 @@ The good news is that ML practitioners don’t need to manually perform these co
 This introduction to linear algebra for machine learning barely scratches the surface. Concepts such as linear transformation and matrix transformation describe how data can be manipulated and reshaped, for instance, rotating an image or scaling its features. Understanding types of matrices like the identity matrix (which leaves vectors unchanged when multiplied) and orthogonal matrix (where the inverse is simply the transpose, simplifying calculations) is also beneficial. While one won’t typically be performing gaussian elimination (an algorithm for solving system of linear equations) by hand in ML, understanding its principles illuminates how these systems are solved computationally. Linear independence is also critical for understanding the uniqueness of solutions and the basis of a vector space (the set of all possible linear combinations of a set of vectors).
 
 Ultimately, a solid grasp of linear algebra concepts empowers ML practitioners to not only use pre-built machine learning algorithms but also to truly understand their inner workings, debug them effectively and even develop novel solutions. It’s the silent workhorse that has driven ML for decades and will continue to be essential in the future of artificial intelligence.
-
-Link copied
-
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)#5/21/2026

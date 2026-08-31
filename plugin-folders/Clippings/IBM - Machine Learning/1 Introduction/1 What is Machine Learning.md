@@ -1,41 +1,42 @@
 ---
-title: What is Machine Learning?
-source: https://www.ibm.com/think/topics/machine-learning#7281535
+title: What is machine learning?
+source: https://www.ibm.com/think/topics/machine-learning
 author:
 - '[[Dave Bergmann]]'
-published: 1959-07-02
+published: 2025-08-26
 created: 2026-05-21
-description: Machine learning is the subset of AI focused on algorithms that analyze
-  and “learn” the patterns of training data in order to make accurate inferences about
-  new data.
+description: "Machine learning is the subset of AI focused on algorithms that analyze and “learn” the patterns of training data in order to make accurate inferences about new data."
 ---
+
+## What is machine learning?
+
 Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate *inferences* about new data. This pattern recognition ability enables machine learning models to make decisions or predictions without explicit, hard-coded instructions.
 
 Machine learning has come to dominate the field of AI: it provides the backbone of most modern AI systems, from [forecasting](https://www.ibm.com/think/topics/forecasting) models to autonomous vehicles to [large language models (LLMs)](https://www.ibm.com/think/topics/large-language-models) and other [generative AI](https://www.ibm.com/think/topics/generative-ai) tools.
 
-The central premise of machine learning (ML) is that if you optimize a model’s performance on a dataset of tasks that adequately resemble the real-world problems it will be used for—through a process called [model training](https://www.ibm.com/think/topics/model-training) —the model can make accurate predictions on the new data it sees in its ultimate use case.
+The central premise of machine learning (ML) is that if you optimize a model’s performance on a dataset of tasks that adequately resemble the real-world problems it will be used for—through a process called [model training](https://www.ibm.com/think/topics/model-training)—the model can make accurate predictions on the new data it sees in its ultimate use case.
 
 Training itself is simply a means to an end: generalization, the translation of strong performance on training data to useful results in real-world scenarios, is the fundamental goal of machine learning. In essence, a trained model is applying patterns it learned from training data to infer the correct output for a real-world task: the deployment of an [AI model](https://www.ibm.com/think/topics/ai-model) is therefore called [AI inference](https://www.ibm.com/think/topics/ai-inference).
 
-[Deep learning](https://www.ibm.com/think/topics/deep-learning), the subset of machine learning driven by large—or rather, “deep”— [artificial neural networks](https://www.ibm.com/think/topics/neural-networks?), has emerged over the past few decades as the state-of-the-art AI model architecture across nearly every domain in which AI is used. In contrast to the explicitly defined algorithms of traditional machine learning, deep learning relies on distributed “networks” of mathematical operations that provide an unparalleled ability to learn the intricate nuances of very complex data. Because deep learning requires very large amounts of data and computational resources, its advent has coincided with the escalated importance [“big data”](https://www.ibm.com/think/topics/big-data) and [graphics processing units (GPUs).](https://www.ibm.com/think/topics/gpu)
+[Deep learning](https://www.ibm.com/think/topics/deep-learning), the subset of machine learning driven by large—or rather, “deep”—[artificial neural networks](https://www.ibm.com/think/topics/neural-networks?), has emerged over the past few decades as the state-of-the-art AI model architecture across nearly every domain in which AI is used. In contrast to the explicitly defined algorithms of traditional machine learning, deep learning relies on distributed “networks” of mathematical operations that provide an unparalleled ability to learn the intricate nuances of very complex data. Because deep learning requires very large amounts of data and computational resources, its advent has coincided with the escalated importance [“big data”](https://www.ibm.com/think/topics/big-data) and [graphics processing units (GPUs).](https://www.ibm.com/think/topics/gpu)
 
 The discipline of machine learning is closely intertwined with that of [data science](https://www.ibm.com/think/topics/data-science). In a sense, machine learning can be understood as a collection of algorithms and techniques to automate data analysis and (more importantly) apply learnings from that analysis to the autonomous execution of relevant tasks.
 
-The origin of the term (albeit not the core concept itself) is often attributed to Arthur L. Samuel’s 1959 article in IBM Journal, “Some Studies in Machine Learning Using the Game of Checkers.” In the paper’s introduction, Samuel neatly articulates machine learning’s ideal outcome: “a computer can be programmed so that it will learn to play a better game of checkers than can be played by the person who wrote the program.” <sup>1</sup>
+The origin of the term (albeit not the core concept itself) is often attributed to Arthur L. Samuel’s 1959 article in IBM Journal, “Some Studies in Machine Learning Using the Game of Checkers.” In the paper’s introduction, Samuel neatly articulates machine learning’s ideal outcome: “a computer can be programmed so that it will learn to play a better game of checkers than can be played by the person who wrote the program.”<sup>1</sup>
 
 ### Machine learning vs. artificial intelligence
 
 Though “machine learning” and “artificial intelligence” are often used interchangeably, they are not quite synonymous. In short: *all machine learning is AI, but not all AI is machine learning*.
 
-In the popular imagination, “AI” is usually associated with science fiction—typically through depictions of what’s more properly called [artificial general intelligence (AGI)](https://www.ibm.com/think/topics/artificial-general-intelligence), like HAL 9000 in *2001: A Space Odyssey* or Ava in *Ex Machina* —or, more recently, with [*generative* AI](https://www.ibm.com/think/topics/generative-ai). But “artificial intelligence” is a catch-all term for any program that can use information to make decisions or predictions without active human involvement.
+In the popular imagination, “AI” is usually associated with science fiction—typically through depictions of what’s more properly called [artificial general intelligence (AGI)](https://www.ibm.com/think/topics/artificial-general-intelligence), like HAL 9000 in *2001: A Space Odyssey* or Ava in *Ex Machina*—or, more recently, with [*generative* AI](https://www.ibm.com/think/topics/generative-ai). But “artificial intelligence” is a catch-all term for any program that can use information to make decisions or predictions without active human involvement.
 
 The most elementary AI systems are a series of if-then-else statements, with rules and logic programmed explicitly by a data scientist. At the simplest level, even a rudimentary thermostat is a rules-based AI system: when programmed with simple rules like
 
-IF room\_temperature < 67, THEN turn\_on\_heater
+`IF room_temperature < 67, THEN turn_on_heater`
 
 and
 
-IF room\_temperature > 72, THEN turn\_on\_air\_conditioner
+`IF room_temperature > 72, THEN turn_on_air_conditioner`
 
 the thermostat is capable of autonomous decision-making without further human intervention. At a more complex level, a large and intricate rules-based [decision tree](https://www.ibm.com/think/topics/decision-trees) programmed by medical experts could parse symptoms, circumstances and comorbidities to aid diagnosis or prognosis.<sup>2</sup>
 
@@ -53,29 +54,22 @@ The (often manual) process of choosing which aspects of data to use in machine l
 
 ### Machine learning model parameters and optimization
 
-For a practical example, consider a simple [linear regression](https://www.ibm.com/think/topics/linear-regression) algorithm for predicting home sale prices based on a weighted combination of three variables: square footage, age of house and number of bedrooms. Each house is represented as a vector embedding with 3 dimensions:
-
-\[square footage, bedrooms, age\]
-
-. A 30-year-old house with 4 bedrooms and 1900 square feet could be represented as
-
-\[1900, 4, 30\]
-
-(though for mathematical purposes those numbers might first be scaled, or normalized, to a more uniform range).
+For a practical example, consider a simple [linear regression](https://www.ibm.com/think/topics/linear-regression) algorithm for predicting home sale prices based on a weighted combination of three variables: square footage, age of house and number of bedrooms. Each house is represented as a vector embedding with 3 dimensions: `[square footage, bedrooms, age]` . A 30-year-old house with 4 bedrooms and 1900 square feet could be represented as `[1900, 4, 30]`  (though for mathematical purposes those numbers might first be scaled, or normalized, to a more uniform range).
 
 The algorithm is a straightforward mathematical function:
 
 ```
-Price = (A * square footage) + (B * number of rooms) – (C * Age) + Base Price
+
+ Price = (A * square footage) + (B * number of rooms) – (C * Age) + Base Price
 ```
 
-Here, $A$, $B$ and $C$ are the model parameters: adjusting them will adjust how heavily the model weighs each variable. The goal of machine learning is to find the optimal values for such model parameters: in other words, the parameter values that result in the overall function outputting the most accurate results. While most real-world instances of machine learning involve more complex algorithms with a greater number of input variables, the principle remains the same: optimizing the algorithm's adjustable parameters to yield greater accuracy.
+Here, $A$ , $B$ and $C$ are the model parameters: adjusting them will adjust how heavily the model weighs each variable. The goal of machine learning is to find the optimal values for such model parameters: in other words, the parameter values that result in the overall function outputting the most accurate results. While most real-world instances of machine learning involve more complex algorithms with a greater number of input variables, the principle remains the same: optimizing the algorithm's adjustable parameters to yield greater accuracy.
 
 ## Types of machine learning
 
 All machine learning methods can be categorized as one of three distinct learning paradigms: supervised learning, unsupervised learning or reinforcement learning, based on the nature of their training objectives and (often but not always) by the type of training data they entail.
 
-- [Supervised learning](https://www.ibm.com/think/topics/supervised-learning) trains a model to predict the “correct” output for a given input. It applies to tasks that require some degree of accuracy relative to some external “ [ground truth,](https://www.ibm.com/think/topics/ground-truth)” such as classification or regression.
+- [Supervised learning](https://www.ibm.com/think/topics/supervised-learning) trains a model to predict the “correct” output for a given input. It applies to tasks that require some degree of accuracy relative to some external “[ground truth,](https://www.ibm.com/think/topics/ground-truth)” such as classification or regression.
 - [Unsupervised learning](https://www.ibm.com/think/topics/unsupervised-learning) trains a model to discern intrinsic patterns, dependencies and correlations in data. Unlike in supervised learning, unsupervised learning tasks don’t involve any external ground truth against which its outputs should be compared.
 - [Reinforcement learning (RL)](https://www.ibm.com/think/topics/reinforcement-learning) trains a model to evaluate its environment and take an action that will garner the greatest reward. RL scenarios don’t entail the existence of a singular ground truth, but they do entail the existence of “good” and “bad” (or neutral) actions.
 
@@ -91,17 +85,9 @@ Supervised learning algorithms train models for tasks requiring accuracy, such a
 - **Classification** models predict discrete values, such as the category (or *class*) a data point belongs to, a binary decision or a specific action to be taken. Examples of traditional classification algorithms include [support vector machines (SVMs)](https://www.ibm.com/think/topics/support-vector-machine), [Naïve Bayes](https://www.ibm.com/think/topics/naive-bayes) and [logistic regression](https://www.ibm.com/think/topics/logistic-regression).
 - Many supervised ML algorithms can be used for either task. For instance, the output of what’s nominally a regression algorithm can subsequently be used to inform a classification prediction.
 
-To be measured and optimized for accuracy, a model’s outputs must be compared to a *ground truth*: the ideal or “correct” output for any given input. In conventional supervised learning, that ground truth is provided by labeled data. An email spam detection model is trained on a dataset of emails that have each been labeled as
+To be measured and optimized for accuracy, a model’s outputs must be compared to a *ground truth*: the ideal or “correct” output for any given input. In conventional supervised learning, that ground truth is provided by labeled data. An email spam detection model is trained on a dataset of emails that have each been labeled as `SPAM` or `NOT SPAM` . An [image segmentation](https://www.ibm.com/think/topics/image-segmentation) model is trained on images in which every individual pixel has been annotated by its classification. The goal of supervised learning is to adjust the model’s parameters until its outputs consistently match the ground truth provided by those labels.
 
-SPAM
-
-or
-
-NOT SPAM
-
-. An [image segmentation](https://www.ibm.com/think/topics/image-segmentation) model is trained on images in which every individual pixel has been annotated by its classification. The goal of supervised learning is to adjust the model’s parameters until its outputs consistently match the ground truth provided by those labels.
-
-Essential to supervised learning is the use of a [loss function](https://www.ibm.com/think/topics/loss-function) that measures the divergence (“loss”) between the model’s output and the ground truth across a batch of training inputs. The objective of supervised learning is defined mathematically as *minimizing the output of a loss function*. Once loss has been computed, various optimization algorithms—most of which involve calculating the [derivative](https://www.ibm.com/think/topics/backpropagation#Key+mathematical+concepts+for+backpropagation) (s) of the loss function—are used to identify parameter adjustments that will reduce loss.
+Essential to supervised learning is the use of a [loss function](https://www.ibm.com/think/topics/loss-function) that measures the divergence (“loss”) between the model’s output and the ground truth across a batch of training inputs. The objective of supervised learning is defined mathematically as *minimizing the output of a loss function*. Once loss has been computed, various optimization algorithms—most of which involve calculating the [derivative](https://www.ibm.com/think/topics/backpropagation#Key+mathematical+concepts+for+backpropagation)(s) of the loss function—are used to identify parameter adjustments that will reduce loss.
 
 Because this process traditionally requires a human in the loop to provide ground truth in the form of data annotations, it’s called “supervised” learning. As such, the use of labeled data was historically considered the definitive characteristic of supervised learning. But on the most fundamental level, the hallmark of supervised learning is the existence of some ground truth and the training objective of minimizing the output of loss function that measures divergence from it.
 
@@ -141,8 +127,8 @@ A mathematical framework for reinforcement learning is built primarily on the fo
 
 - The **state space** contains all available information relevant to decisions that the model might make. The state typically changes with each action that the model takes.
 - The **action space** contains all the decisions that the model is permitted to make at a moment. In a board game, for instance, the action space comprises all legal moves available at a given time. In text generation, the action space comprises the entire “vocabulary” of tokens available to an LLM.
-- The **reward signal** is the feedback—positive or negative, typically expressed as a scalar value—provided to the agent as a result of each action. The value of the reward signal could be determined by explicit rules, by a r *eward function*, or by a separately trained *reward model*.
-- A **policy** is the “thought process” that drives an RL agent’s behavior. Mathematically speaking, a policy ($π$) is a function that takes a state ( $s$ ) as input and returns an action ($a$ ): π(s)→a.
+- The **reward signal** is the feedback—positive or negative, typically expressed as a scalar value—provided to the agent as a result of each action. The value of the reward signal could be determined by explicit rules, by a r*eward function*, or by a separately trained *reward model*.
+- A **policy** is the “thought process” that drives an RL agent’s behavior. Mathematically speaking, a policy ($\pi$) is a function that takes a state ( $s$ ) as input and returns an action ($a$ ): π(s)→a .
 
 In *policy-based* RL methods like proximal policy optimization (PPO), the model learns a policy directly. In *value-based* methods like Q-learning, the agent learns a value function that computes a score for how “good” each state is, then chooses actions that lead to higher-value states. Consider a maze: a policy-based agent might learn “at this corner, turn left,” while a value-based agent learns a score for each position and simply moves to an adjacent position with a better score. Hybrid approaches, such as actor-critic methods, learn a value function that’s then used to optimize a policy.
 
@@ -154,13 +140,13 @@ In deep reinforcement learning, the policy is represented as a [neural network](
 
 Loosely inspired by the human brain, neural networks comprise interconnected layers of “neurons” (or *nodes*), each of which performs its own mathematical operation (called an “activation function”). The output of each node’s activation function serves as input to each of the nodes of the following layer and so on until the final layer, where the network’s final output is computed. Crucially, the activation functions performed at each node are *nonlinear*, enabling neural networks to model complex patterns and dependencies.
 
-![[Image.png|Neural network diagram with input layer, multiple hidden layers, and output layer connected by weighted links.]]
+![Neural network diagram with input layer, multiple hidden layers, and output layer connected by weighted links.](https://assets.ibm.com/is/image/ibm/deep-neural-network-diagram?ts=1786380145175&dpr=off)
 
 Each connection between two neurons is assigned a unique *weight*: a multiplier that increases or decreases one neuron’s contribution to a neuron in the following layer. These weights, along with unique *bias* terms added to each neuron's activation function, are the parameters to be optimized through machine learning.
 
-The [**backpropagation**](https://www.ibm.com/think/topics/backpropagation) algorithm enables the computation of how *each individual node* contributes to the overall output of the loss function, allowing even millions or billions of model weights to be individually optimized through [gradient descent](https://www.ibm.com/think/topics/gradient-descent) algorithms. Because of the volume and granularity of updates required to achieve optimal results, deep learning requires very large amounts of data and computational resources compared to traditional ML. 
+The [**backpropagation**](https://www.ibm.com/think/topics/backpropagation) algorithm enables the computation of how *each individual node* contributes to the overall output of the loss function, allowing even millions or billions of model weights to be individually optimized through [gradient descent](https://www.ibm.com/think/topics/gradient-descent) algorithms. Because of the volume and granularity of updates required to achieve optimal results, deep learning requires very large amounts of data and computational resources compared to traditional ML.  
 
-That distributed structure affords deep learning models their incredible power and versatility. Imagine training data as data points scattered on a 2-dimensional graph. Essentially, traditional machine learning aims to find a single curve that runs through every one of those data points; deep learning pieces together an arbitrary number of smaller, individually adjustable lines to form the desired shape. Neural networks are *universal approximators*: it has been theoretically proven that for any function, there exists a neural network arrangement that can reproduce it.<sup>3, 4</sup>
+ That distributed structure affords deep learning models their incredible power and versatility. Imagine training data as data points scattered on a 2-dimensional graph. Essentially, traditional machine learning aims to find a single curve that runs through every one of those data points; deep learning pieces together an arbitrary number of smaller, individually adjustable lines to form the desired shape. Neural networks are *universal approximators*: it has been theoretically proven that for any function, there exists a neural network arrangement that can reproduce it.<sup>3, 4</sup>
 
 Having said that, just because something is *theoretically* possible doesn’t mean it’s practically achievable through existing training methods. For many years, adequate performance on certain tasks remained out of reach even for deep learning models—but over time, modifications to the standard neural network architecture have unlocked new capabilities for ML models.
 
@@ -168,13 +154,13 @@ Having said that, just because something is *theoretically* possible doesn’t m
 
 [Convolutional neural networks (CNNs)](https://www.ibm.com/think/topics/convolutional-neural-networks) add *convolutional layers* to neural networks. In mathematics, a convolution is an operation where one function modifies (or *convolves*) the shape of another. In CNNs, convolutional layers are used to extract important features from data by [applying weighted “filters”.](https://developer.ibm.com/articles/introduction-to-convolutional-neural-networks/) CNNs are primarily associated with computer vision models and image data, but have a number of other important use cases.
 
-![[Image 1.png|Diagram of image convolution with a numbered input grid, a 3×3 filter matrix, and an output grid showing summed results.]]
+![Diagram of image convolution with a numbered input grid, a 3×3 filter matrix, and an output grid showing summed results.](https://assets.ibm.com/is/image/ibm/iclh-diagram-convolutional-neural-networks?ts=1786380145906&dpr=off)
 
 ### Recurrent neural networks (RNNs)
 
 [Recurrent neural networks (RNNs)](https://www.ibm.com/think/topics/recurrent-neural-networks) are designed to work on sequential data. Whereas conventional feedforward neural networks map a single input to a single output, RNNs map a *sequence* of inputs to an output by operating in a recurrent loop in which the output for a given step in the input sequence serves as input to the computation for the following step. In effect this creates an internal “memory,” called the *hidden state*, that allows RNNs to understand context and order.
 
-![[Image 2.jpg|Diagram comparing folded and unrolled recurrent neural networks, showing X and Y nodes expanded across time steps.]]
+![Diagram comparing folded and unrolled recurrent neural networks, showing X and Y nodes expanded across time steps.](https://assets.ibm.com/is/image/ibm/what-are-recurrent-neural-networks-combined?ts=1786380146238&dpr=off)
 
 ### Transformers
 
@@ -204,10 +190,6 @@ The field of [natural language processing (NLP)](https://www.ibm.com/think/topic
 
 [Diffusion models](https://www.ibm.com/think/topics/diffusion-models), [variational autoencoders (VAEs)](https://www.ibm.com/think/topics/variational-autoencoder) and [generative adversarial networks (GANs)](https://www.ibm.com/think/topics/generative-adversarial-networks) can be used to generate original images that apply pixel patterns learned from training data.
 
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## Machine learning operations (MLOps)
 
 [Machine learning operations (MLOps)](https://www.ibm.com/think/topics/mlops) is a set of practices for implementing an assembly line approach to building, deploying and maintaining machine learning models.
@@ -218,7 +200,7 @@ Following deployment, models must be monitored for [model drift](https://www.ibm
 
 ## Machine learning libraries
 
-A number of open source tools, libraries and frameworks exist for building, training and testing machine learning projects. While such libraries offer an array of pre-configured modules and abstractions to streamline the process of building ML-based models and workflows, practitioners will need to familiarize themselves with commonly used programming languages—particularly [Python](https://developer.ibm.com/languages/python/) —to make full use of them.
+A number of open source tools, libraries and frameworks exist for building, training and testing machine learning projects. While such libraries offer an array of pre-configured modules and abstractions to streamline the process of building ML-based models and workflows, practitioners will need to familiarize themselves with commonly used programming languages—particularly [Python](https://developer.ibm.com/languages/python/)—to make full use of them.
 
 Prominent open source libraries, particularly for building deep learning models, include [PyTorch](https://www.ibm.com/think/topics/pytorch), [TensorFlow](https://developer.ibm.com/components/tensorflow/), Keras and the Hugging Face Transformers library.
 
@@ -226,33 +208,9 @@ Notable open source [machine learning libraries](https://www.ibm.com/think/topic
 
 IBM itself maintains and updates a significant library of [tutorials](https://developer.ibm.com/technologies/machine-learning/tutorials/) for beginners and advanced ML practitioners alike.
 
-## Author
+## Footnotes
 
-Senior Staff Writer, AI Models
-
-IBM Think
-
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)
-
-Next step in your AI journey
-
-## Resources
-
-[Types of Machine Learning Explained](https://www.ibm.com/think/topics/machine-learning-types)
-
-[
-
-Learn about the main categories of machine learning, from supervised and unsupervised learning to reinforcement, semi\_supervised, and self\_supervised approaches.
-
-](https://www.ibm.com/think/topics/machine-learning-types)
-
-1\. [“Some Studies in Machine Learning Using the Game of Checkers,”](https://people.csail.mit.edu/brooks/idocs/Samuel.pdf) *IBM Journal* (accessed through MIT), 3 July 1959 
-2\. [“Using Decision Trees as an Expert System for Clinical Decision Support for COVID-19,“](https://www.i-jmr.org/2023/1/e42540) *Interactive Journal of Medical Research, Vol 12*, 30 January 2023 
-3\. [“Kolmogorov’s Mapping Neural Network Existence Theorem,“](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987 
-4\. [“Multilayer Feedforward Networks with a Non-Polynomial Activation Function Can Approximate Any Function,“](https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf) Center for Research on Information Systems (New York University), March 1992
+1. [“Some Studies in Machine Learning Using the Game of Checkers,”](https://people.csail.mit.edu/brooks/idocs/Samuel.pdf) *IBM Journal* (accessed through MIT), 3 July 1959  
+ 2. [“Using Decision Trees as an Expert System for Clinical Decision Support for COVID-19,“](https://www.i-jmr.org/2023/1/e42540) *Interactive Journal of Medical Research, Vol 12*, 30 January 2023  
+ 3. [“Kolmogorov’s Mapping Neural Network Existence Theorem,“](https://cs.uwaterloo.ca/~y328yu/classics/Hecht-Nielsen.pdf) *Proceedings of the IEEE First International Conference on Neural Networks* (accessed through University of Waterloo)*,* 1987  
+ 4. [“Multilayer Feedforward Networks with a Non-Polynomial Activation Function Can Approximate Any Function,“](https://archive.nyu.edu/bitstream/2451/14329/1/IS-92-13.pdf) Center for Research on Information Systems (New York University), March 1992

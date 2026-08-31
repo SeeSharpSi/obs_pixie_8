@@ -1,19 +1,14 @@
 ---
-title: What Is Latent Space?
-source: https://www.ibm.com/think/topics/latent-space#1003835711
+title: What is latent space?
+source: https://www.ibm.com/think/topics/latent-space
 author:
 - '[[Dave Bergmann]]'
-published: 2023-09-12
+published: 2025-01-28
 created: 2026-05-21
-description: A latent space in machine learning is a compressed representation of
-  data points that preserves only essential features informing the data’s underlying
-  structure.
+description: "A latent space in machine learning is a compressed representation of data points that preserves only essential features informing the data’s underlying structure."
 ---
-## Authors
 
-Senior Staff Writer, AI Models
-
-IBM Think
+## What is latent space?
 
 A latent space in [machine learning](https://www.ibm.com/think/topics/machine-learning) (ML) is a compressed representation of data points that preserves only essential features that inform the input data’s underlying structure. Effectively modeling latent space is an integral part of [deep learning](https://www.ibm.com/think/topics/deep-learning), including most [generative AI](https://www.ibm.com/think/topics/generative-ai) (gen AI) algorithms.
 
@@ -21,20 +16,20 @@ Mapping data points to latent space can express complex data in an efficient and
 
 Latent spaces play an important role in many fields of [data science](https://www.ibm.com/think/topics/data-science), and encoding latent space is an essential step in many modern artificial intelligence (AI) algorithms. For instance, any generative models, such as [variational autoencoders (VAEs)](https://www.ibm.com/think/topics/variational-autoencoder) and [generative adversarial networks (GANs)](https://www.ibm.com/think/insights/generative-adversarial-network-technology-ai-goes-mainstream), compute the latent space of training data to then interpolate from it to generate new data samples. Computer vision models trained for classification tasks such as [object detection](https://www.ibm.com/think/topics/object-detection) or [image segmentation](https://www.ibm.com/think/topics/image-segmentation) map input data to latent space to isolate its qualities that are relevant to making accurate predictions.
 
-[Large language models (LLMs](https://www.ibm.com/think/topics/large-language-modelsd)), from embedding models that enable semantic search to [autoregressive](https://www.ibm.com/think/topics/autoregressive-model) models such as [IBM® Granite](https://www.ibm.com/granite) ™ or those powering OpenAI’s ChatGPT, manipulate latent space to explore complex connections between different words in specific contexts.
+[Large language models (LLMs](https://www.ibm.com/think/topics/large-language-modelsd)), from embedding models that enable semantic search to [autoregressive](https://www.ibm.com/think/topics/autoregressive-model) models such as [IBM® Granite](https://www.ibm.com/granite)™ or those powering OpenAI’s ChatGPT, manipulate latent space to explore complex connections between different words in specific contexts.
 
 ## What does "latent space" mean?
 
 The word *space* takes on a more varied meaning in the context of machine learning than it does in general language. Broadly speaking, a "space" in ML refers to a specific mode of mapping, comparing or sampling data points. For instance:
 
-- The "input space *"* is the range of possibilities included in the input data.
-- The "output space *"* is the range of possibilities for the model's output.
-- In image data, the "pixel space *"* is the range of possibilities for numerical pixel values.
-- In reinforcement learning, the "actionspace" is the range of possible actions that could be taken next, such as the legal moves available at a specific moment in a board game.
+- The "input space*"* is the range of possibilities included in the input data.
+- The "output space*"* is the range of possibilities for the model's output.
+- In image data, the "pixel space*"* is the range of possibilities for numerical pixel values.
+- In reinforcement learning, the "action space" is the range of possible actions that could be taken next, such as the legal moves available at a specific moment in a board game.
 
-Mathematically speaking, a *space* is primarily defined by what its dimensions correspond to: that is, which *features* —variables—are being used to describe data points in that space. When data points are mapped to a specific space, data points with similar values for the variables that define the space will be *similar to* or *near each other* by some metric such as cosine similarity, Euclidian distance or dot product. 
+Mathematically speaking, a *space* is primarily defined by what its dimensions correspond to: that is, which *features*—variables—are being used to describe data points in that space. When data points are mapped to a specific space, data points with similar values for the variables that define the space will be *similar to* or *near each other* by some metric such as cosine similarity, Euclidian distance or dot product.
 
-In machine learning, data points must be represented numerically. Most often, data points are represented (or “embedded”) as *vectors*. We thus refer to the space in which data points are compared by their vector representations as the "vector embedding space" (or *"* embedding space *"*). The numerical representations, in which each element in the vector corresponds to an individual dimension of the embedding space, are called [vector embeddings](https://www.ibm.com/think/topics/vector-embedding). Machine learning algorithms typically either take vector embeddings as input or begin by converting input data to vector embeddings.
+In machine learning, data points must be represented numerically. Most often, data points are represented (or “embedded”) as *vectors*. We thus refer to the space in which data points are compared by their vector representations as the "vector embedding space" (or *"*embedding space*"*). The numerical representations, in which each element in the vector corresponds to an individual dimension of the embedding space, are called [vector embeddings](https://www.ibm.com/think/topics/vector-embedding). Machine learning algorithms typically either take vector embeddings as input or begin by converting input data to vector embeddings.
 
 ### Feature space vs. latent space
 
@@ -46,25 +41,19 @@ The feature space typically omits information from dimensions of the embedding s
 
 ### What does "latent" mean in machine learning?
 
-In a latent space, each dimension corresponds to a *latent variable* of the original data. Latent variables are underlying characteristics that inform the way data is distributed but are often not directly observable. 
+In a latent space, each dimension corresponds to a *latent variable* of the original data. Latent variables are underlying characteristics that inform the way data is distributed but are often not directly observable.
 
 For an intuitive example, imagine a bridge with a sensor that measures the weight of each passing vehicle. Many different vehicles, from lightweight convertibles to heavy trucks, use the bridge—but there’s no camera to detect a vehicle’s type. Nevertheless, we know that the type of vehicle significantly influences its weight. In this example, *vehicle weight* is an observable variable and *vehicle type* is a latent variable: we can infer what types of vehicles use the bridge by exploring patterns in vehicle weight.
 
 Not every “hidden” variable is important, and thus not every hidden variable will be represented in the latent space encoded by a machine learning model. In practice, the model *learns* to encode the latent space most conducive to accurately performing the task it is being trained to do.
 
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## Latent space and dimensionality reduction
 
 Encoding a latent space representation usually entails the compression of high-dimensional data into a lower-dimensional space through a process called *dimensionality reduction*.
 
-Consider the images in [MNIST](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/e5ec6df59cd736a6b6b091062e3715a2?context=cpdaas), an open source dataset containing tens of thousands of 28x28 grayscale images of handwritten digits. Each small 28x28 image could be represented as a 784-dimensional vector embedding wherein each dimension corresponds to an individual pixel and has a value between 0 (for black) and 1 (for white). If they were color images, those vector embeddings would be *2,352* -dimensional: 3 dimensions for each of the 784 pixels, corresponding to its respective red, green and blue (RGB) values.
+Consider the images in [MNIST](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/e5ec6df59cd736a6b6b091062e3715a2?context=cpdaas), an open source dataset containing tens of thousands of 28x28 grayscale images of handwritten digits. Each small 28x28 image could be represented as a 784-dimensional vector embedding wherein each dimension corresponds to an individual pixel and has a value between 0 (for black) and 1 (for white). If they were color images, those vector embeddings would be *2,352*-dimensional: 3 dimensions for each of the 784 pixels, corresponding to its respective red, green and blue (RGB) values.
 
-However, the actual digits comprise only a small fraction of the pixel space. Most of the image is empty background. Reducing images (and the vectors that represent them) down to only the dimensions containing actual information—the *latent space* —can greatly improve the ability of a machine learning model to accurately and efficiently process the images.
+However, the actual digits comprise only a small fraction of the pixel space. Most of the image is empty background. Reducing images (and the vectors that represent them) down to only the dimensions containing actual information—the *latent space*—can greatly improve the ability of a machine learning model to accurately and efficiently process the images.
 
 ### Autoencoders (and other encoder-decoder frameworks)
 
@@ -74,9 +63,9 @@ Autoencoders are self-supervised systems whose training goal is to compress (or 
 
 Autoencoders are trained to minimize reconstruction loss, which measures how much the decoder’s reconstruction differs from the original input. Because the encoder can pass only a limited amount of information to the decoder, it’s forced to extract only the data’s most salient features. In other words, an autoencoder naturally learns an effective mapping of the input data’s latent space.
 
-![Diagram of an autoencoder neural networks](https://assets.ibm.com/is/image/ibm/variational-autoencoder-neural-network:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891)
+![Diagram of an autoencoder neural networks](https://assets.ibm.com/is/image/ibm/variational-autoencoder-neural-network?ts=1763387713006&dpr=off)
 
-This ability gives autoencoders many interesting use cases in addition to data compression. For instance, autoencoders can be used for [anomaly detection](https://www.ibm.com/think/topics/anomaly-detection) because they can register abnormalities not apparent to a human observer. Imagine a counterfeit watch: to even the trained eye, it might perfectly resemble the real item. Only by taking it apart and attempting to reconstruct the underlying gears and mechanics inside—its latent space—can you identify elements that don’t match those of the genuine watch it’s copying. 
+This ability gives autoencoders many interesting use cases in addition to data compression. For instance, autoencoders can be used for [anomaly detection](https://www.ibm.com/think/topics/anomaly-detection) because they can register abnormalities not apparent to a human observer. Imagine a counterfeit watch: to even the trained eye, it might perfectly resemble the real item. Only by taking it apart and attempting to reconstruct the underlying gears and mechanics inside—its latent space—can you identify elements that don’t match those of the genuine watch it’s copying.
 
 A key benefit of autoencoders over other dimensionality reduction algorithms, such as linear discriminant analysis or [principal component analysis (PCA),](https://www.ibm.com/think/topics/principal-component-analysis) is that autoencoders can model nonlinear relationships between different variables.
 
@@ -90,14 +79,14 @@ Unlike most autoencoders, which are "deterministic" models that encode a single 
 
 To enable the generation of completely new data samples (rather than simply re-creating or combining samples from training data), the latent space must exhibit 2 types of regularity:
 
-- **Continuity:** Nearby points in latent space should yield similar content when decoded.
+- **Continuity:** Nearby points in latent space should yield similar content when decoded.
 - **Completeness:** Any point sampled from the latent space should yield meaningful content when decoded.
 
-A simple way to enforce continuity and completeness in latent space is to force it to follow a normal (Gaussian) distribution. Therefore, VAEs encode 2 different vectors for each latent attribute of training data: a vector of means, “ ***μ***,” and a vector of standard deviations, “ ***σ***.” In essence, these 2 vectors represent the range of possibilities for each latent variable and the expected variance within each range of possibilities, respectively.
+A simple way to enforce continuity and completeness in latent space is to force it to follow a normal (Gaussian) distribution. Therefore, VAEs encode 2 different vectors for each latent attribute of training data: a vector of means, “***μ***,” and a vector of standard deviations, “***σ***.” In essence, these 2 vectors represent the range of possibilities for each latent variable and the expected variance within each range of possibilities, respectively.
 
 VAEs accomplish this by adding an additional [loss function](https://www.ibm.com/think/topics/loss-function) alongside reconstruction loss: Kullback-Leibler divergence (or *KL divergence*). More specifically, the VAE is trained to minimize the divergence between a standard Gaussian distribution and the latent space learned by minimizing reconstruction loss.
 
-![Diagram demonstrating reconstruction loss and KL divergence in autoencoders](https://assets.ibm.com/is/image/ibm/variational-autoencoder-distribution:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891)
+![Diagram demonstrating reconstruction loss and KL divergence in autoencoders](https://assets.ibm.com/is/image/ibm/variational-autoencoder-distribution?ts=1763387713517&dpr=off)
 
 ### Latent space in other image generation models
 
@@ -129,14 +118,8 @@ However, unlike an image, the semantic meaning of a word is not static: it’s d
 
 Though the inner workings of large language models (LLMs) have thus far proven fairly difficult to interpret, ongoing research has explored the activation of latent space in in-context learning and other emergent abilities of LLMs.<sup>1, 2</sup>
 
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
+## Footnotes
 
-[
+<sup>1</sup> ["Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning,"](https://proceedings.neurips.cc/paper_files/paper/2023/file/3255a7554605a88800f4e120b3a929e1-Paper-Conference.pdf) Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023), December 2023.
 
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)
-
-[^1]: ["Large Language Models Are Latent Variable Models: Explaining and Finding Good Demonstrations for In-Context Learning,"](https://proceedings.neurips.cc/paper_files/paper/2023/file/3255a7554605a88800f4e120b3a929e1-Paper-Conference.pdf) Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023), December 2023.
-
-[^2]: ["A Latent Space Theory for Emergent Abilities in Large Language Models,"](https://arxiv.org/abs/2304.09960) arXiv, 13 September 2023.
+<sup>2</sup> ["A Latent Space Theory for Emergent Abilities in Large Language Models,"](https://arxiv.org/abs/2304.09960) arXiv, 13 September 2023.

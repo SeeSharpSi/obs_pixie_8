@@ -1,16 +1,17 @@
 ---
-title: What Is Principal Component Analysis (PCA)?
-source: https://www.ibm.com/think/topics/principal-component-analysis#1793360183
-author:
-- '[[IBM]]'
-published: null
+title: What is principal component analysis (PCA)?
+source: https://www.ibm.com/think/topics/principal-component-analysis
+author: null
+published: 2024-12-10
 created: 2026-05-21
-description: Principal component analysis (PCA) reduces the number of dimensions in
-  large datasets to principal components that retain most of the original information.
+description: "Principal component analysis (PCA) reduces the number of dimensions in large datasets to principal components that retain most of the original information."
 ---
+
+## What is principal component analysis (PCA)?
+
 Principal component analysis, or PCA, reduces the number of dimensions in large datasets to principal components that retain most of the original information. It does this by transforming potentially correlated variables into a smaller set of variables, called principal components.
 
-Karl Pearson is credited with the development of PCA in 1901, but it gained popularity with the increased availability of computers, which allowed for multivariate statistical computations [^1] at scale. PCA is very effective for visualizing and exploring high-dimensional datasets, or data with many features, as it can easily identify trends, patterns, or outliers.
+Karl Pearson is credited with the development of PCA in 1901, but it gained popularity with the increased availability of computers, which allowed for multivariate statistical computations<sup>1 </sup>at scale. PCA is very effective for visualizing and exploring high-dimensional datasets, or data with many features, as it can easily identify trends, patterns, or outliers.
 
 PCA is commonly used for data preprocessing for use with machine learning algorithms. It can extract the most informative features from large datasets while preserving the most relevant information from the initial dataset. This reduces model complexity as the addition of each new feature negatively impacts model performance, which is also commonly referred to as the “curse of dimensionality.”
 
@@ -21,12 +22,6 @@ While there are other variations of PCA, such as principal component regression 
 ## PCA vs. LDA vs. factor analysis
 
 PCA is a dimension reduction technique like [linear discriminant analysis](https://www.ibm.com/think/topics/linear-discriminant-analysis) (LDA). In contrast to LDA, PCA is not limited to [supervised learning](https://www.ibm.com/think/topics/supervised-learning) tasks. For [unsupervised learning](https://www.ibm.com/think/topics/unsupervised-learning) tasks, this means PCA can reduce dimensions without having to consider class labels or categories. PCA is also closely related to factor analysis. They both reduce the number of dimensions or variables in a dataset while minimizing information loss. PCA breaks down variables into a subset of linearly independent principal components. Factor analysis, however, is generally used to understand underlying data structures, focusing on latent variables, or unmeasured factors, that capture a variable’s spread.
-
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
 
 ## PCA vs. K-means clustering
 
@@ -102,27 +97,21 @@ The number of principal components that remain after applying PCA can help you i
 
 Applying PCA can help preprocess or extract the most informative features from datasets with many variables. Preprocessing reduces complexity while preserving relevant information. Common scenarios that use PCA include:
 
-Image compression
-
 PCA reduces image dimensionality while retaining essential information. It helps create compact representations of images, making them easier to store and transmit.
 
-Data visualization
-
 PCA helps to visualize high-dimensional data by projecting it into a lower-dimensional space, such as a 2D or 3D plot. This simplifies data interpretation and exploration.
-
-Noise filtering
 
 PCA can remove noise or redundant information from data by focusing on the principal components that capture the underlying patterns.
 
 ## Predicting breast cancer
 
-PCA has also had applications within healthcare. For example, it has assisted in diagnosing diseases earlier and more accurately. The paper Breast Cancer Prediction using Principal Component Analysis with Logistic Regression analyses a well-known [breast cancer dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) [^2] collected from patients at the University of Wisconsin Hospitals, Madison. The study’s author, Akbar, uses PCA to reduce the dimensions of the six different data attributes:
+PCA has also had applications within healthcare. For example, it has assisted in diagnosing diseases earlier and more accurately. The paper Breast Cancer Prediction using Principal Component Analysis with Logistic Regression analyses a well-known [breast cancer dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)<sup>2 </sup>collected from patients at the University of Wisconsin Hospitals, Madison. The study’s author, Akbar, uses PCA to reduce the dimensions of the six different data attributes:
 
-- mean\_radius of a breast lump
-- mean\_texture of the X-ray image
-- mean\_perimeter of the lump
-- mean\_area of the lump
-- mean\_smoothness of the image
+- mean_radius of a breast lump
+- mean_texture of the X-ray image
+- mean_perimeter of the lump
+- mean_area of the lump
+- mean_smoothness of the image
 - diagnosis (whether the patient has been diagnosed with cancer or not).
 
 A supervised learning classification algorithm, logistic regression, was then applied to predict whether breast cancer is present.
@@ -136,16 +125,8 @@ There are many other dimensionality reduction techniques available, including [l
 - **Information preservation:** PCA preserves the maximum amount of variance in the data. t-SNE and UMAP focus on preserving the local structure of the data. PCA is, therefore, better suited for identifying the most important data variables. Non-linear techniques are better suited for visualizing the data in lower dimensions.
 - **Feature extraction:** PCA is a feature extraction technique. It produces new variables that are linear combinations of the original variables. Other techniques (such as UMAP and t-SNE) do not create new variables. This means PCA can identify the most important variables in the data. Non-linear techniques are better suited for visualizing the data in lower dimensions.
 
-Link copied
+## Footnotes
 
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
+<sup>1</sup>[Andrzej Maćkiewicz and Waldemar Ratajczak. Principal Components Analysis (PCA). *Computers & Geosciences.* Vol. 19. No. 3. 1993](https://www.sciencedirect.com/science/article/abs/pii/009830049390090R?via%3Dihub).
 
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)
-
-[^1]: [Andrzej Maćkiewicz and Waldemar Ratajczak. Principal Components Analysis (PCA). *Computers & Geosciences.* Vol. 19. No. 3. 1993](https://www.sciencedirect.com/science/article/abs/pii/009830049390090R?via%3Dihub)
-
-[^2]: [Wolberg, William, Mangasarian, Olvi, Street, Nick and Street, W (1995). Breast Cancer Wisconsin (Diagnostic). *UCI Machine Learning Repository*](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+<sup>2 </sup>[Wolberg, William, Mangasarian, Olvi, Street, Nick and Street, W (1995). Breast Cancer Wisconsin (Diagnostic). *UCI Machine Learning Repository*](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic).

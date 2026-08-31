@@ -1,14 +1,13 @@
 ---
-title: What is Data Visualization in Machine Learning?
-source: https://www.ibm.com/think/topics/data-visualization-machine-learning#498277088
+title: What is data visualization in machine learning?
+source: https://www.ibm.com/think/topics/data-visualization-machine-learning
 author:
 - '[[Jobit Varughese]]'
-published: null
+published: 2026-05-04
 created: 2026-05-21
-description: Data visualization in machine learning is the practice of using charts,
-  plots, and graphs to understand your data, monitor model training, and evaluate
-  performance to catch problems early and build models that actually work.
+description: "Data visualization in machine learning is the practice of using charts, plots, and graphs to understand your data, monitor model training, and evaluate performance to catch problems early and build models that actually work."
 ---
+
 ## Data visualization explained
 
 [Data visualization](https://www.ibm.com/think/topics/data-visualization) is the graphical representation of data by using visual elements such as charts, graphs, plots and dashboards. It helps interpret complex data to stakeholders or a nontechnical audience who can use them for decision-making.
@@ -57,33 +56,33 @@ Understanding the types of data visualization used in machine learning means thi
 
 ### EDA visualizations
 
-#### Histograms
+#### **Histograms**
 
 A histogram shows how a single numeric feature is distributed. It splits the values into bins on the x‑axis and counts how many data points fall into each bin on the y‑axis. In Python, using tools like matplotlib or seaborn, plotting a histogram quickly shows whether a feature looks normal, right‑skewed, bimodal or close to uniform.
 
 Each pattern suggests a different preprocessing step. For example, you might plot a histogram of product prices and see most of them under USD 50 but a long stretch reaching up to USD 500. That pattern suggests the feature would benefit from a log transform before you use it in a model.
 
-#### Scatter plots
+#### **Scatter plots**
 
 Scatter plots place two numeric variables on the x-axis and y-axis, with each data point represented as a dot. They’re useful for noticing both linear and non‑linear patterns, identifying where clusters form and flagging outliers that sit far away from the rest of the data. For example, plotting house size against sale price might show a clean upward trend until a certain size threshold, after which prices flatten, a pattern worth investigating before training.
 
-#### Correlation matrix (Heatmap)
+#### **Correlation matrix (Heatmap)**
 
 A correlation matrix displays the pairwise correlation between every numeric feature in your dataset. Rendered as a heatmap, where cell color encodes correlation strength, it makes multicollinearity visible at a glance. Features with a correlation of 0.95 or higher are often candidates for removal during [feature selection](https://www.ibm.com/think/topics/feature-selection), because they carry redundant information.
 
 Correlation captures linear relationships only, so a near-zero correlation doesn’t mean that two features are independent. For example, “total rooms” and “total bedrooms” in a housing dataset will almost always show very high correlation and keeping both adds no new information to the model.
 
-#### Box plots
+#### **Box plots**
 
 Box plots give a quick summary of how a variable is spread out by showing the median, the main range of the data (the interquartile range) and any outliers. They’re especially useful in machine learning for comparing how a numeric feature differs across target groups such as looking at income for people who defaulted on a loan versus people who didn’t.
 
-#### Pair plots
+#### **Pair plots**
 
 Pair plots generate a grid of scatter plots for every combination of numeric features in the dataset, with histograms or density plots along the diagonal. Seaborn’s pairplot() function generates these plots in a single line. For datasets with up to 10–15 features, pair plots offer a rapid multivariate overview that would take many individual plots to replicate.
 
 Features, in this context, simply refer to the individual columns in your dataset, such as age, income or purchase frequency. For example, a pair plot for a sales dataset might quickly reveal that revenue and units sold move closely together, while the discount rate doesn’t relate much to either one. Insights like that can help you decide which features are worth keeping.
 
-#### Density plots
+#### **Density plots**
 
 Density plots are like smoother versions of histograms. They’re useful for comparing how a feature is distributed across two groups. When the curves are far apart, the feature usually has strong predictive value. But if they overlap, it’s less helpful.
 
@@ -91,49 +90,49 @@ For example, if you chart the density of “purchase frequency” for loyal vers
 
 ### Feature engineering visualizations
 
-#### Feature importance plots
+#### **Feature importance plots**
 
 You can extract feature importance scores after training a model and visualize them in a bar chart to see which features matter most. Models based on decision trees are a common example, as they naturally provide these importance scores. Features with very low importance are often good candidates to remove, and tools like Plotly or matplotlib can easily create these charts even when you have many features.
 
-#### Distribution comparison plots
+#### **Distribution comparison plots**
 
 These plots compare a feature’s distribution before and after a transformation (scaling, encoding, log transform) and confirm whether the preprocessing step achieved its intended effect. This comparison matters because feeding a poorly transformed feature into a model can skew predictions, and a simple side-by-side plot will detect that problem before it reaches training.
 
 ### Model training visualizations
 
-#### Learning curves
+#### **Learning curves**
 
 A learning curve is a type of [model training](https://www.ibm.com/think/topics/model-training) visualization that plots model performance (accuracy or loss) on the y-axis against training set size or training iterations on the x-axis, with separate lines for training and validation.
 
 This single visualization diagnoses the two most common ML model failure modes: overfitting (large gap between training and validation performance) and [underfitting](https://www.ibm.com/think/topics/underfitting) (both lines are low and converge quickly). Adjusting model complexity, regularization or training data size becomes targeted rather than guesswork after you can see the learning curve.
 
-#### Loss curves
+#### **Loss curves**
 
 For [deep learning](https://www.ibm.com/think/topics/deep-learning) models, plotting training loss and validation loss over epochs is standard practice. A validation loss that stops improving or starts increasing while training loss continues to fall is the signal to stop training early. These plots are typically generated in real-time through tools like TensorBoard during training.
 
-#### Line charts
+#### **Line charts**
 
 More broadly, line charts tracking any metric (accuracy, F1 score, area under the curve) over training iterations give a continuous picture of how the model is evolving. They’re more informative than a single end-of-training metric because they show trajectory, not just destination.
 
 ### Model evaluation visualizations
 
-#### Confusion matrix
+#### **Confusion matrix**
 
 A confusion matrix is a type of [model evaluation](https://www.ibm.com/think/topics/model-evaluation) visualization that lays out every combination of actual and predicted class labels in a grid, true positives, true negatives, false positives and false negatives, so you can see exactly where your model is right and where it’s wrong.
 
 It’s the foundation of most classification metrics; precision, recall and F1 score are all derived from it. Rendered as a heatmap with annotations showing counts or percentages, it makes class-level failure immediately legible. A model that “looks good” on accuracy but has an empty row for a critical class will show this failure immediately in the confusion matrix.
 
-#### ROC (Receiver operating characteristic) curves
+#### **ROC (Receiver operating characteristic) curves**
 
 ROC curves plot the true positive rate against the false positive rate at every possible classification threshold, from 0 to 1. The area under the curve (AUC) summarizes overall model discrimination ability in a single number: 0.5 is random guessing, 1.0 is perfect. ROC curves are particularly useful when comparing multiple models or when the cost of false positives and false negatives differs. Tools like scikit-learn and plotly both have built-in support for generating them.
 
-#### Precision-recall curves
+#### **Precision-recall curves**
 
 When your dataset is heavily imbalanced, precision-recall curves give you a far more honest picture of model performance than ROC curves do. A strong classifier pushes toward the top-right of the plot, maintaining high precision without sacrificing recall. It plots precision on the y-axis against recall on the x-axis across various decision thresholds.
 
 In high-stakes fields like medical diagnosis or fraud detection, where failing to catch the rare case is far more damaging than a false alarm, this curve often tells you more than any other method.
 
-#### Residual plots
+#### **Residual plots**
 
 For regression models, a residual plot shows the difference between predicted and actual values (the residual) on the y-axis against the predicted value on the x-axis. Residuals should scatter randomly around zero with no discernible pattern. If residuals fan out, curve systematically or cluster, the model has a structural problem, it’s not capturing some aspect of the relationship in the data.
 
@@ -168,19 +167,3 @@ Effective data visualization isn’t just about choosing the right chart, it’s
 Data visualization in machine learning isn’t a finishing step, it’s woven through every phase of a project. It’s how data scientists diagnose problems that they couldn’t see in a table, catch model failures that metrics conceal, communicate findings to stakeholders and make confident data-driven decisions at each stage of the workflow.
 
 Building the habit of visualizing deliberately at every stage is one of the simplest and highest-leverage things that you can do to improve both the quality of your models and the clarity of your thinking.
-
-## Author
-
-Technical Content Writer
-
-IBM
-
-Link copied
-
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)

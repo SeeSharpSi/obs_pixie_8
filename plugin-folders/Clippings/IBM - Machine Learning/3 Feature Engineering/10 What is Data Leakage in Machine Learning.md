@@ -1,26 +1,18 @@
 ---
-title: What is Data Leakage in Machine Learning?
-source: https://www.ibm.com/think/topics/data-leakage-machine-learning#1003835706
+title: What is data leakage in machine learning?
+source: https://www.ibm.com/think/topics/data-leakage-machine-learning
 author:
 - '[[Tim   Mucci]]'
-published: null
+published: 2024-09-30
 created: 2026-05-21
-description: Data leakage in machine learning occurs when a model uses information
-  during training that wouldn't be available at the time of prediction.
+description: "Data leakage in machine learning occurs when a model uses information during training that wouldn't be available at the time of prediction."
 ---
-## Author
 
-IBM Writer
-
-Gather
+## What is data leakage in machine learning?
 
 Data leakage in [machine learning](https://www.ibm.com/think/topics/machine-learning?) occurs when a model uses information during training that wouldn't be available at the time of prediction. Leakage causes a predictive model to look accurate until deployed in its use case; then, it will yield inaccurate results, leading to poor decision-making and false insights.
 
 The goal of [predictive modeling](https://www.ibm.com/think/topics/predictive-analytics?) is to create a machine learning model that can make accurate predictions on real-world future data, which is not available during model training. To avoid inaccurate results, models should not be evaluated on the same data they're trained on. So, data scientists typically split the available data into two sets: one for training the model and the other for validating how well the model will perform on unseen data.
-
-## Would your team catch the next zero-day in time?
-
-Join security leaders who rely on the Think Newsletter for curated news on AI, cybersecurity, data and automation. Learn fast from expert tutorials and explainers—delivered directly to your inbox twice weekly. See the [IBM Privacy Statement](https://www.ibm.com/privacy).
 
 ## Examples and types of data leakage
 
@@ -50,12 +42,6 @@ However, suppose that the data scientist applies standardization to the entire d
 
 Preprocessing steps such as scaling, imputation or feature selection should be fitted only on the training data and then applied to the validation set, rather than fitting them on the entire dataset before splitting. Misapplying transformers such as scaling or normalization can lead to train-test contamination, especially in neural network models. When these improperly executed preprocessing steps are performed over the whole dataset, it leads to biased predictions and an unrealistic sense of the model's performance.
 
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## Causes of data leakage
 
 Data leakage can be a time-consuming and multi-million-dollar mistake and leakage in machine learning occurs due to a variety of factors. Some common causes are:
@@ -76,9 +62,9 @@ Data leakage can be a time-consuming and multi-million-dollar mistake and leakag
 
 ## Impact of data leakage on machine learning models
 
-Data leakage is a common pitfall in training machine learning algorithms for predictive modeling. A National Library of Medicine study <sup>1</sup> found that across 17 different scientific fields where machine learning methods have been applied, at least 294 scientific papers were affected by data leakage, leading to overly optimistic performance.
+Data leakage is a common pitfall in training machine learning algorithms for predictive modeling. A National Library of Medicine study<sup>1</sup> found that across 17 different scientific fields where machine learning methods have been applied, at least 294 scientific papers were affected by data leakage, leading to overly optimistic performance.
 
-A Yale study <sup>2</sup> found that data leakage can either inflate or deflate performance metrics of neuroimaging-based models, depending on whether the leaked information introduces noise or creates unrealistic patterns. These models are used for diagnosing illness to identify treatments and help neuroscientists better understand the relationship between brain and body.
+A Yale study<sup>2</sup> found that data leakage can either inflate or deflate performance metrics of neuroimaging-based models, depending on whether the leaked information introduces noise or creates unrealistic patterns. These models are used for diagnosing illness to identify treatments and help neuroscientists better understand the relationship between brain and body.
 
 Data leakage in machine learning models can have various impacts across different fields and data types, here are the most common:
 
@@ -144,12 +130,7 @@ There is another definition of [data leakage](https://www.ibm.com/think/topics/d
 
 The most common [vectors for data leakage stem](https://www.ibm.com/think/topics/attack-surface?) from human error such as an employee misplacing their laptop or sharing sensitive information over email and messaging platforms. Hackers can use exposed data to commit identity theft, steal credit card details or sell the data on the dark web.
 
-Link copied
+## Footnotes
 
-[Achieve continuous compliance in a hybrid data world with IBM® Guardium® Data Protection](https://www.ibm.com/forms/mkt-webinar-1fde3?utm_medium=web&utm_source=sti-inbound-datasec)
-
-[
-
-Register for this webinar to learn how AI governance helps organizations manage risk, meet evolving regulations and build trusted, responsible AI at scale.
-
-](https://www.ibm.com/forms/mkt-webinar-1fde3?utm_medium=web&utm_source=sti-inbound-datasec)
+1. [Leakage and the reproducibility crisis in machine-learning-based science](https://pmc.ncbi.nlm.nih.gov/articles/PMC10499856/), NIH.gov, 4 Aug 2023
+2. [Data ‘leaks’ can sink machine learning models](https://news.yale.edu/2024/02/28/data-leaks-can-sink-machine-learning-models), Yale.edu, 28 February 2024

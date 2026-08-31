@@ -1,19 +1,12 @@
 ---
-title: What is Statistical Machine Learning?
-source: https://www.ibm.com/think/topics/statistical-machine-learning#498277090
+title: What is statistical machine learning?
+source: https://www.ibm.com/think/topics/statistical-machine-learning
 author:
 - '[[Fangfang Lee]]'
-published: null
+published: 2025-07-28
 created: 2026-05-21
-description: The article delves into details of the foundations of machine learning
-  - statistics. We will learn what roles probability, statistics, and distribution
-  play in building reliable and practical AI systems.
+description: "The article delves into details of the foundations of machine learning - statistics. We will learn what roles probability, statistics, and distribution play in building reliable and practical AI systems."
 ---
-## Authors
-
-Developer Advocate
-
-IBM
 
 ## Statistical machine learning
 
@@ -29,11 +22,11 @@ This article unpacks the **statistical pillars** behind modern ML, not just to d
 
 We’ll walk through six interlinked concepts:
 
-1\. **Statistics:** Fundamentally, what is statistics and how it is used in modern AI?
+1. **Statistics:** Fundamentally, what is statistics and how it is used in modern AI?
 
-2\. **Probability:** How do we quantify uncertainty in data?
+2. **Probability:** How do we quantify uncertainty in data?
 
-3\. **Distributions:** How to model data behavior?
+3. **Distributions:** How to model data behavior?
 
 ## What is statistics?
 
@@ -102,12 +95,6 @@ During EDA, descriptive statistics help us:
 
 Understanding data with statistics also helps prepare models to handle large datasets, evaluate model metrics and mitigate risks such as overfitting. For example, descriptive summaries might reveal imbalanced classes or feature scales that require normalization—both of which affect model performance and fairness.
 
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
 ## Probabilities: The language of uncertainty
 
 Modeling by using machine learning exists **because of uncertainty**. If we could perfectly map inputs to outputs, there would be no need for models. But real-world data is messy, incomplete and noisy—so we model **likelihoods** instead of certainties. Learning about probabilities lays the fundamentals of everything machine learning and artificial intelligence (AI). Theories in probabilities allow us to understand the data we used to model in a beautiful and elegant way. It plays a critical role in modeling uncertainties in ML models predictions. It helps us quantify likelihood, probability and certainties for a statistical model so we can confidently measure the outcome models we create. Diving into the world of probabilities and learning the fundamentals will help ensure that you understand the basis of all statistical learning models and how their predictions come to be. You will learn how we can make inference and produce probabilistic outcomes.
@@ -124,7 +111,7 @@ In order to learn popular distributions and model your data with confidence, let
 
 **Outcome**: A single possible result of a random experiment. For example, flipping a coin yields either "Heads" or "Tails."
 
-**Probability** $P(A)$: A numerical measure of the likelihood that an event $A$ will occur, ranging from 0 (impossible) to 1 (certain).
+**Probability** $P(A)$ : A numerical measure of the likelihood that an event $A$ will occur, ranging from 0 (impossible) to 1 (certain).
 
 **Conditional probability** $P(A|B)$: The probability of event $A$ occurring, **given that event** $A$ has already occurred. This step is crucial in ML, as we often want to predict an outcome given specific features.
 
@@ -134,9 +121,9 @@ In machine learning, this often takes the form of **conditional probability**
 
 Example: A logistic regression model might say
 
-\> “Given age = 45, income = USD 60K, and prior history,
+> “Given age = 45, income = USD 60K, and prior history,
 
-\> the probability of churn is 0.82.”
+> the probability of churn is 0.82.”
 
 This example doesn’t mean that the customer **will** churn—it’s a **belief** based on the statistical patterns in the training data.
 
@@ -151,7 +138,7 @@ A **probability distribution** is a mathematical function that describes the pos
 
 ### Core concepts
 
-- Probability mass function (PMF): The PMF applies to discrete random variables—variables that take on countable, distinct values like 0 or 1, heads or tails or the number of customers arriving at a store. The PMF tells you the exact probability of each possible outcome. For example, if you roll a fair six-sided die, the PMF assigns a probability of 1/6 to each of the outcomes $1,2,3,4,5,6$. Unlike the PDF (which spreads probability density across a range), the PMF concentrates probability on exact values.
+- Probability mass function (PMF): The PMF applies to discrete random variables—variables that take on countable, distinct values like 0 or 1, heads or tails or the number of customers arriving at a store. The PMF tells you the exact probability of each possible outcome. For example, if you roll a fair six-sided die, the PMF assigns a probability of 1/6 to each of the outcomes ${1, 2, 3, 4, 5, 6}$. Unlike the PDF (which spreads probability density across a range), the PMF concentrates probability on exact values.
 - Probability density function (PDF): It helps us reason about percentiles, quantiles and probability thresholds—concepts often used in thresholding models, fairness auditing and interpretability.
 - Cumulative distribution function (CDF): The CDF gives the cumulative probability that a value is less than or equal to a specific threshold. It grows from 0 to 1 as you move along the x-axis, and is especially useful when answering questions like, “What proportion of customers spend under USD 50?”
 - Cumulative mass function (CMF): The CMF is the discrete counterpart to the CDF. It gives the cumulative probability that a discrete variable takes on a value less than or equal to a particular point.
@@ -169,21 +156,21 @@ Probability distributions underpin:
 
 The Bernoulli distribution models the probability of success or failure in a single trial of a discrete random event. That is, it only has two outcomes: 1 (success) or 0 (failure). It's the simplest type of distribution used in statistics, yet it forms the foundation of many classification problems in machine learning. For example, if you were to flip a coin 10 times, and you get 7 heads (success) and 3 tails (failure), the probability mass function (PMF) can be graphed as:
 
-![[Image 14.png|Distribution coinflips - bar chart]]
+![Distribution coinflips - bar chart](https://assets.ibm.com/is/image/ibm/distribution_coinflips?ts=1763388512677&dpr=off)
 
 A coin flip is a classic Bernoulli trial. Let's apply the probability mass function to the coin flip example
 
-\- Let $X$ be a random variable representing the outcome of one flip
+- Let $X$ be a random variable representing the outcome of one flip
 
-\- If **heads** is considered success, we define $X=1$ for heads and $X=0$ for tails
+- If **heads** is considered success, we define $X=1$ for heads and $X=0$ for tails
 
-\- If the coin is fair, the probability of heads is $p=0.5$
+- If the coin is fair, the probability of heads is $p = 0.5$
 
 The probability mass function (PMF) of the Bernoulli distribution is:
 
-$P(X=x)=px(1-p)1-x,forx∈{0,1}$
+$$ P(X=x)=p^x(1-p)^{1-x},\quad for\ x\in\{0,1\} $$
 
-![[Image 15.png|Bernoulli distribution - lollipop chart]]
+![Bernoulli distribution - lollipop chart](https://assets.ibm.com/is/image/ibm/bernoulli_distribution_pmf?ts=1763388512860&dpr=off)
 
 Where:
 
@@ -195,7 +182,7 @@ Where:
 
 Understanding the Bernoulli PMF is essential because it forms the probabilistic backbone of many classification models. In particular, [logistic regression](https://www.ibm.com/think/topics/logistic-regression) doesn’t just output a class label, it estimates the probability that a particular input belongs to class 1. This predicted probability is interpreted as the parameter 𝑝 in a Bernoulli distribution:
 
-The logistic (sigmoid) function used in logistic regression ensures that predicted values fall within the \[0,1\] range, making them valid Bernoulli probabilities. The model is trained to maximize the likelihood of observing the true binary outcomes under the assumption that each target value is drawn from a Bernoulli distribution with probability 𝑝 predicted from features 𝑋. In this case, because we want to minimize the training loss, we adopt a maximum likelihood estimate (MLE) approach to maximize the *likelihood* of an outcome, given the data. Typically, for discrete distribution such as Bernoulli we transform probability into likelihood to manipulate more easily. Likelihood, like odds, is disproportionate so we usually apply a log transformation—known as the log-likelihood, and the loss function as log-loss. If this section sounds a bit confusing, you can visit the logistic regression explainer mentioned previously for step-by-step derivation of the log-likelihood function by using MLE. This connection provides the statistical grounding for interpreting outputs as probabilistic estimates. Other applications include:
+The logistic (sigmoid) function used in logistic regression ensures that predicted values fall within the [0,1] range, making them valid Bernoulli probabilities. The model is trained to maximize the likelihood of observing the true binary outcomes under the assumption that each target value is drawn from a Bernoulli distribution with probability 𝑝 predicted from features 𝑋. In this case, because we want to minimize the training loss, we adopt a maximum likelihood estimate (MLE) approach to maximize the *likelihood* of an outcome, given the data. Typically, for discrete distribution such as Bernoulli we transform probability into likelihood to manipulate more easily. Likelihood, like odds, is disproportionate so we usually apply a log transformation—known as the log-likelihood, and the loss function as log-loss. If this section sounds a bit confusing, you can visit the logistic regression explainer mentioned previously for step-by-step derivation of the log-likelihood function by using MLE. This connection provides the statistical grounding for interpreting outputs as probabilistic estimates. Other applications include:
 
 - Binary classifier ([decision trees](https://www.ibm.com/think/topics/decision-trees), [random forests](https://www.ibm.com/think/topics/random-forest), [support vector machines](https://www.ibm.com/think/topics/support-vector-machine) with binary outcomes) implicitly treat classification as predicting Bernoulli outcomes—especially when probability calibration is applied post-training.
 - Evaluation metrics: Precision, recall and F1 score are fundamentally derived from the assumption that each prediction is a binary event (Bernoulli trial).
@@ -204,18 +191,18 @@ The logistic (sigmoid) function used in logistic regression ensures that predict
 
 The normal distribution describes a continuous random variable whose values tend to cluster around a central mean, with symmetric variability in both directions. It's ubiquitous in statistics because many natural phenomena (height, test scores, measurement errors) follow this pattern, especially when aggregated across samples.
 
-![[Image 16.png|Normal distribution - bell curve]]
+![Normal distribution - bell curve](https://assets.ibm.com/is/image/ibm/normal_distribution?ts=1763388513431&dpr=off)
 
 Imagine you record the heights of 1,000 adults. Plotting this data reveals a bell-shaped curve: most people are close to the average, with fewer at the extremes. This shape is captured by the probability density function (PDF) of the normal distribution:
 
-$f(x∣μ,σ2)=12πσ2exp(-(x-μ)22σ2)$
+$$ f(x \mid \mu, \sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left( -\frac{(x - \mu)^2}{2\sigma^2} \right) $$
 
 Where:
 
 - 𝑥 is a continuous variable (for example, height)
 - 𝜇 is the mean (center of the distribution)
-- $σ2$ the variance (controls spread)
-- The denominator $2πσ2$ ensures the area under the curve sums to 1
+- $\sigma^2$ the variance (controls spread)
+- The denominator $\sqrt{2\pi\sigma^2}$ ensures the area under the curve sums to 1
 - The exponential term penalizes values that are far from the mean, making them less probable
 
 #### Applications to machine learning: continuous distribution
@@ -235,13 +222,3 @@ Finally, we explored distributions, which define how data behaves across differe
 In modern machine learning algorithms, from logistic regression and [naive Bayes](https://www.ibm.com/think/topics/naive-bayes) to [deep learning](https://www.ibm.com/think/topics/deep-learning) and kernel methods, these statistical principles are not optional add-ons—they are the very mechanics of machine learning. They help us reason about uncertainty, optimize performance and generalize from limited observations to real-world decision-making. By mastering these foundations, you don’t just learn to use machine learning—you learn to understand, build and draw inference from it.
 
 Even in the age of generative AI and large-scale deep learning models, statistics remains more relevant than ever. Behind every transformer layer and diffusion step lies a foundation built on probability, estimation and distributional assumptions. Understanding concepts like [bias-variance tradeoff](https://www.ibm.com/think/topics/bias-variance-tradeoff), and uncertainty isn’t just academic—it’s essential for interpreting black-box models, diagnosing failure modes and building responsible, explainable AI. Whether you're fine-tuning a foundation model, applying Bayesian techniques for uncertainty quantification or evaluating generative outputs, statistical reasoning equips you with the tools to navigate complexity with clarity. As gen AI systems grow more powerful, grounding your practice in statistical fundamentals ensures that your models remain not only state-of-the-art, but also principled and trustworthy.
-
-Link copied
-
-[Data science and MLOps for data leaders](https://www.ibm.com/forms/mkt-51585)
-
-[
-
-Join forces with other leaders to drive the three essential pillars of MLOps and trustworthy AI: trust in data, trust in models and trust in processes.
-
-](https://www.ibm.com/forms/mkt-51585)

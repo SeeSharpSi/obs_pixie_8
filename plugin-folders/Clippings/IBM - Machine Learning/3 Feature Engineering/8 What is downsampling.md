@@ -1,8 +1,12 @@
-## Authors
-
-Jacob Murel Ph.D.
-
-Senior Technical Content Creator
+---
+title: What is downsampling?
+source: https://www.ibm.com/think/topics/downsampling
+author:
+- '[[Jacob  Murel Ph.D.]]'
+published: 2024-11-27
+created: 2026-08-31
+description: "Downsampling decreases the number of data samples in a dataset. In doing so, it aims to correct imbalanced data and thereby improve model performance."
+---
 
 ## What is downsampling?
 
@@ -14,32 +18,6 @@ Downsampling for data science is often mistaken for downsampling in digital sign
 
 Downsampling for data balancing can also be confused with downsampling for image processing. When data contains lots of features, like in high resolution MRI images, calculations can become expensive. Downsampling in image processing thus reduces the dimensionality of each data point through convolution. This is not the same as balancing the dataset: it is an optimization technique that will later require interpolation to get back the original data.
 
-## The latest AI trends, brought to you by experts
-
-Get curated insights on the most important—and intriguing—AI news. Subscribe to our weekly Think newsletter. See the [IBM Privacy Statement](https://www.ibm.com/privacy).
-
-## Thank you! You are subscribed.
-
-\*
-
-First name\*
-
-Field required
-
-\*
-
-Last name\*
-
-Field required
-
-\*
-
-Business email\*
-
-Field required. Must be valid email. example@yourdomain.com
-
-Your subscription will be delivered in English. You will find an unsubscribe link in every newsletter. Refer to our [IBM Privacy Statement](https://www.ibm.com/us-en/privacy) for more information.
-
 ## Why use downsampling?
 
 Downsampling is an effective way to address imbalances within a dataset. An imbalanced dataset is defined as a dataset in which one class is greatly underrepresented in the dataset relative to the true population, creating unintended bias. For instance, imagine a model is trained to classify images as showing a cat or a dog. The dataset used is composed of 90% cats and 10% dogs. Cats in this scenario are overrepresented, and if we have a classifier predicting cats every time, it will yield a 90% accuracy for classifying cats, but 0% accuracy for classifying dogs. The imbalanced dataset in this case will cause classifiers to favor accuracy for the majority class at the expense of the minority class. The same issue can arise with multi-class datasets.<sup>1</sup>
@@ -47,14 +25,6 @@ Downsampling is an effective way to address imbalances within a dataset. An imba
 The process of downsampling counteracts the imbalanced dataset issue. It identifies majority class points to remove based on specified criteria. These criteria can change with the chosen downsampling technique. This balances the dataset by effectively decreasing the number of samples for an overrepresented majority class until the dataset contains an equal ratio of points across all classes.
 
 While imbalances can be seen by simply plotting the counts of data points in each class, it doesn’t tell us whether it will greatly affect the model. Fortunately, we can use performance metrics to gauge how well a downsampling technique corrects for class imbalance. Most of these metrics will be for binary classification, where there are only two classes: a positive and a negative. Usually, the positive class is the minority class while the negative class is the majority class. Two popular metrics are Receiver Operating Characteristic (ROC) curves and precision-recall curves.<sup>1</sup>
-
-Think Keynotes
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
-
-[Get Started with watsonx Orchestrate®](https://www.ibm.com/products/watsonx-orchestrate)
 
 ## Advantages and disadvantages of downsampling
 
@@ -88,15 +58,15 @@ There are three variations of the Near Miss algorithm that provide a more defini
 
 - Version 1: This version keeps the majority class instances with the smallest average distance to their N *closest* minority class instances. The resulting data can potentially be unevenly distributed, with some majority class points being close to many minority class points and others being close to very few, causing both low precision and recall.<sup>4</sup>
 
-     ![A diagram of downsampling - Near Miss 1](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v1:1x1?fmt=png-alpha&dpr=on%2C2.5&wid=320&hei=320)
+![A diagram of downsampling - Near Miss 1](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v1?ts=1763386672164&dpr=off)
 
 - Version 2: This version of Near Miss downsampling keeps the majority class instances with the smallest average distance to their N *furthest* minority class instances. Unlike the first version, this version creates a more even distribution of the majority class, yielding better results from the classifier.<sup>4</sup>
 
-     ![A diagram of downsampling - Near Miss 2](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v2:1x1?fmt=png-alpha&dpr=on%2C2.5&wid=320&hei=320)
+![A diagram of downsampling - Near Miss 2](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v2?ts=1763386672309&dpr=off)
 
 - Version 3: This version keeps the closest majority class samples for the minority class instances closest to the majority class. It operates in two steps. First, the M nearest majority class neighbors of each minority class instance are kept. Then, from the remaining majority class instances, those with the largest average distance are identified and kept. Because this version keeps majority class instances that are close with many minority class instances, it can have high precision but low recall.<sup>4</sup>
 
-     ![A diagram of downsampling - Near Miss 3](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v3:1x1?fmt=png-alpha&dpr=on%2C2.5&wid=320&hei=320)
+![A diagram of downsampling - Near Miss 3](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-v3?ts=1763386672481&dpr=off)
 
 ### Condensed Nearest Neighbor Rule downsampling
 
@@ -110,7 +80,7 @@ CNN downsampling can be broken down into the following steps:<sup>5</sup>
 
 Like Near Miss, this process essentially removes all majority class instances far away from the decision boundary, which, again, are points that are easy to classify. It also ensures that every data in our original dataset can be correctly predicted using just the data within S. This way, the dataset can be shrunk significantly while preserving the decision boundary reasonably well.
 
-     ![A diagram with 3 graphics of majority class sample, minority class sample and majority class sample with minority class neighbors.](https://assets.ibm.com/is/image/ibm/downsampling-edited-nearest-neighbors:1x1?fmt=png-alpha&dpr=on%2C2.5&wid=320&hei=320)
+![A diagram with 3 graphics of majority class sample, minority class sample and majority class sample with minority class neighbors.](https://assets.ibm.com/is/image/ibm/downsampling-edited-nearest-neighbors?ts=1763386672713&dpr=off)
 
 This image shows an example of applying condensed nearest neighbors using 1 nearest-neighbors and 21 nearest neighbors to two datasets. The top two images are before applying condensed nearest neighbors while the bottom two are after. As one can see, the decision boundary is reasonably well preserved.
 
@@ -126,7 +96,7 @@ Edited Nearest Neighbors (ENN) downsampling is similar to Tomek Link downsamplin
 
 ENN downsampling is usually done with 3 nearest neighbors, as illustrated below.
 
-     ![A diagram of downsampling - Boundry Preservation](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-boundary-preservation:1x1?fmt=png-alpha&dpr=on%2C2.5&wid=320&hei=320)
+![A diagram of downsampling - Boundry Preservation](https://assets.ibm.com/is/image/ibm/downsampling-near-miss-boundary-preservation?ts=1763386673152&dpr=off)
 
 This is a coarser-grain strategy because it looks at the general neighborhood of points rather than at a single neighbor, but it is an efficient way to get rid of noise within the data. ENN downsampling is most effective when combined with other techniques.
 
@@ -136,4 +106,22 @@ Current developments in downsampling revolve around deep learning integrations. 
 
 Current research in downsampling also revolve around combining it with other techniques to create hybrid techniques. One combination is to both downsample and upsample the data to get the benefits of both: SMOTE+Tomek Link, Agglomerative Hierarchical Clustering (AHC), and SPIDER are a few examples of these.<sup>9</sup> Algorithm-level techniques can also incorporate ideas from traditional downsampling techniques, such as with Hard Example Mining where training only focuses on the ‘harder’ data points.<sup>2</sup> All show better performance than using each technique individually.
 
-Link copied
+## Footnotes
+
+<sup>1</sup> Haobo He and Edwardo Garcia, Learning from Imbalanced Data, IEEE, September 2009, [https://ieeexplore.ieee.org/document/5128907](https://ieeexplore.ieee.org/document/5128907) (link resides outside ibm.com).  
+
+ <sup>2</sup> Kumar Abhishek and Mounir Abdelaziz, Machine Learning for Imbalanced Data, Packt, November 2023  
+
+ <sup>3</sup> Ajinkya More, Survey of resampling techniques for improving classification performance in unbalanced datasets, 22 August 2016, [https://arxiv.org/pdf/1608.06048](https://arxiv.org/pdf/1608.06048) (link resides outside ibm.com).  
+
+ <sup>4</sup> Jianping Zhang and Inderjeet Mani, kNN Approach to Unbalanced Data Distributions: A Case Study involving Information Extraction, 2003, [https://www.site.uottawa.ca/~nat/Workshop2003/jzhang.pdf](https://www.site.uottawa.ca/~nat/Workshop2003/jzhang.pdf) (link resides outside ibm.com).  
+
+ <sup>5</sup> More, Survey of resampling techniques for improving calssification performance in unbalanced datasets, 22 August 2016, [https://arxiv.org/pdf/1608.06048](https://arxiv.org/pdf/1608.06048) (link resides outside ibm.com). Alberto Fernandez, et al., Learning from Imbalanced Data Sets, Springer, 2018.
+
+<sup>6</sup> Md Adnan Arefeen, Sumaiya Tabassum Nimi, and M. Sohel Rahman, Neural Network-Based Undersampling Techniques, IEEE, 02 September 2020, [https://ieeexplore.ieee.org/abstract/document/9184909?casa_token=RnLRvnqyiF8AAAAA:iyxPWT06HX6a9g8X1nhShrllo_ht9ZM1cqHMWjET5wOopeR5dqizBF29cSSmFMRPo9V1D7XBIwg](https://ieeexplore.ieee.org/abstract/document/9184909?casa_token=RnLRvnqyiF8AAAAA:iyxPWT06HX6a9g8X1nhShrllo_ht9ZM1cqHMWjET5wOopeR5dqizBF29cSSmFMRPo9V1D7XBIwg) (link resides outside ibm.com).
+
+<sup>7</sup> Ajay Kumar, SOM-US: A Novel Under-Sampling Technique for Handling Class Imbalance Problem, hrcak, 30 January 2024, [https://hrcak.srce.hr/clanak/454006](https://hrcak.srce.hr/clanak/454006) (link resides outside ibm.com).
+
+<sup>8</sup> Wonjae Lee and Kangwon Seo, Downsampling for Binary Classification with a Highly Imbalanced Dataset Using Active Learning, Science Direct, 26 April 2022, [https://www.sciencedirect.com/science/article/pii/S2214579622000089](https://www.sciencedirect.com/science/article/pii/S2214579622000089) (link resides outside ibm.com).
+
+<sup>9</sup> Alberto Fernandez, et al., Learning from Imbalanced Data Sets, Springer, 2018.

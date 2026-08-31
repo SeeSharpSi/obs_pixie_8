@@ -1,24 +1,21 @@
 ---
-title: What Is Linear Discriminant Analysis?
-source: https://www.ibm.com/think/topics/linear-discriminant-analysis#1793360182
-author:
-- '[[IBM]]'
-published: null
+title: What is linear discriminant analysis (LDA)?
+source: https://www.ibm.com/think/topics/linear-discriminant-analysis
+author: null
+published: 2024-12-03
 created: 2026-05-21
-description: Linear discriminant analysis (LDA) is an approach used in supervised
-  machine learning to solve multi-class classification problems.
+description: "Linear discriminant analysis (LDA) is an approach used in supervised machine learning to solve multi-class classification problems."
 ---
-## What is linear discriminant analysis (LDA)?
 
 ## What is LDA?
 
 Linear discriminant analysis (LDA) is an approach used in supervised machine learning to solve multi-class classification problems. LDA separates multiple classes with multiple features through data [dimensionality reduction](https://www.ibm.com/think/topics/dimensionality-reduction). This technique is important in data science as it helps optimize [machine learning](https://www.ibm.com/think/topics/machine-learning) models.
 
-Linear discriminant analysis, also known as normal discriminant analysis (NDA) or discriminant function analysis (DFA), follows a generative model framework. This means LDA algorithms model the data distribution for each class and use [Bayes' theorem](https://plato.stanford.edu/entries/bayes-theorem/) [^1] to classify new data points. Bayes calculates conditional probabilities—the probability of an event given some other event has occurred. LDA algorithms make predictions by using Bayes to calculate the probability of whether an input data set will belong to a particular output. For a review of Bayesian statistics and how it impacts supervised learning algorithms, see [Naïve Bayes classifiers](https://www.ibm.com/topics/naive-bayes).
+Linear discriminant analysis, also known as normal discriminant analysis (NDA) or discriminant function analysis (DFA), follows a generative model framework. This means LDA algorithms model the data distribution for each class and use [Bayes' theorem](https://plato.stanford.edu/entries/bayes-theorem/)<sup>1</sup> to classify new data points. Bayes calculates conditional probabilities—the probability of an event given some other event has occurred. LDA algorithms make predictions by using Bayes to calculate the probability of whether an input data set will belong to a particular output. For a review of Bayesian statistics and how it impacts supervised learning algorithms, see [Naïve Bayes classifiers](https://www.ibm.com/topics/naive-bayes).
 
 LDA works by identifying a linear combination of features that separates or characterizes two or more classes of objects or events. LDA does this by projecting data with two or more dimensions into one dimension so that it can be more easily classified. The technique is, therefore, sometimes referred to as dimensionality reduction. This versatility ensures that LDA can be used for multi-class data classification problems, unlike [logistic regression](https://www.ibm.com/topics/logistic-regression?mhq=logistic%20regression&mhsrc=ibmsearch_a), which is limited to binary classification. LDA is thus often applied to enhance the operation of other learning classification algorithms such as [decision tree](https://www.ibm.com/topics/decision-trees), [random forest](https://www.ibm.com/topics/random-forest) or support vector machines (SVM).
 
-![Graph showing the effect on a data cluster before and after applying LDA methods](https://assets.ibm.com/is/image/ibm/applying-linear-discriminant-analysis-lda-to-a-data-cluster:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891)
+![Graph showing the effect on a data cluster before and after applying LDA methods](https://assets.ibm.com/is/image/ibm/applying-linear-discriminant-analysis-lda-to-a-data-cluster?ts=1763386304141&dpr=off)
 
 ### The origin of linear discriminant analysis
 
@@ -39,7 +36,7 @@ To create this new axis and reduce dimensionality, LDA follows these criteria:
 
 ### Properties and assumptions of LDA
 
-LDAs operate by projecting a feature space, that is, a dataset with n-dimensions, onto a smaller space "k", where k is less than or equal to n – 1, without losing class information. An LDA model comprises the statistical properties that are calculated for the data in each class. Where there are multiple features or variables, these properties are calculated over the [multivariate Gaussian distribution](https://online.stat.psu.edu/stat508/lesson/9/9.2/9.2.2) [^3].
+LDAs operate by projecting a feature space, that is, a dataset with n-dimensions, onto a smaller space "k", where k is less than or equal to n – 1, without losing class information. An LDA model comprises the statistical properties that are calculated for the data in each class. Where there are multiple features or variables, these properties are calculated over the [multivariate Gaussian distribution](https://online.stat.psu.edu/stat508/lesson/9/9.2/9.2.2)<sup>3</sup>.
 
 The multivariates are:
 
@@ -63,29 +60,27 @@ During dimensionality reduction, the eigenvectors are calculated from the data s
 - Between-class scatter matrix (information about the data spread within each class)
 - Within-class scatter matrix (how classes are spread between themselves).
 
-## The latest AI trends, brought to you by experts
-
 ## Preparing to implement linear discriminant analysis
 
 To use LDA effectively, it’s essential to prepare the data set beforehand. These are the steps and best practices for implementing LDA:
 
-### 1\. Preprocess the data to ensure that it is normalized and centered
+### 1. Preprocess the data to ensure that it is normalized and centered
 
 This is achieved by passing the n-component parameter of the LDA, which identifies the number of linear discriminants to retrieve.
 
-### 2\. Choose an appropriate number of dimensions for the lower-dimensional space
+### 2. Choose an appropriate number of dimensions for the lower-dimensional space
 
 This is achieved by passing the n-component parameter of the LDA, which identifies the number of linear discriminants to retrieve.
 
-### 3\. Regularize the model
+### 3. Regularize the model
 
 Regularization aims to prevent [overfitting](https://www.ibm.com/topics/overfitting), where the statistical model fits exactly against its training data and undermines its accuracy.
 
-### 4\. Using cross-validation to evaluate model performance
+### 4. Using cross-validation to evaluate model performance
 
-You can evaluate classifiers such as LDA by plotting a confusion matrix, with actual class values as rows and predicted class values as columns. A confusion matrix makes it easy to see whether a classifier is confusing two classes—that is, mislabeling one class as another. For example, consider a 10 x 10 confusion matrix predicting images from zero through 9. Actuals are plotted in rows on the y-axis. Predictions are plotted in columns on the x-axis. To see how many times a classifier confused images of 4s and 9s in the 10 x 10 confusion matrix example, you would check the 4 <sup>th</sup> row and the 9 <sup>th</sup> column.
+You can evaluate classifiers such as LDA by plotting a confusion matrix, with actual class values as rows and predicted class values as columns. A confusion matrix makes it easy to see whether a classifier is confusing two classes—that is, mislabeling one class as another. For example, consider a 10 x 10 confusion matrix predicting images from zero through 9. Actuals are plotted in rows on the y-axis. Predictions are plotted in columns on the x-axis. To see how many times a classifier confused images of 4s and 9s in the 10 x 10 confusion matrix example, you would check the 4<sup>th</sup> row and the 9<sup>th</sup> column.
 
-![a confusion matrix, plotting actuals versus predictions](https://assets.ibm.com/is/image/ibm/ConfusionMatrixExample:16x9?fmt=png-alpha&dpr=on%2C2.2222222222222223&wid=1584&hei=891)
+![a confusion matrix, plotting actuals versus predictions](https://assets.ibm.com/is/image/ibm/ConfusionMatrixExample?ts=1763386305637&dpr=off)
 
 ## How the linear discriminant function works
 
@@ -103,33 +98,33 @@ The within-class variance is the distance between class means and samples.
 
 This maximizes the between-class variance and minimizes the within-class variance. We can represent the linear discriminant function for two classes mathematically with the following.
 
-**δ(x) = x \* ( σ [^2] \* (μ <sub>0</sub> -μ <sub>1</sub>) - 2 \* σ <sup>2</sup> \* (μ <sub>0</sub> <sup>2</sup> -μ <sub>1</sub> <sup>2</sup>) + ln(P(w <sub>0</sub>) / P(w <sub>1</sub>)))**
+**δ(x) = x * ( σ<sup>2</sup> * (μ<sub>0</sub>-μ<sub>1</sub>) - 2 * σ<sup>2</sup> * (μ<sub>0</sub><sup>2</sup>-μ<sub>1</sub><sup>2</sup>) + ln(P(w<sub>0</sub>) / P(w<sub>1</sub>)))**
 
 Where:
 
 - **δ(x)** represents the linear discriminant function.
 - **x** represents the input data point.
-- **μ <sub>0</sub>** and **μ <sub>1</sub>** are the means of the two classes.
-- **σ <sup>2</sup>** is the common within-class variance.
-- **P(ω <sub>0</sub>)** and **P(ω <sub>1</sub>)** are the prior probabilities of the two classes.
+- **μ<sub>0</sub>** and **μ<sub>1</sub>** are the means of the two classes.
+- **σ<sup>2</sup>** is the common within-class variance.
+- **P(ω<sub>0</sub>)** and **P(ω<sub>1</sub>)** are the prior probabilities of the two classes.
 
 ### Applying LDA with an example
 
 Let's use the equation to work through a loan approval example. To recap, the bank is deciding whether to approve or reject loan applications. The bank uses two features to make this decision: the applicant's credit score (x) and annual income. The bank has collected historical data on previous loan applicants and whether the loans were approved.
 
-- **Class ω <sub>0</sub>** represents "Loan rejected."
-- **Class ω <sub>1</sub>** represents "Loan approved."
+- **Class ω<sub>0</sub>** represents "Loan rejected."
+- **Class ω<sub>1</sub>** represents "Loan approved."
 
 Using the linear discriminant function, the bank can calculate a score (**δ(x)**) for each loan application.
 
 The equation for the linear discriminant function might look similar to this:
 
-**δ(x) = x \* ( σ <sup>2</sup> \* (μ <sub>0</sub> -μ <sub>1</sub>) - 2 \* σ <sup>2</sup> \* (μ <sub>0</sub> <sup>2</sup> -μ <sub>1</sub> <sup>2</sup>) + ln(P(w <sub>0</sub>) / P(w <sub>1</sub>)))**
+**δ(x) = x * ( σ<sup>2</sup> * (μ<sub>0</sub>-μ<sub>1</sub>) - 2 * σ<sup>2</sup> * (μ<sub>0</sub><sup>2</sup>-μ<sub>1</sub><sup>2</sup>) + ln(P(w<sub>0</sub>) / P(w<sub>1</sub>)))**
 
 - **x** represents the applicant's credit score and annual income.
-- **μ <sub>0</sub>** and **μ <sub>1</sub>** are the means of these features for the two classes: "Loan rejected" and "Loan approved."
-- **σ <sup>2</sup>** is the common within-class variance.
-- **P(ω <sub>0</sub>)** is the prior probability of "Loan rejected", and **P(ω1)** is the prior probability of "Loan approved".
+- **μ<sub>0</sub>** and **μ<sub>1</sub>** are the means of these features for the two classes: "Loan rejected" and "Loan approved."
+- **σ<sup>2</sup>** is the common within-class variance.
+- **P(ω<sub>0</sub>)** is the prior probability of "Loan rejected", and **P(ω1)** is the prior probability of "Loan approved".
 
 The bank computes the linear discriminant function for each loan application.
 
@@ -142,29 +137,15 @@ The bank can thus automate its loan approval process, making quicker and more co
 
 These are typical scenarios where LDA can be applied to tackle complex problems and help organizations make better decisions.
 
-Credit risk assessment in finance
-
 To mitigate risk, financial institutions must identify and minimize credit default. LDA can help identify applicants who might be likely to default on loans from those who are creditworthy by sifting through financial factors and behavior data.
-
-Disease diagnosis in healthcare
 
 Fast and accurate disease diagnosis is crucial for effective treatment. Hospitals and healthcare providers must interpret an immense amount of medical data. LDA helps simplify complex data sets and improve diagnostic accuracy by identifying patterns and relationships in patient data.
 
-Customer segmentation in e-commerce
-
 For effective marketing, e-commerce businesses must be able to categorize diverse customer bases. LDA is pivotal in segmenting customers, enabling e-commerce companies to tailor their marketing strategies for different customer groups. The outcome is more personalized shopping experiences, increasing customer loyalty and sales.
-
-Quality control in manufacturing
 
 Producing high-quality goods while minimizing defects is a fundamental challenge. Sensor data from machinery can be used with LDA to identify patterns associated with defects. By detecting irregularities in real-time, manufacturers can take immediate corrective actions, and they can improve product quality and reduce wastage.
 
-Campaign optimization in marketing
-
 You can maximize your advertising budget by targeting the right audience with personalized content, but identifying those respective audience segments can be difficult. LDA can simplify this process by classifying customer attributes and behaviors, enhancing the customization of advertising campaigns. This approach can lead to a higher return on investment (ROI) and a better customer experience.
-
-### Win the enterprise AI race
-
-Join Arvind Krishna to see how IBM is enabling AI-first enterprises through hybrid cloud and emerging quantum capabilities.
 
 ## Linear discriminant analysis and Python
 
@@ -172,9 +153,10 @@ To delve deeper into linear discriminant analysis with Python and leverage the [
 
 For the step-by-step tutorial, you will first import the necessary Python libraries to work with the Iris dataset, perform data preprocessing, and create and evaluate your LDA model:
 
-`**<Python code snippet>**`
+**<Python code snippet>**
 
-```elm
+```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -189,7 +171,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 
 If the libraries are not installed, you can resolve this using pip install.
 
-See also this [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html#examples-using-sklearn-discriminant-analysis-lineardiscriminantanalysis) documentation for an overview of key parameters, attributes and general examples of Python implementations using sklearn.discriminant\_analysis.LinearDiscriminantAnalysis.
+See also this [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html#examples-using-sklearn-discriminant-analysis-lineardiscriminantanalysis) documentation for an overview of key parameters, attributes and general examples of Python implementations using sklearn.discriminant_analysis.LinearDiscriminantAnalysis.
 
 ## Advantages and disadvantages of using linear discriminant analysis
 
@@ -203,36 +185,20 @@ Understanding the advantages and limitations of linear discriminant analysis (LD
 
 ### Key disadvantages
 
-**\- Shared mean distributions:** LDA encounters challenges when class distributions share means. LDA struggles to create a new axis that linearly separates both classes. As a result, LDA might not effectively discriminate between classes with overlapping statistical properties. For example, imagine a scenario in which two species of flowers have highly similar petal length and width. LDA may find it difficult to separate these species based on these features alone. Alternative techniques, such as nonlinear discriminant analysis methods, are preferred here.
+**- Shared mean distributions:** LDA encounters challenges when class distributions share means. LDA struggles to create a new axis that linearly separates both classes. As a result, LDA might not effectively discriminate between classes with overlapping statistical properties. For example, imagine a scenario in which two species of flowers have highly similar petal length and width. LDA may find it difficult to separate these species based on these features alone. Alternative techniques, such as nonlinear discriminant analysis methods, are preferred here.
 
-**\- Not suitable for unlabeled data:** LDA is applied as a supervised learning algorithm–that is, it classifies or separates labeled data. In contrast, principal component analysis (PCA), another dimension reduction technique, ignores class labels and preserves variance.
+**- Not suitable for unlabeled data:** LDA is applied as a supervised learning algorithm–that is, it classifies or separates labeled data. In contrast, principal component analysis (PCA), another dimension reduction technique, ignores class labels and preserves variance.
 
-[IBM X-Force Threat Intelligence Index 2026](https://www.ibm.com/reports/threat-intelligence)
+## Footnotes
 
-[
+<sup>1</sup> [James Joyce. *Bayes' Theorem.* Stanford Encyclopedia of Philosophy. 2003](https://plato.stanford.edu/entries/bayes-theorem/)
 
-Gain insights to prepare and respond to cyberattacks with greater speed and effectiveness with the IBM X-Force® Threat Intelligence Index.
+<sup>2</sup>Dan A. Simovici. Lecture notes on Fisher Linear Discriminant Analysis. 2013
 
-](https://www.ibm.com/reports/threat-intelligence)
+<sup>3 </sup>[Penn State Eberly College of Science. Linear Discriminant Analysis. 2023](https://online.stat.psu.edu/stat508/)
 
-## Resources
+<sup>4 </sup>[J. T. Oates. Lecture notes on Linear Discriminant Analysis. 2014](https://courses.cs.umbc.edu/graduate/678/fall14/LDA.pdf)
 
-[IBM is named a Leader in Data Science & Machine Learning](https://www.ibm.com/account/reg/signup?formid=urx-53728)
+<sup>5 </sup>[Guangliang Chen. Lecture notes on Linear Discriminant Analysis (LDA). 2020](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf)
 
-[
-
-Learn why IBM has been recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Data Science and Machine Learning Platforms.
-
-](https://www.ibm.com/account/reg/signup?formid=urx-53728)
-
-[^1]: [James Joyce. *Bayes' Theorem.* Stanford Encyclopedia of Philosophy. 2003](https://plato.stanford.edu/entries/bayes-theorem/)
-
-[^2]: Dan A. Simovici. Lecture notes on Fisher Linear Discriminant Analysis. 2013
-
-[^3]: [Penn State Eberly College of Science. Linear Discriminant Analysis. 2023](https://online.stat.psu.edu/stat508/)
-
-[^4]: [J. T. Oates. Lecture notes on Linear Discriminant Analysis. 2014](https://courses.cs.umbc.edu/graduate/678/fall14/LDA.pdf)
-
-[^5]: [Guangliang Chen. Lecture notes on Linear Discriminant Analysis (LDA). 2020](https://www.sjsu.edu/faculty/guangliang.chen/Math253S20/lec11lda.pdf)
-
-<sup>6, 7</sup> [scikit-learn. Linear and Quadratic Discriminant Analysis. 2023](https://scikit-learn.org/stable/modules/lda_qda.html)#5/21/2026
+<sup>6, 7 </sup>[scikit-learn. Linear and Quadratic Discriminant Analysis. 2023](https://scikit-learn.org/stable/modules/lda_qda.html)
