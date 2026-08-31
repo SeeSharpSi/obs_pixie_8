@@ -1,1 +1,1 @@
-#<% tp.file.creation_date("M/D/YYYY") %>
+#<% tp.file.creation_date("YYYY-MM-DD") %>
