@@ -1,4 +1,4 @@
-#7/28/2026 
+#2026-07-28 
 
 A CLI program that allows you to specify a markdown file and then create a shareable link to it.
 

@@ -1,4 +1,4 @@
-#5/30/2026 #hebrews
+#2026-05-30 #hebrews
 
 So we become offspring, then receive help? 
 > [!bible]+ [Hebrews 2:16 - ESV](https://bolls.life/ESV/58/2/)

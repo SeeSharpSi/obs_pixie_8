@@ -1,4 +1,4 @@
-#7/6/2026
+#2026-07-06
 
 1. Victory in Jesus 
 	* No drums 

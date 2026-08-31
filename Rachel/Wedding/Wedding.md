@@ -1,4 +1,4 @@
-#5/24/2026 #wip 
+#2026-05-24 #wip 
 
 # Pre-wedding 
 1. Parties 

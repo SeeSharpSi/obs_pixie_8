@@ -5,7 +5,7 @@ model: 'Claude Opus 4'
 
 # Wedding Registry Checklist
 
-#6/14/2026 #wip
+#2026-06-14 #wip
 
 # Wedding Registry Checklist
 **Wedding Date:** August 8, 2026

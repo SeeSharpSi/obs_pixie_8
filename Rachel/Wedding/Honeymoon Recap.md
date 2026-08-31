@@ -1,4 +1,4 @@
-#8/15/2026
+#2026-08-15
 
 1. Fav place ate
 	1. Rachel: last night dinner (esp potato soup)

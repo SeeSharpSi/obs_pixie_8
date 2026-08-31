@@ -1,4 +1,4 @@
-#7/19/2026 #wip 
+#2026-07-19 #wip 
 
 # Unavoidable costs 
 3895.13

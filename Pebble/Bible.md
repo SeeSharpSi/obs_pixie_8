@@ -1,4 +1,4 @@
-#6/18/2026
+#2026-06-18
 Bookmark Bible verses 
 Choose Bible version in phone 
 Convert Bolls English bibles to sqlite DB that lives on phone 

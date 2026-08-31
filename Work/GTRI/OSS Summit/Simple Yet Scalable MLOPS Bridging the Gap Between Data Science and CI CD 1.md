@@ -1,4 +1,4 @@
-#5/18/2026 #cdCon 
+#2026-05-18 #cdCon 
 
 
 Observability for k8s 

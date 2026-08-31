@@ -1,4 +1,4 @@
-#8/5/2026 #wip 
+#2026-08-05 #wip 
 
 - I vow to lead you and our family in the ways of the Lord 
 

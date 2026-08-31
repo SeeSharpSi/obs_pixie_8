@@ -1,4 +1,4 @@
-#6/6/2026 #wip 
+#2026-06-06 #wip 
 * [x] Has access to my obsidian notes 
 	* [x] Would require hosting/mirroring them on my own server 
 * [x] Web search 

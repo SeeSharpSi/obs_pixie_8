@@ -1,4 +1,4 @@
-#8/13/2026
+#2026-08-13
 
 1. Making fun drinks 
 2. Mass cook breakfast burritos 

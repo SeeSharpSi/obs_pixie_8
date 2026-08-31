@@ -1,4 +1,4 @@
-#6/1/2026 #wip 
+#2026-06-01 #wip 
 
 I appreciate it; I only saw the dates in the invoice but not the times.
 

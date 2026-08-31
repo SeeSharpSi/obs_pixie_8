@@ -1,4 +1,4 @@
-#5/16/2026
+#2026-05-16
 # cdCon / Open Source Summit Schedule
 
 ## Date

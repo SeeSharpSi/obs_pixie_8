@@ -1,4 +1,4 @@
-#6/1/2026
+#2026-06-01
 
 - [ ] my obsidian vaults got should be mirrored to it 
 

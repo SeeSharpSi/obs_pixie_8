@@ -1,4 +1,4 @@
-#5/18/2026
+#2026-05-18
 
 * "The world around is is quantum in nature" 
 	* ...

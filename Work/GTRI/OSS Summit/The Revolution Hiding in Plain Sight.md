@@ -1,4 +1,4 @@
-#5/18/2026 #cdCon
+#2026-05-18 #cdCon
 
 * ConfLiguration 
 * The AI isn't the author, it's the reader

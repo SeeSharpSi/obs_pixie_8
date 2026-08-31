@@ -1,4 +1,4 @@
-#8/17/2026 #wip 
+#2026-08-17 #wip 
 
 # To Buy 
 1. Home Assistant capable lights (e.g. dimmable lights) 

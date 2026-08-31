@@ -1,3 +1,3 @@
-#5/18/2026 #cdCon 
+#2026-05-18 #cdCon 
 * Essentially, uses ref:// as pointer to actual artifact instead of artifact itself 
 * 

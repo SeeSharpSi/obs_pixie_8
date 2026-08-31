@@ -1,4 +1,4 @@
-#5/20/2026 
+#2026-05-20 
 ![[PXL_20260520_160137133.jpg]]
 ![[PXL_20260520_160411937.jpg]]
 * What's the benefit to caching this rather than caching tool calls? 
