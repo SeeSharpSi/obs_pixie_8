@@ -556,13 +556,14 @@
             "id": "9b61d78eabc22c84",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "wip.base",
-                "viewName": "Table"
+                "file": "Work/Wes 1-on-1.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "wip"
+              "icon": "lucide-file",
+              "title": "Wes 1-on-1"
             }
           }
         ],
@@ -716,8 +717,8 @@
   },
   "active": "9b61d78eabc22c84",
   "lastOpenFiles": [
-    "README.md",
     "wip.base",
+    "README.md",
     "/plugin-folders/templ/file-creation-templ.md.md",
     "/plugin-folders/templ",
     "/plugin-folders",
@@ -749,7 +750,6 @@
     "/Work/GTRI/OSS Summit/Platform Engineering - Herding the Electric Sheep.md",
     "/Work/GTRI/OSS Summit/Panel Discussion Building an Enterprise Platform for Production-Ready Agents.md",
     "/Work/GTRI/OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
-    "/Work/GTRI/OSS Summit/Ortelius V12, Post-Deployment Security Defense for DevSecOps.md",
     "/Work/GTRI/OSS Summit",
     "/Work/GTRI",
     "pictures/Screenshot_20260702-185556.png",
