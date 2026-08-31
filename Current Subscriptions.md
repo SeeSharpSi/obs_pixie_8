@@ -18,3 +18,7 @@ Cancelled:
 Switched to AI Plus ($5)
 Will switch to YouTube Premium Lite ($9) - cancelled current subscription 
 Discord Nitro
+
+
+Dave prayer
+North Virginia neice wedding older brother memory 

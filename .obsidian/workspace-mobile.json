@@ -558,12 +558,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills/Untitled.md",
+                "file": "Current Subscriptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Current Subscriptions"
             }
           }
         ],
@@ -597,7 +597,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "file: gam",
+            "query": "Discord",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -634,7 +634,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "a75c9181b8e12027",
@@ -717,8 +717,8 @@
   },
   "active": "9b61d78eabc22c84",
   "lastOpenFiles": [
-    "Groomsmen Thanks.md",
     "Skills/Untitled.md",
+    "Groomsmen Thanks.md",
     "Untitled 1",
     "Skills",
     "Home Assistant.md",
