@@ -9,9 +9,9 @@ model: 'Claude Opus 4'
 
 # Wedding Registry Checklist
 **Wedding Date:** August 8, 2026
-**Fiancée:** [[Rachel/Wedding|Rachel]]
+**Fiancée:** [[Rachel/Wedding/Wedding|Rachel]]
 
-> Compiled from existing [[Rachel/Registry|Registry]] note, 2026 registry trends, and honeymoon plans. Items already on the old registry are checked off.
+> Compiled from existing [[Rachel/Wedding/Registry|Registry]] note, 2026 registry trends, and honeymoon plans. Items already on the old registry are checked off.
 
 ---
 
@@ -246,7 +246,7 @@ model: 'Claude Opus 4'
 - Don't forget a **completion discount** — most platforms offer 10-20% off remaining items after the wedding
 
 ## Related Notes
-- [[Rachel/Wedding|Wedding Plan]]
-- [[Rachel/Registry|Original Registry]]
-- [[Rachel/Honeymoon Plans|Honeymoon Plans]]
-- [[Rachel wedding gift ideas|Wedding Gift Ideas for Rachel]]
+- [[Rachel/Wedding/Wedding|Wedding Plan]]
+- [[Rachel/Wedding/Registry|Original Registry]]
+- [[Rachel/Wedding/Honeymoon Plans|Honeymoon Plans]]
+- [[Rachel/Wedding/Rachel wedding gift ideas|Wedding Gift Ideas for Rachel]]
