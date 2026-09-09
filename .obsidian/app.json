@@ -24,5 +24,6 @@
     "editor:insert-footnote",
     "local-gpt:quick-access-1",
     "editor:configure-toolbar"
-  ]
+  ],
+  "propertiesInDocument": "visible"
 }

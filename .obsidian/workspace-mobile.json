@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Honeymoon Recap.md",
-                "mode": "source",
+                "file": "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Honeymoon Recap"
+              "title": "1 What is Machine Learning"
             }
           },
           {
@@ -558,16 +558,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Wes 1-on-1.md",
+                "file": "plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression/1 What Is Linear Regression.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wes 1-on-1"
+              "title": "1 What Is Linear Regression"
+            }
+          },
+          {
+            "id": "d84098cc955f7333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible_and_Theology/Scripture/Parable of the Soil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parable of the Soil"
+            }
+          },
+          {
+            "id": "b7d40300f15ad2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prayer List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prayer List"
             }
           }
         ],
-        "currentTab": 39
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -597,7 +625,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Discord",
+            "query": "tag:#clippings",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -631,6 +659,20 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "8f1ae071c6b532eb",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -710,48 +752,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-bible-reference:Bible Verse Lookup": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9b61d78eabc22c84",
+  "active": "b7d40300f15ad2ae",
   "lastOpenFiles": [
-    "wip.base",
-    "README.md",
-    "/plugin-folders/templ/file-creation-templ.md.md",
-    "/plugin-folders/templ",
-    "/plugin-folders",
-    "/pictures/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
-    "/pictures",
-    "/llm_thing/Wedding Registry Checklist.md",
-    "/llm_thing",
-    "/dgroup/dgroup.md",
-    "/dgroup/dGroup Prayer.md",
-    "/dgroup",
-    "/copilot/copilot-custom-prompts/Codebase Simplification Audit.md",
-    "/copilot/copilot-custom-prompts",
-    "/copilot",
-    "/Work/Wes 1-on-1.md",
-    "/Work/GTRI/OSS Summit/cdCon Town Hall.md",
-    "/Work/GTRI/OSS Summit/cdCon Packing List.md",
-    "/Work/GTRI/OSS Summit/Zephyr.md",
-    "/Work/GTRI/OSS Summit/Why Don't Al Technologies and CI CD Pipelines Get Along.md",
-    "/Work/GTRI/OSS Summit/Where Deployment Authority Lives A Cloud Native Design Pitfall in GitOps.md",
-    "/Work/GTRI/OSS Summit/When Similar ls Good Enough - Rethinking Caching for Al.md",
-    "/Work/GTRI/OSS Summit/When Pipelines Decide Governing Speed, Trust, and Accountability in Al-Driven CI CD.md",
-    "/Work/GTRI/OSS Summit/Welcome & Opening Remarks.md",
-    "/Work/GTRI/OSS Summit/The Revolution Hiding in Plain Sight.md",
-    "/Work/GTRI/OSS Summit/Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD.md",
-    "/Work/GTRI/OSS Summit/Simple Yet Scalable MLOPS Bridging the Gap Between Data Science and CI CD 1.md",
-    "/Work/GTRI/OSS Summit/Security Things How OpenSSFs Technical Initiatives Keep You Safe From the Upside Down.md",
-    "/Work/GTRI/OSS Summit/Rando.md",
-    "/Work/GTRI/OSS Summit/Quantum - IBM.md",
-    "/Work/GTRI/OSS Summit/Platform Engineering - Herding the Electric Sheep.md",
-    "/Work/GTRI/OSS Summit/Panel Discussion Building an Enterprise Platform for Production-Ready Agents.md",
-    "/Work/GTRI/OSS Summit/Panel - Protecting the Software Supply Chain with Al.md",
-    "/Work/GTRI/OSS Summit",
-    "/Work/GTRI",
+    "Prayer List.md",
+    "Bible_and_Theology/Scripture/Parable of the Soil.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
+    "Bible_and_Theology/Scripture/ephesians.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/8 AI code generation/2 What is Vibe Coding.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/8 AI code generation/1 What is AI code generation.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/7 Retrieval augmented generation (RAG)/2 What is GraphRAG.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/7 Retrieval augmented generation (RAG)/1 What is RAG (Retrieval Augmented Generation).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI/2 What Are Vision Language Models (VLMs).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI/1 What is Multimodal AI.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/3 What are Generative Adversarial Networks (GANs).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/2 What is a Variational Autoencoder.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/1 What are Diffusion Models.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/9 What Is LLM Alignment.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/8 What Is LLM Customization.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/7 What Are LLM Benchmarks.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/6 What is LLM Temperature.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/5 What Are LLM Parameters.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/4 What Is Instruction Tuning.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/3 What are Small Language Models (SLM).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/2 What Is a Reasoning Model.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/1 What Are Large Language Models (LLMs).md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/3 Generative AI vs. predictive AI What’s the difference.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/2 What is a Generative Model.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/1 What is Generative AI.md",
+    "plugin-folders/Clippings/IBM - Machine Learning/8 Deep Learning/9 What is a Graph Neural Network.md",
+    "/plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
+    "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
+    "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",
+    "/plugin-folders/Clippings/IBM - Machine Learning/2 Data science for machine learning",
+    "/plugin-folders/Clippings/IBM - Machine Learning/1 Introduction",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/8 AI code generation",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/7 Retrieval augmented generation (RAG)",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation",
+    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)",
     "pictures/Screenshot_20260702-185556.png",
     "pictures/Screenshot_20260702-181048 1.png",
     "pictures/Screenshot_20260702-181048.png",

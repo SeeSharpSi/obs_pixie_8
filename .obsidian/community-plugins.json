@@ -1,7 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-bible-reference",
   "templater-obsidian",
-  "local-gpt",
-  "ai-providers"
+  "obsidian-minimal-settings"
 ]
