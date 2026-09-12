@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prayer List.md",
+                "file": "Bible_and_Theology/Scripture/Parable of the Soil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prayer List"
+              "title": "Parable of the Soil"
             }
           },
           {
@@ -621,8 +621,23 @@
               "icon": "lucide-file",
               "title": "Jesus's Anecdote to Anxiety"
             }
+          },
+          {
+            "id": "f33bd204516c962a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board Game Groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board Game Groups"
+            }
           }
-        ]
+        ],
+        "currentTab": 44
       }
     ],
     "direction": "vertical"
@@ -783,14 +798,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "44cb9d858b0025a4",
+  "active": "f33bd204516c962a",
   "lastOpenFiles": [
+    "Board Game Groups.md",
+    "Bible_and_Theology/Scripture/Parable of the Soil.md",
+    "Prayer List.md",
     "wip.base",
     "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
     "pictures/PXL_20260909_193216842.jpg",
     "Bible_and_Theology/Jesus's Anecdote to Anxiety.md",
-    "Prayer List.md",
-    "Bible_and_Theology/Scripture/Parable of the Soil.md",
     "Bible_and_Theology/Scripture/ephesians.md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/8 AI code generation/2 What is Vibe Coding.md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/8 AI code generation/1 What is AI code generation.md",
@@ -821,7 +837,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/7 Retrieval augmented generation (RAG)",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)",
     "pictures/Screenshot_20260702-185556.png",
     "pictures/Screenshot_20260702-181048 1.png",
     "pictures/Screenshot_20260702-181048.png",
