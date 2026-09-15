@@ -1,6 +1,7 @@
 ---
 created: 2026-07-07
 ---
+#wip 
 
 "I have some questions about my professional development" 
 
