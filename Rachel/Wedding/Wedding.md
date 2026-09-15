@@ -1,8 +1,6 @@
 ---
 created: 2026-05-24
 ---
-#wip
-
 # Pre-wedding 
 1. Parties 
 	1. Bachelor (Twilight Imperium)

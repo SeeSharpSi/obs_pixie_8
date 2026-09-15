@@ -1,8 +1,6 @@
 ---
 created: 2026-06-14
 ---
-#wip
-
 1. Food processor 
 2. Cutting boards 
 	1. Nice and wooden

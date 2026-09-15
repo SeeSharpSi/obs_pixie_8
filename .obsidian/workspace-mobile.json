@@ -640,14 +640,13 @@
             "id": "c9eaa70e5f34b948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Rachel/Wedding/Ceremony.md",
-                "mode": "source",
-                "source": false
+                "file": "wip.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Ceremony"
+              "icon": "lucide-table",
+              "title": "wip"
             }
           }
         ],
@@ -815,7 +814,16 @@
   },
   "active": "c9eaa70e5f34b948",
   "lastOpenFiles": [
+    "To_Do/Inbox.md",
     "wip.base",
+    "Rachel/Wedding/Honeymoon Plans.md",
+    "Rachel/Wedding/Registry Shopping.md",
+    "llm_thing/Wedding Registry Checklist.md",
+    "Rachel/Wedding/Wedding.md",
+    "Personal/Games/Tavern Card Game.md",
+    "Rachel/Wedding/Vows.md",
+    "Rachel/Wedding/Registry.md",
+    "Rachel/Wedding/Ceremony.md",
     "Prayer List.md",
     "Personal/Events/Odyssey Party.md",
     "Personal/Finance/Cutting Spending.md",
@@ -834,14 +842,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/7 Retrieval augmented generation (RAG)/1 What is RAG (Retrieval Augmented Generation).md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI/2 What Are Vision Language Models (VLMs).md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/6 Multimodal AI/1 What is Multimodal AI.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/3 What are Generative Adversarial Networks (GANs).md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/2 What is a Variational Autoencoder.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/5 AI image generation/1 What are Diffusion Models.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/9 What Is LLM Alignment.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/8 What Is LLM Customization.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/7 What Are LLM Benchmarks.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/6 What is LLM Temperature.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/5 What Are LLM Parameters.md",
     "/plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
     "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
     "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",

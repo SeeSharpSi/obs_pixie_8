@@ -1,7 +1,6 @@
 ---
 created: 2026-05-19
 ---
-#wip
 * System d quadlets for containers 
 * Boot c
 * Ask Wes about comptia AI certification 
