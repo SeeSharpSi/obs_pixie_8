@@ -642,12 +642,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Finance/Cutting Spending.md",
+                "file": "Rachel/Wedding/Ceremony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cutting Spending"
+              "title": "Ceremony"
             }
           }
         ],
@@ -816,9 +816,11 @@
   "active": "c9eaa70e5f34b948",
   "lastOpenFiles": [
     "wip.base",
+    "Prayer List.md",
+    "Personal/Events/Odyssey Party.md",
+    "Personal/Finance/Cutting Spending.md",
     "Board Game Groups.md",
     "Work/Wes 1-on-1.md",
-    "Prayer List.md",
     "Marriage Advice.md",
     "Bible_and_Theology/Church/church_9_13_2026.md",
     "Bible_and_Theology/Scripture/Parable of the Soil.md",
@@ -840,8 +842,6 @@
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/7 What Are LLM Benchmarks.md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/6 What is LLM Temperature.md",
     "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/5 What Are LLM Parameters.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/4 What Is Instruction Tuning.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/9 Generative AI/4 Large language models (LLMs)/3 What are Small Language Models (SLM).md",
     "/plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
     "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",
     "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering",

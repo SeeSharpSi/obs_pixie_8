@@ -1,8 +1,6 @@
 ---
 created: 2026-07-04
 ---
-#wip
-
 * Ben Popham 
 * Mitch
 * Rachel 
