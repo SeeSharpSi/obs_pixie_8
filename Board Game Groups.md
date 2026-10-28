@@ -8,3 +8,9 @@ created: 2026-09-12
 - John Ingram? 
 - Seth Taylor 
 - Zach?
+
+# Nemesis 
+- Brayden 
+- Mitch
+- Peter 
+- Andrew
