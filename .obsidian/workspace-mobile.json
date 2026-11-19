@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible_and_Theology/Scripture/Parable of the Soil.md",
+                "file": "Pebble_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parable of the Soil"
+              "title": "Pebble_Notes"
+            }
+          },
+          {
+            "id": "141deecf868481b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pebble Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pebble Notes"
             }
           },
           {
@@ -726,16 +740,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logos AI Chat.md",
+                "file": "Kritui.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logos AI Chat"
+              "title": "Kritui"
+            }
+          },
+          {
+            "id": "012da5e449d5214c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dgroup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dgroup"
+            }
+          },
+          {
+            "id": "af0f95dd82ac5988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To do"
+            }
+          },
+          {
+            "id": "1b42d52c8a9d0b53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pebble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pebble"
+            }
+          },
+          {
+            "id": "30df8448829027d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mr pack config.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mr pack config"
+            }
+          },
+          {
+            "id": "e79b52810d5c3941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worship site.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Worship site"
+            }
+          },
+          {
+            "id": "b78b106f8255f3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mr pack config.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mr pack config"
+            }
+          },
+          {
+            "id": "843bea971d9aa417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Board Game Groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Board Game Groups"
+            }
+          },
+          {
+            "id": "85ffb0f515aad927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expression of the Author.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expression of the Author"
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 60
       }
     ],
     "direction": "vertical"
@@ -861,7 +987,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Prayer List.md",
+            "file": "Mr pack config.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -897,14 +1023,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e960be1ebe93c12f",
+  "active": "85ffb0f515aad927",
   "lastOpenFiles": [
-    "Logos AI Chat.md",
+    "Expression of the Author.md",
+    "Board Game Groups.md",
+    "Mr pack config.md",
+    "Story.md",
+    "Devo Prep.md",
+    "Worship site.md",
+    "Pebble Notes.md",
+    "Pebble Reminders.md",
+    "Bible_and_Theology/Scripture/Parable of the Soil.md",
+    "To do.md",
+    "Dgroup.md",
     "Kritui.md",
+    "Logos AI Chat.md",
     "Rachel/Shared Ideas.md",
     "LLM Thing.md",
     "Plan.md",
-    "Bible_and_Theology/Scripture/Parable of the Soil.md",
     "Projects/Self Service.md",
     "wip.base",
     "Philosophy/What is Art.md",
@@ -912,7 +1048,6 @@
     "Archive",
     "Projects",
     "Philosophy",
-    "Board Game Groups.md",
     "Prayer List.md",
     "To_Do/Inbox.md",
     "Rachel/Wedding/Honeymoon Plans.md",
@@ -920,15 +1055,6 @@
     "llm_thing/Wedding Registry Checklist.md",
     "Rachel/Wedding/Wedding.md",
     "Personal/Games/Tavern Card Game.md",
-    "Rachel/Wedding/Vows.md",
-    "Rachel/Wedding/Registry.md",
-    "Rachel/Wedding/Ceremony.md",
-    "Personal/Events/Odyssey Party.md",
-    "Personal/Finance/Cutting Spending.md",
-    "Work/Wes 1-on-1.md",
-    "Marriage Advice.md",
-    "Bible_and_Theology/Church/church_9_13_2026.md",
-    "plugin-folders/Clippings/IBM - Machine Learning/1 Introduction/1 What is Machine Learning.md",
     "pictures/PXL_20260909_193216842.jpg",
     "/plugin-folders/Clippings/IBM - Machine Learning/4 Supervised learning/2 Regression",
     "/plugin-folders/Clippings/IBM - Machine Learning/3 Feature Engineering/6 Dimensionality reduction",

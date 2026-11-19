@@ -6,5 +6,6 @@
     "bible-reference"
   ],
   "cssTheme": "Minimal",
-  "floatingNavigation": true
+  "floatingNavigation": true,
+  "showRibbon": true
 }
