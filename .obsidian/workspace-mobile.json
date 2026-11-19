@@ -852,12 +852,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expression of the Author.md",
+                "file": "LLM Thing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expression of the Author"
+              "title": "LLM Thing"
             }
           }
         ],
