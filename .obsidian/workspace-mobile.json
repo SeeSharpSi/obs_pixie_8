@@ -656,7 +656,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Board Game Groups.md",
+                "file": "Personal/Games/Board Game Groups.md",
                 "mode": "source",
                 "source": false
               },
@@ -698,7 +698,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "To_Do/Plan.md",
                 "mode": "source",
                 "source": false
               },
@@ -726,7 +726,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kritui.md",
+                "file": "Projects/Kritui.md",
                 "mode": "source",
                 "source": false
               },
@@ -740,7 +740,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kritui.md",
+                "file": "Projects/Kritui.md",
                 "mode": "source",
                 "source": false
               },
@@ -754,12 +754,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dgroup.md",
+                "file": "dgroup/Dgroup Priorities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dgroup"
+              "title": "Dgroup Priorities"
             }
           },
           {
@@ -796,7 +796,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mr pack config.md",
+                "file": "Personal/Games/Mr pack config.md",
                 "mode": "source",
                 "source": false
               },
@@ -810,7 +810,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worship site.md",
+                "file": "Projects/Worship site.md",
                 "mode": "source",
                 "source": false
               },
@@ -824,7 +824,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mr pack config.md",
+                "file": "Personal/Games/Mr pack config.md",
                 "mode": "source",
                 "source": false
               },
@@ -838,7 +838,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Board Game Groups.md",
+                "file": "Personal/Games/Board Game Groups.md",
                 "mode": "source",
                 "source": false
               },
@@ -987,7 +987,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mr pack config.md",
+            "file": "Personal/Games/Mr pack config.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -1026,21 +1026,21 @@
   "active": "85ffb0f515aad927",
   "lastOpenFiles": [
     "Expression of the Author.md",
-    "Board Game Groups.md",
-    "Mr pack config.md",
-    "Story.md",
-    "Devo Prep.md",
-    "Worship site.md",
+    "Personal/Games/Board Game Groups.md",
+    "Personal/Games/Mr pack config.md",
+    "Poetry/Story.md",
+    "dgroup/Devo Prep.md",
+    "Projects/Worship site.md",
     "Pebble Notes.md",
     "Pebble Reminders.md",
     "Bible_and_Theology/Scripture/Parable of the Soil.md",
     "To do.md",
-    "Dgroup.md",
-    "Kritui.md",
-    "Logos AI Chat.md",
+    "dgroup/Dgroup Priorities.md",
+    "Projects/Kritui.md",
+    "Bible_and_Theology/Theology_and_Apologetics/Logos AI Chat.md",
     "Rachel/Shared Ideas.md",
-    "LLM Thing.md",
-    "Plan.md",
+    "Projects/Pebble/LLM Thing.md",
+    "To_Do/Plan.md",
     "Projects/Self Service.md",
     "wip.base",
     "Philosophy/What is Art.md",
