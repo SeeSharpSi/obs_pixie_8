@@ -1,5 +1,7 @@
 ---
 created: 2026-08-29
+type: plan
+topic: finance
 ---
 
 Gross: $3191.31 (post health insurance + retirement) 

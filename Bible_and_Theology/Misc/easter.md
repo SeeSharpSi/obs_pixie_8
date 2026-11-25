@@ -1,5 +1,7 @@
 ---
 book: luke
+type: sermon
+topic: theology
 ---
 #bible #mike
 

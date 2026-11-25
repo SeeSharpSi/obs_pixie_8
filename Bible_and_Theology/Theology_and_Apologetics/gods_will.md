@@ -1,5 +1,7 @@
 ---
 speaker: the_well
+type: essay
+topic: theology
 ---
 #bible
 

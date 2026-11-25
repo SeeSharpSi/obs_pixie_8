@@ -1,3 +1,8 @@
+---
+type: list
+topic: food
+---
+
 # Snacks
 * Cheez-Its or goldfish
 

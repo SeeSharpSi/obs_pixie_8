@@ -1,3 +1,8 @@
+---
+type: study
+topic: theology
+---
+
 #bible
 
 # 05-02-2024 

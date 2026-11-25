@@ -1,5 +1,8 @@
 ---
 created: 2026-06-01
+type: project
+topic: tech
+status: idea
 ---
 
 - [ ] my obsidian vaults got should be mirrored to it 

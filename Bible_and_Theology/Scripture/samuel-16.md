@@ -1,5 +1,7 @@
 ---
 book: 1-samuel
+type: reference
+topic: theology
 ---
 #bible
 

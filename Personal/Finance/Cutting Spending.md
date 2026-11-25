@@ -1,5 +1,7 @@
 ---
 created: 2026-07-19
+type: plan
+topic: finance
 ---
 # Unavoidable costs 
 3895.13

@@ -1,5 +1,7 @@
 ---
 created: 2026-07-08
+type: list
+topic: finance
 ---
 1. Discord Nitro $10
 2. Apple Music $6.00

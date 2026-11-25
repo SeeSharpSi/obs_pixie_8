@@ -1,3 +1,8 @@
+---
+type: list
+topic: tech
+---
+
 * Make navbar not replace outer "page" div - that's more complicated 
 * Try not replacing whole page... Maybe that's easier, and will load fast like [the top comment](https://stackoverflow.com/questions/9502510/navigation-bar-that-doesnt-reload) suggests!
 * Gitlab runner compiles, sftp into gendevtools and puts code 

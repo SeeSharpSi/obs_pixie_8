@@ -1,5 +1,7 @@
 ---
 created: 2026-06-29
+type: reference
+topic: relationships
 ---
 * [suit](https://www.azazie.com/products/james-dark-navy-3-piece-suit/78209384) 
 

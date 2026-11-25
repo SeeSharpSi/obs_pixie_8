@@ -1,3 +1,8 @@
+---
+type: list
+topic: home
+---
+
 Light bulb
 Oreo cosmic brownies
 Redbull

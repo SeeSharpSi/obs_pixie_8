@@ -1,5 +1,8 @@
 ---
 created: 2026-06-06
+type: project
+topic: tech
+status: wip
 ---
 #wip
 * [x] Has access to my obsidian notes 

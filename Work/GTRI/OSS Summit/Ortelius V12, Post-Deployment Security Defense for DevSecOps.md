@@ -1,5 +1,7 @@
 ---
 created: 2026-05-18
+type: conference
+topic: work
 ---
 * Maps digital twin to run time environment (RTE) 
 ![[PXL_20260518_185019707.jpg]]

@@ -1,5 +1,8 @@
 ---
 created: 2026-10-26
+type: project
+topic: tech
+status: idea
 ---
 # config 
 ```

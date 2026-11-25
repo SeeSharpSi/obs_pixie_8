@@ -1,5 +1,7 @@
 ---
 created: 2026-05-18
+type: conference
+topic: work
 ---
 * ConfLiguration 
 * The AI isn't the author, it's the reader

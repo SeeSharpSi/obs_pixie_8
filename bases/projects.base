@@ -1,0 +1,14 @@
+filters:
+  and:
+    - 'note.type == "project"'
+views:
+  - type: table
+    name: Projects
+    order:
+      - file.name
+      - topic
+      - status
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

@@ -1,5 +1,7 @@
 ---
 book: 1-timothy
+type: reference
+topic: theology
 ---
 #bible
 

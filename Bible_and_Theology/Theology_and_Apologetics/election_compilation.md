@@ -1,3 +1,8 @@
+---
+type: reference
+topic: theology
+---
+
 #bible
 
 > [!bible]+ [John 6:37 - ESV](https://bolls.life/ESV/43/6/)

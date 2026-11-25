@@ -1,5 +1,7 @@
 ---
 course: swe3643
+type: assignment
+topic: school
 ---
 #school
 

@@ -1,5 +1,7 @@
 ---
 course: swe3313
+type: task
+topic: school
 ---
 #school
 

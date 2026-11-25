@@ -1,5 +1,7 @@
 ---
 created: 2026-05-16
+type: itinerary
+topic: work
 ---
 # cdCon / Open Source Summit Schedule
 

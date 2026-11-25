@@ -1,5 +1,7 @@
 ---
 created: 2026-11-03
+type: log
+topic: tech
 ---
 - notes created by my pebble watch obsidian plugin
 

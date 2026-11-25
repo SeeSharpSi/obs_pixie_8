@@ -1,5 +1,7 @@
 ---
 created: 2026-05-19
+type: conference
+topic: work
 ---
 * <u>P</u>olicy <u>a</u>s <u>C</u>ode
 * 

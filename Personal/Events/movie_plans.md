@@ -1,3 +1,8 @@
+---
+type: plan
+topic: personal
+---
+
 # spirited away + pizza 
 Invite list: 
 * Nate

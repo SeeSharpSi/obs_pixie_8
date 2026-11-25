@@ -1,3 +1,8 @@
+---
+type: poem
+topic: personal
+---
+
 Grander earth has quaked before
 Moved by the sound of His voice
 And seas that are shaken and stirred

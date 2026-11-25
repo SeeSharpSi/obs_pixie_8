@@ -1,6 +1,8 @@
 ---
 created: 2026-05-30
 book: hebrews
+type: reference
+topic: theology
 ---
 #bible
 

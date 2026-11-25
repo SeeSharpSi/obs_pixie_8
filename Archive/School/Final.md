@@ -1,3 +1,8 @@
+---
+type: list
+topic: school
+---
+
 * over everything in semester
 * Have to bring KSU ID
 * Can only use the specified calculator

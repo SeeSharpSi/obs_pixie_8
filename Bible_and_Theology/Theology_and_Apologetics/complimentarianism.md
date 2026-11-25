@@ -1,3 +1,8 @@
+---
+type: essay
+topic: theology
+---
+
 #bible
 
 Taking away meaning through human standards

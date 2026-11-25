@@ -1,5 +1,8 @@
 ---
 course: it4823
+type: project
+topic: school
+status: idea
 ---
 #school
 

@@ -1,5 +1,7 @@
 ---
 book: acts
+type: study
+topic: theology
 ---
 #bible
 

@@ -1,3 +1,8 @@
+---
+type: essay
+topic: theology
+---
+
 #bible
 
 # Jesus and the Father are the same 

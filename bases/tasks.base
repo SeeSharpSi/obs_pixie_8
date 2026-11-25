@@ -1,0 +1,14 @@
+filters:
+  and:
+    - 'note.type == "task"'
+views:
+  - type: table
+    name: Tasks
+    order:
+      - file.name
+      - topic
+      - status
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

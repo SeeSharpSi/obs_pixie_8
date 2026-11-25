@@ -1,5 +1,8 @@
 ---
 created: 2026-06-18
+type: project
+topic: tech
+status: idea
 ---
 Bookmark Bible verses 
 Choose Bible version in phone 

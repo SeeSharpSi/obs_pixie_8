@@ -1,5 +1,7 @@
 ---
 created: 2026-10-04
+type: essay
+topic: philosophy
 ---
 Is there correlation between being a good person and being a better artist?
 

@@ -1,5 +1,7 @@
 ---
 created: 2026-08-15
+type: journal
+topic: relationships
 ---
 
 1. Fav place ate

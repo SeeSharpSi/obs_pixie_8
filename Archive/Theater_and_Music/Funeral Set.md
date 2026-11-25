@@ -1,5 +1,7 @@
 ---
 created: 2026-07-06
+type: list
+topic: music
 ---
 
 1. Victory in Jesus 

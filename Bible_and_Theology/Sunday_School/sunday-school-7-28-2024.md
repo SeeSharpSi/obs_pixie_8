@@ -1,6 +1,8 @@
 ---
 book: ephesians
 speaker: das
+type: study
+topic: theology
 ---
 #bible
 

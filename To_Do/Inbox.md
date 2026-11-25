@@ -1,5 +1,7 @@
 ---
 created: 2026-05-19
+type: task
+topic: tech
 ---
 * System d quadlets for containers 
 * Boot c

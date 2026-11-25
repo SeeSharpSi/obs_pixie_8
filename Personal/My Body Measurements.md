@@ -1,5 +1,7 @@
 ---
 created: 2026-08-03
+type: reference
+topic: health
 ---
 
 Shoulder 16 3/4

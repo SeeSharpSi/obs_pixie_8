@@ -1,5 +1,7 @@
 ---
 created: 2026-07-04
+type: plan
+topic: personal
 ---
 * Ben Popham 
 * Mitch

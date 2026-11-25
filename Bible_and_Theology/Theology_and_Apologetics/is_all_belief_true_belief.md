@@ -1,3 +1,8 @@
+---
+type: essay
+topic: theology
+---
+
 #bible #mike #bible
 
 # John 2:23-25

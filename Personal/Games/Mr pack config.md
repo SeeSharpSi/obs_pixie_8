@@ -1,5 +1,7 @@
 ---
 created: 2026-11-05
+type: reference
+topic: games
 ---
 Lower leave falling amount 
 Render distance 

@@ -1,5 +1,7 @@
 ---
 book: ephesians
+type: study
+topic: theology
 ---
 #bible #dad
 

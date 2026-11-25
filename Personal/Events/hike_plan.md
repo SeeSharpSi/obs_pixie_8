@@ -1,3 +1,8 @@
+---
+type: plan
+topic: outdoors
+---
+
 * Friday rehearsal ends @ 8:30 
 * Go to my house
 * Make sandwiches/food (Target run?) 

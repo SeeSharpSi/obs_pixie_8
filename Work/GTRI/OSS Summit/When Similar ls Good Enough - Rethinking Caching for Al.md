@@ -1,5 +1,7 @@
 ---
 created: 2026-05-20
+type: conference
+topic: work
 ---
 ![[PXL_20260520_160137133.jpg]]
 ![[PXL_20260520_160411937.jpg]]

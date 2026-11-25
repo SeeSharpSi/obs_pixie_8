@@ -1,3 +1,8 @@
+---
+type: reference
+topic: theology
+---
+
 #bible
 
 # v 2

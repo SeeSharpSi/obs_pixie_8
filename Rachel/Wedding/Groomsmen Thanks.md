@@ -1,5 +1,7 @@
 ---
 created: 2026-08-23
+type: letter
+topic: relationships
 ---
 
 I wanted to tell you guys: thanks for help with the wedding, hanging with me before the wedding, and — most of all — standing beside me during my wedding.

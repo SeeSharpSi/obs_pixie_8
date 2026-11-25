@@ -1,5 +1,7 @@
 ---
 created: 2026-05-24
+type: plan
+topic: relationships
 ---
 # Pre-wedding 
 1. Parties 

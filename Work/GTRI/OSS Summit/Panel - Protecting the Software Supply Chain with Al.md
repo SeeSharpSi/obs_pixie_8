@@ -1,5 +1,7 @@
 ---
 created: 2026-05-18
+type: conference
+topic: work
 ---
 * Me: is it important for developers to understand the low-level of how LLMs work? If so, how low-level is good enough? 
 * "agents" are ephemeral. What does it mean for an AI to have its own ID?

@@ -1,5 +1,7 @@
 ---
 created: 2026-06-04
+type: task
+topic: personal
 ---
 - [x] ask Wes about [SecAI+](https://www.comptia.org/en-us/certifications/secai/)  
 	- "it's still on the radar" 

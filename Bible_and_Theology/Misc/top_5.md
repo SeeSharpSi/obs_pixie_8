@@ -1,3 +1,8 @@
+---
+type: list
+topic: theology
+---
+
 #bible #apologetics #ben
 
 ![[PXL_20240326_231641894~2.jpg]]

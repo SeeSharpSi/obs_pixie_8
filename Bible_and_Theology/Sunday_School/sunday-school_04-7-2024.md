@@ -1,5 +1,7 @@
 ---
 book: genesis
+type: study
+topic: theology
 ---
 #bible
 

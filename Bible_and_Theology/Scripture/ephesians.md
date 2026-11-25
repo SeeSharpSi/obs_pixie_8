@@ -1,5 +1,7 @@
 ---
 book: ephesians
+type: reference
+topic: theology
 ---
 #bible
 

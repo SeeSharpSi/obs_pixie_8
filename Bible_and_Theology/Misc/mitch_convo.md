@@ -1,6 +1,8 @@
 ---
 subject: trinity
 speaker: mitch
+type: meeting
+topic: theology
 ---
 #bible
 

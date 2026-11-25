@@ -1,5 +1,7 @@
 ---
 book: psalm
+type: reference
+topic: theology
 ---
 #bible #dad
 

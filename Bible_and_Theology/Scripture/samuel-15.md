@@ -1,3 +1,8 @@
+---
+type: reference
+topic: theology
+---
+
 #bible #me
 
 # ch. 15 

@@ -1,5 +1,8 @@
 ---
 created: 2026-05-21
+type: project
+topic: work
+status: idea
 ---
 * Take Teej's talk and write something like it for GitLab pipelines 
 	* Have ENTIRE PIPELINE live in same repo 

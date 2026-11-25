@@ -1,5 +1,8 @@
 ---
 created: 2026-07-24
+type: project
+topic: tech
+status: wip
 ---
 #wip
 

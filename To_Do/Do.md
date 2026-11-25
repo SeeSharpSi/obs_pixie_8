@@ -1,3 +1,7 @@
+---
+type: task
+---
+
 - [x] Shane ring 
 - [ ] Refactor F5 app 
 - [x] Add comment delete button GSP

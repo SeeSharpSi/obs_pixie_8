@@ -1,3 +1,8 @@
+---
+type: note
+topic: music
+---
+
 ## Act One 
 1. Village
 	* ==Belle== 

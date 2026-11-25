@@ -1,5 +1,7 @@
 ---
 created: 2026-07-02
+type: essay
+topic: theology
 ---
 #bible
 

@@ -4,6 +4,8 @@ speaker:
 - robbie
 - nathan
 - ken
+type: sermon
+topic: theology
 ---
 #bible
 

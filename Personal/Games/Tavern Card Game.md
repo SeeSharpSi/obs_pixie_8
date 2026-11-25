@@ -1,5 +1,8 @@
 ---
 created: 2026-07-21
+type: project
+topic: games
+status: wip
 ---
 #wip
 

@@ -1,3 +1,8 @@
+---
+type: meeting
+topic: theology
+---
+
 #bible
 
 My Giftings

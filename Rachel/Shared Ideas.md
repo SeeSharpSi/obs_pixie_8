@@ -1,5 +1,7 @@
 ---
 created: 2026-08-13
+type: list
+topic: relationships
 ---
 
 1. Making fun drinks 

@@ -1,3 +1,8 @@
+---
+type: plan
+topic: games
+---
+
 #board_games
 
 # Groups 

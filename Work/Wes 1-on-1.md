@@ -1,5 +1,8 @@
 ---
 created: 2026-07-07
+type: meeting
+topic: work
+status: wip
 ---
 #wip 
 

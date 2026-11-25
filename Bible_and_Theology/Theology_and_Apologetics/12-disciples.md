@@ -1,3 +1,8 @@
+---
+type: essay
+topic: theology
+---
+
 #bible
 
 # Philip

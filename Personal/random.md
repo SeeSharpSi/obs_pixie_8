@@ -1,3 +1,8 @@
+---
+type: note
+topic: personal
+---
+
 Faith has an object 
 What object is your faith in?
 

@@ -1,5 +1,7 @@
 ---
 created: 2026-11-08
+type: plan
+topic: theology
 ---
 1. Pray
 2. 2-4 Sentence Context

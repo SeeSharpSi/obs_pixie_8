@@ -1,5 +1,7 @@
 ---
 created: 2026-06-01
+type: plan
+topic: relationships
 ---
 I appreciate it; I only saw the dates in the invoice but not the times.
 

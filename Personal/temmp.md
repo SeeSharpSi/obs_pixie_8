@@ -1,3 +1,8 @@
+---
+type: note
+topic: theology
+---
+
 We have to do things to be ready in order to be ready
 2 Timothy 4:2 
 2 Timothy 3:5 - life doesn't match what they're saying

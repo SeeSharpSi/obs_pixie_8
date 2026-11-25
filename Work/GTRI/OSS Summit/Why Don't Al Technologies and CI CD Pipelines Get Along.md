@@ -1,5 +1,7 @@
 ---
 created: 2026-05-18
+type: conference
+topic: work
 ---
 * Q: should people be held accountable for the code they push in the same way whether or not they used an LLM? 
 

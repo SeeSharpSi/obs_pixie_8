@@ -1,5 +1,7 @@
 ---
 created: 2026-06-13
+type: list
+topic: relationships
 ---
 
 Rachel

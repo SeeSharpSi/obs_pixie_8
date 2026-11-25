@@ -1,5 +1,7 @@
 ---
 created: 2026-06-09
+type: list
+topic: relationships
 ---
 
 1. Mike Poreman 

@@ -1,3 +1,8 @@
+---
+type: reference
+topic: tech
+---
+
 # settings 
 "alt_thumbnail_home": "dearrow_still_images",
 "alt_thumbnail_library": "dearrow",

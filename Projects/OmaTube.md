@@ -1,5 +1,8 @@
 ---
 created: 2026-09-01
+type: project
+topic: tech
+status: idea
 ---
 
 Needed features:

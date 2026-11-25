@@ -1,5 +1,7 @@
 ---
 speaker: loleks
+type: note
+topic: music
 ---
 # Notes
 

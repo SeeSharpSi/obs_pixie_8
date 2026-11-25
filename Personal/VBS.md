@@ -1,3 +1,8 @@
+---
+type: plan
+topic: personal
+---
+
 # games 
 * Throw ball to partner, take step back 
 * 3 youngest kids taken out for relay 

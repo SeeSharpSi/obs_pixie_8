@@ -1,6 +1,8 @@
 ---
 book: james
 speaker: ray
+type: study
+topic: theology
 ---
 #bible
 

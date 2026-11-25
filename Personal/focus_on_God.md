@@ -1,3 +1,8 @@
+---
+type: journal
+topic: theology
+---
+
 # learning to focus on God 
 Dawson discernment for him and Karlyn's future 
 

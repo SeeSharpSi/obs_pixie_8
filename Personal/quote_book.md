@@ -1,3 +1,8 @@
+---
+type: list
+topic: personal
+---
+
 * I ask great things of a great God 
 	* _The Valley of Vision_, p. 9 
 * Keep your hatchet sharp, your powder dry, and never take the same route twice 

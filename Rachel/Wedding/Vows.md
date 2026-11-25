@@ -1,5 +1,7 @@
 ---
 created: 2026-08-05
+type: letter
+topic: relationships
 ---
 - I vow to lead you and our family in the ways of the Lord 
 

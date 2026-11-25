@@ -25,5 +25,9 @@
     "local-gpt:quick-access-1",
     "editor:configure-toolbar"
   ],
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "plugin-folders/",
+    "Archive/copilot/"
+  ]
 }

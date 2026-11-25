@@ -1,0 +1,16 @@
+filters:
+  and:
+    - 'note.topic == "theology"'
+views:
+  - type: table
+    name: Faith
+    order:
+      - file.name
+      - type
+      - file.mtime
+    groupBy:
+      property: note.type
+      direction: ASC
+    sort:
+      - property: file.mtime
+        direction: DESC

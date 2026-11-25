@@ -1,3 +1,8 @@
+---
+type: list
+topic: personal
+---
+
 # to watch
 * Mr. Kruger's Christmas
 * Dr. Strangelove

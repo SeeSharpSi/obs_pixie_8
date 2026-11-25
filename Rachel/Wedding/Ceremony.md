@@ -1,5 +1,7 @@
 ---
 created: 2026-07-19
+type: plan
+topic: relationships
 ---
 # General Order 
 * My dad's email

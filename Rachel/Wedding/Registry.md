@@ -1,5 +1,7 @@
 ---
 created: 2026-06-14
+type: list
+topic: relationships
 ---
 1. Food processor 
 2. Cutting boards 

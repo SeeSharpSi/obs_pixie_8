@@ -1,5 +1,7 @@
 ---
 created: 2026-06-14
+type: prayer
+topic: theology
 ---
 
 # Prayer

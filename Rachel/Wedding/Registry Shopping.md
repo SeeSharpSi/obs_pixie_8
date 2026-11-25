@@ -1,5 +1,7 @@
 ---
 created: 2026-07-01
+type: task
+topic: relationships
 ---
 - [x] air purifier 
 - [x] toaster oven 

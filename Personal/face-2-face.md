@@ -1,3 +1,8 @@
+---
+type: note
+topic: theology
+---
+
 # I have made a commitment to 
 
 

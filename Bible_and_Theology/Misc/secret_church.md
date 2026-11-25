@@ -1,3 +1,8 @@
+---
+type: essay
+topic: theology
+---
+
 #bible
 
 Why are more philosophical, "thinking" cultures farther away from God?

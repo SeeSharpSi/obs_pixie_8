@@ -1,3 +1,8 @@
+---
+type: list
+topic: finance
+---
+
 
 # monthly 
 * Apple music $10.99 

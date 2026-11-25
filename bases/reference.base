@@ -1,0 +1,18 @@
+filters:
+  or:
+    - 'note.type == "clipping"'
+    - 'note.type == "reference"'
+views:
+  - type: table
+    name: Reference
+    order:
+      - file.name
+      - topic
+      - type
+      - file.mtime
+    groupBy:
+      property: note.topic
+      direction: ASC
+    sort:
+      - property: file.mtime
+        direction: DESC

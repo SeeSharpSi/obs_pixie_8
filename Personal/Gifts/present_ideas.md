@@ -1,3 +1,8 @@
+---
+type: list
+topic: relationships
+---
+
 # Dad 
 1. Thermos for coffee 
 2. Book stand 

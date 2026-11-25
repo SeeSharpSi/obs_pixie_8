@@ -1,5 +1,7 @@
 ---
 created: 2026-05-18
+type: conference
+topic: work
 ---
 * Speed is not a substitute for judgement 
 * Talk about AI from the perspective of someone who owns the consequences 

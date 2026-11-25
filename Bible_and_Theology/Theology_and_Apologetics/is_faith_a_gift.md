@@ -1,5 +1,7 @@
 ---
 book: ephesians
+type: essay
+topic: theology
 ---
 #bible #me
 
