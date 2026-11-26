@@ -19,7 +19,7 @@ topic: theology
 	* This would cause Augustine to not be a Christian (along with many others) 
 * Catholics often misunderstand protestant views 
 	* The caricatures of [Sola Fide](https://en.wikipedia.org/wiki/Sola_fide) are just so bad 
-	* It's almost as bad as the caricatures of [[bible_notes/Topical/Sola Scriptura (Bible Notes)|Sola Scriptura]] 
+	* It's almost as bad as the caricatures of [[Faith/Bible Notes/Topical/Sola Scriptura (Bible Notes)|Sola Scriptura]] 
 * There's no problem with James 2 for a protestant 
 	* Just because James says "we are justified by faith plus works" this is at odds with a protestant position 
 * Eastern Orthodox Christians set [Theosis](https://en.wikipedia.org/wiki/Theosis_(Eastern_Christian_theology)) against and over Sola Fide. This is a category confusion; there's no reason you can't affirm both things, they aren't mutually exclusive 

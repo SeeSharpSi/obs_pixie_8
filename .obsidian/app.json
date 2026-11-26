@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "pictures",
+  "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
@@ -27,7 +27,7 @@
   ],
   "propertiesInDocument": "visible",
   "userIgnoreFilters": [
-    "plugin-folders/",
+    "System/Templates/",
     "Archive/copilot/"
   ]
 }

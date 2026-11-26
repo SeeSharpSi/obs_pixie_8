@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "plugin-folders/templ",
+  "templates_folder": "System/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "plugin-folders/templ/file-creation-templ.md.md"
+      "template": "System/Templates/file-creation-templ.md.md"
     }
   ],
   "enable_file_templates": false,

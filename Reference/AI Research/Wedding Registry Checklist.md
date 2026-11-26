@@ -9,9 +9,9 @@ topic: relationships
 
 # Wedding Registry Checklist
 **Wedding Date:** August 8, 2026
-**Fiancée:** [[Rachel/Wedding/Wedding|Rachel]]
+**Fiancée:** [[Personal/Relationships/Wedding/Wedding|Rachel]]
 
-> Compiled from existing [[Rachel/Wedding/Registry|Registry]] note, 2026 registry trends, and honeymoon plans. Items already on the old registry are checked off.
+> Compiled from existing [[Personal/Relationships/Wedding/Registry|Registry]] note, 2026 registry trends, and honeymoon plans. Items already on the old registry are checked off.
 
 ---
 
@@ -246,7 +246,7 @@ topic: relationships
 - Don't forget a **completion discount** — most platforms offer 10-20% off remaining items after the wedding
 
 ## Related Notes
-- [[Rachel/Wedding/Wedding|Wedding Plan]]
-- [[Rachel/Wedding/Registry|Original Registry]]
-- [[Rachel/Wedding/Honeymoon Plans|Honeymoon Plans]]
-- [[Rachel/Wedding/Rachel wedding gift ideas|Wedding Gift Ideas for Rachel]]
+- [[Personal/Relationships/Wedding/Wedding|Wedding Plan]]
+- [[Personal/Relationships/Wedding/Registry|Original Registry]]
+- [[Personal/Relationships/Wedding/Honeymoon Plans|Honeymoon Plans]]
+- [[Personal/Relationships/Wedding/Rachel wedding gift ideas|Wedding Gift Ideas for Rachel]]
